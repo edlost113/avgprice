@@ -12,12 +12,12 @@
   {
     "book" : "TCE 119",
     "name" : "+1 Amulet of the Devout",
-    "price" : 425
+    "price" : 1500
   },
   {
     "book" : "TCE 120",
     "name" : "+1 Arcane Grimoire",
-    "price" : 425
+    "price" : 1500
   },
   {
     "book" : "DMG 152",
@@ -30,7 +30,7 @@
     "price" : 425
   },
   {
-    "book" : "FTD 23",
+    "book" : "400",
     "name" : "+1 Dragonhide Belt",
     "price" : 1500
   },
@@ -52,7 +52,7 @@
   {
     "book" : "DMG 212",
     "name" : "+1 Wand of the War Mage",
-    "price" : 400
+    "price" : 800
   },
   {
     "book" : "DMG 213",
@@ -62,7 +62,7 @@
   {
     "book" : "TCE 119",
     "name" : "+2 All-Purpose Tool",
-    "price" : 4500
+    "price" : 5000
   },
   {
     "book" : "DMG 150",
@@ -72,12 +72,12 @@
   {
     "book" : "TCE 119",
     "name" : "+2 Amulet of the Devout",
-    "price" : 4250
+    "price" : 5000
   },
   {
     "book" : "TCE 120",
     "name" : "+2 Arcane Grimoire",
-    "price" : 4250
+    "price" : 5000
   },
   {
     "book" : "DMG 152",
@@ -112,7 +112,7 @@
   {
     "book" : "DMG 212",
     "name" : "+2 Wand of the War Mage",
-    "price" : 4000
+    "price" : 4400
   },
   {
     "book" : "DMG 213",
@@ -122,7 +122,7 @@
   {
     "book" : "TCE 119",
     "name" : "+3 All-Purpose Tool",
-    "price" : 16000
+    "price" : 20000
   },
   {
     "book" : "DMG 150",
@@ -132,12 +132,12 @@
   {
     "book" : "TCE 119",
     "name" : "+3 Amulet of the Devout",
-    "price" : 14500
+    "price" : 20000
   },
   {
     "book" : "TCE 120",
     "name" : "+3 Arcane Grimoire",
-    "price" : 14500
+    "price" : 20000
   },
   {
     "book" : "DMG 152",
@@ -172,7 +172,7 @@
   {
     "book" : "DMG 212",
     "name" : "+3 Wand of the War Mage",
-    "price" : 14000
+    "price" : 16600
   },
   {
     "book" : "DMG 213",
@@ -790,6 +790,11 @@
     "price" : 5
   },
   {
+    "book" : "",
+    "name" : "Barrier Tattoo",
+    "price" : 200
+  },
+  {
     "book" : "TGS2",
     "name" : "Bartender's Armistice",
     "price" : 500
@@ -1015,6 +1020,21 @@
     "price" : 2000
   },
   {
+    "book" : "TCE",
+    "name" : "Bloodwell Vial +1",
+    "price" : 1500
+  },
+  {
+    "book" : "TCE",
+    "name" : "Bloodwell Vial +2",
+    "price" : 5000
+  },
+  {
+    "book" : "TCE",
+    "name" : "Bloodwell Vial +3",
+    "price" : 20000
+  },
+  {
     "book" : "RoTOS",
     "name" : "Blue Dragon Mask",
     "price" : 100000
@@ -1197,7 +1217,7 @@
   {
     "book" : "DMG 156",
     "name" : "Brooch of Shielding",
-    "price" : 3938
+    "price" : 3937
   },
   {
     "book" : "DMG 156",
@@ -1622,7 +1642,7 @@
   {
     "book" : "BMT",
     "name" : "Deck of Many More Things",
-    "price" : 250000
+    "price" : 0
   },
   {
     "book" : "DMG 162-164",
@@ -2567,7 +2587,7 @@
   {
     "book" : "DMG 173",
     "name" : "Hat of Disguise",
-    "price" : 2738
+    "price" : 2737
   },
   {
     "book" : "XGE 137",
@@ -3940,6 +3960,21 @@
     "price" : 5
   },
   {
+    "book" : "TCE",
+    "name" : "Moon Sickle + 1",
+    "price" : 1500
+  },
+  {
+    "book" : "TCE",
+    "name" : "Moon Sickle + 2",
+    "price" : 5000
+  },
+  {
+    "book" : "TCE",
+    "name" : "Moon Sickle + 3",
+    "price" : 20000
+  },
+  {
     "book" : "XGE 138",
     "name" : "Moon-Touched Sword (any sword)",
     "price" : 50
@@ -4190,7 +4225,7 @@
     "price" : 1000
   },
   {
-    "book" : "DMG",
+    "book" : "60000",
     "name" : "Orcsplitter (greataxe)",
     "price" : 60000
   },
@@ -4282,7 +4317,7 @@
   {
     "book" : "DMG 184",
     "name" : "Periapt of Wound Closure",
-    "price" : 2688
+    "price" : 2687
   },
   {
     "book" : "ToA",
@@ -4855,6 +4890,21 @@
     "price" : 750
   },
   {
+    "book" : "TCE",
+    "name" : "Rhythm-Maker's Drum +1",
+    "price" : 1500
+  },
+  {
+    "book" : "TCE",
+    "name" : "Rhythm-Maker's Drum +2",
+    "price" : 5000
+  },
+  {
+    "book" : "TCE",
+    "name" : "Rhythm-Maker's Drum +3",
+    "price" : 20000
+  },
+  {
     "book" : "DMG",
     "name" : "Rifle, Automatic",
     "price" : 3000
@@ -5141,18 +5191,18 @@
   },
   {
     "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper (+1)",
-    "price" : 500
+    "name" : "Rod of the Pact Keeper +1",
+    "price" : 6250
   },
   {
     "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper (+2)",
-    "price" : 4000
+    "name" : "Rod of the Pact Keeper +2",
+    "price" : 10000
   },
   {
     "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper (+3)",
-    "price" : 17000
+    "name" : "Rod of the Pact Keeper +3",
+    "price" : 22500
   },
   {
     "book" : "SKT 236",
@@ -5237,7 +5287,7 @@
   {
     "book" : "DC",
     "name" : "Ruinstone",
-    "price" : 50000000
+    "price" : 5000
   },
   {
     "book" : "DMG 199",
@@ -6210,7 +6260,7 @@
     "price" : 12000
   },
   {
-    "book" : "DMG",
+    "book" : "51000",
     "name" : "Sword of Answering (longsword)",
     "price" : 43500
   },
@@ -6845,11 +6895,6 @@
     "price" : 4000
   },
   {
-    "book" : "BMT",
-    "name" : "Wraps of Unarmed Prowess +3",
-    "price" : 16000
-  },
-  {
     "book" : "Chains of Asmodeus",
     "name" : "Wrought-Iron Tower",
     "price" : 35000
@@ -6873,5 +6918,20 @@
     "book" : "BP:GotG",
     "name" : "Zephyr Armor",
     "price" : 4000
+  },
+  {
+    "book" : "WDH 189",
+    "name" : "adge of the Watch",
+    "price" : 3250
+  },
+  {
+    "book" : "TCE 120",
+    "name" : "stral Shard",
+    "price" : 4200
+  },
+  {
+    "book" : "GGR 177",
+    "name" : "zorius Keyrune",
+    "price" : 1000
   }
 ]
