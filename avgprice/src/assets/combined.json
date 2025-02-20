@@ -325,21 +325,6 @@
     "price" : 6000
   },
   {
-    "book" : "TCE",
-    "name" : "All-Purpose Tool +1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "All-Purpose Tool +2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "All-Purpose Tool +3",
-    "price" : 20000
-  },
-  {
     "book" : "TGS2",
     "name" : "Ambitious Medic's Box",
     "price" : 100
@@ -408,21 +393,6 @@
     "book" : "TA 206",
     "name" : "Amulet of the Black Skull",
     "price" : 500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Amulet of the Devout +1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Amulet of the Devout +2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Amulet of the Devout +3",
-    "price" : 20000
   },
   {
     "book" : "EGW",
@@ -528,21 +498,6 @@
     "book" : "EGW",
     "name" : "Arcane Cannon",
     "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Arcane Grimoire +1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Arcane Grimoire +2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Arcane Grimoire +3",
-    "price" : 20000
   },
   {
     "book" : "Lairs of Etharis",
@@ -1058,21 +1013,6 @@
     "book" : "BP:GotG",
     "name" : "Bloodshed Blade",
     "price" : 2000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +3",
-    "price" : 20000
   },
   {
     "book" : "RoTOS",
@@ -4000,21 +3940,6 @@
     "price" : 5
   },
   {
-    "book" : "TCE",
-    "name" : "Moon Sickle + 1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Moon Sickle + 2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Moon Sickle + 3",
-    "price" : 20000
-  },
-  {
     "book" : "XGE 138",
     "name" : "Moon-Touched Sword (any sword)",
     "price" : 50
@@ -4930,21 +4855,6 @@
     "price" : 750
   },
   {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +1",
-    "price" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +2",
-    "price" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +3",
-    "price" : 20000
-  },
-  {
     "book" : "DMG",
     "name" : "Rifle, Automatic",
     "price" : 3000
@@ -5243,21 +5153,6 @@
     "book" : "DMG 197",
     "name" : "Rod of the Pact Keeper (+3)",
     "price" : 17000
-  },
-  {
-    "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper +1",
-    "price" : 12000
-  },
-  {
-    "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper +2",
-    "price" : 16000
-  },
-  {
-    "book" : "DMG 197",
-    "name" : "Rod of the Pact Keeper +3",
-    "price" : 28000
   },
   {
     "book" : "SKT 236",
@@ -6768,21 +6663,6 @@
     "book" : "DMG 212",
     "name" : "Wand of Wonder",
     "price" : 2250
-  },
-  {
-    "book" : "DMG 212",
-    "name" : "Wand of the War Mage +1",
-    "price" : 1200
-  },
-  {
-    "book" : "DMG 212",
-    "name" : "Wand of the War Mage +2",
-    "price" : 4800
-  },
-  {
-    "book" : "DMG 212",
-    "name" : "Wand of the War Mage +3",
-    "price" : 19200
   },
   {
     "book" : "BP:GotG",
