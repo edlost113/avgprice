@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import { capitalize } from '../../utils'
+import { encode } from '../../utils'
 import './table.css'
 import { Data } from '../../types'
 
@@ -83,7 +84,7 @@ export const Table = ({ rows }: TableProps) => {
                 <td key={columnIndex}>{formatEntry(entry)}</td>
               ))}
               <td>
-                <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${row.name}`} target="_blank" rel="noreferrer">
+                <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(row.name)}`} target="_blank" rel="noreferrer">
                   View on DNDBeyond
                 </a>
               </td>
