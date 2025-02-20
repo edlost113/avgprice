@@ -19,7 +19,7 @@ export const Table = ({ rows }: TableProps) => {
   }
 
   const filter = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value
+    const value = event.target.value.toLowerCase()
 
     if (value) {
       setRows([ ...rows.filter(row => {
