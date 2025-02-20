@@ -11,7 +11,7 @@ const columns = [
                         </a>
     ),
   },
-  { field: "price", headerName: "Price", width: 100, 
+  { field: "priceAverage", headerName: "Price", width: 100, 
     renderCell: (params: any) => (
       <strong>
         {params.value} gp
@@ -19,6 +19,21 @@ const columns = [
     ),
   },
   { field: "book", headerName: "Book", width: 250 },  
+
+  { field: "priceSane", headerName: "Sane Price", width: 100, 
+    renderCell: (params: any) => (
+      <strong>
+        {params.value} gp
+      </strong>
+    ),
+  },
+  { field: "priceMerchant", headerName: "Merchant Price", width: 100, 
+    renderCell: (params: any) => (
+      <strong>
+        {params.value} gp
+      </strong>
+    ),
+  },
 ];
 
 function getRowId(row: any) {
@@ -35,6 +50,16 @@ function getRowId(row: any) {
             params.indexRelativeToCurrentPage % 2 === 0 ? 'even' : 'odd'
           }
           slots={{ toolbar: GridToolbar }}
+          initialState={{
+            ...rows.initialState,
+            columns: {
+              ...rows.initialState?.columns,
+              columnVisibilityModel: {
+                priceMerchant: false,
+                priceSane: false,
+              },
+            },
+          }}
           slotProps={{
             toolbar: {
               showQuickFilter: true,
