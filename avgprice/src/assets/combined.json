@@ -30,7 +30,7 @@
     "price" : "425"
   },
   {
-    "book" : "400",
+    "book" : "FTD 23",
     "name" : "+1 Dragonhide Belt",
     "price" : "1500"
   },
@@ -833,11 +833,6 @@
     "book" : "WDH",
     "name" : "Barking Box",
     "price" : "5"
-  },
-  {
-    "book" : "",
-    "name" : "Barrier Tattoo",
-    "price" : "200"
   },
   {
     "book" : "TGS2",
@@ -4270,7 +4265,7 @@
     "price" : "1000"
   },
   {
-    "book" : "60000",
+    "book" : "DMG",
     "name" : "Orcsplitter (greataxe)",
     "price" : "60000"
   },
@@ -6320,7 +6315,7 @@
     "price" : "12000"
   },
   {
-    "book" : "51000",
+    "book" : "DMG",
     "name" : "Sword of Answering (longsword)",
     "price" : "43500"
   },
