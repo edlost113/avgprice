@@ -12,7 +12,7 @@ const columns = [
     ),
   },
   { field: "priceAverage", headerName: "Price", width: 100, 
-    valueGetter: (value: any, row: any) => {
+    valueGetter: (value: any) => {
       if (value==0) {
         return 'unknown';
       }
@@ -27,7 +27,7 @@ const columns = [
   { field: "book", headerName: "Book", width: 250 },  
 
   { field: "priceSane", headerName: "Sane Price", width: 100, 
-    valueGetter: (value: any, row: any) => {
+    valueGetter: (value: any) => {
       if (value==0) {
         return 'unknown';
       }
@@ -40,7 +40,7 @@ const columns = [
     ),
   },
   { field: "priceMerchant", headerName: "Merchant Price", width: 100, 
-    valueGetter: (value: any, row: any) => {
+    valueGetter: (value: any) => {
       if (value==0) {
         return 'unknown';
       }
