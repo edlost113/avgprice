@@ -1428,27 +1428,6 @@
     "priceSane" : 2000
   },
   {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +1",
-    "priceAverage" : 1500,
-    "priceMerchant" : 1500,
-    "priceSane" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +2",
-    "priceAverage" : 5000,
-    "priceMerchant" : 5000,
-    "priceSane" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Bloodwell Vial +3",
-    "priceAverage" : 20000,
-    "priceMerchant" : 20000,
-    "priceSane" : 20000
-  },
-  {
     "book" : "RoTOS",
     "name" : "Blue Dragon Mask",
     "priceAverage" : 100000,
@@ -6846,27 +6825,6 @@
     "priceSane" : 750
   },
   {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +1",
-    "priceAverage" : 1500,
-    "priceMerchant" : 1500,
-    "priceSane" : 1500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +2",
-    "priceAverage" : 5000,
-    "priceMerchant" : 5000,
-    "priceSane" : 5000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Rhythm-Maker's Drum +3",
-    "priceAverage" : 20000,
-    "priceMerchant" : 20000,
-    "priceSane" : 20000
-  },
-  {
     "book" : "DMG",
     "name" : "Rifle, Automatic",
     "priceAverage" : 3000,
@@ -9651,13 +9609,6 @@
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
-  },
-  {
-    "book" : "BMT",
-    "name" : "Wraps of Unarmed Prowess +3",
-    "priceAverage" : 16000,
-    "priceMerchant" : 16000,
-    "priceSane" : 16000
   },
   {
     "book" : "Chains of Asmodeus",
