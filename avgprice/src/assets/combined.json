@@ -6970,6 +6970,11 @@
     "price" : "4000"
   },
   {
+    "book" : "BMT",
+    "name" : "Wraps of Unarmed Prowess +3",
+    "price" : "16000"
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Wrought-Iron Tower",
     "price" : "35000"
