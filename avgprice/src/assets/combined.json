@@ -12,12 +12,12 @@
   {
     "book" : "TCE 119",
     "name" : "+1 Amulet of the Devout",
-    "price" : 1500
+    "price" : 425
   },
   {
     "book" : "TCE 120",
     "name" : "+1 Arcane Grimoire",
-    "price" : 1500
+    "price" : 425
   },
   {
     "book" : "DMG 152",
@@ -32,7 +32,7 @@
   {
     "book" : "400",
     "name" : "+1 Dragonhide Belt",
-    "price" : 1500
+    "price" : 400
   },
   {
     "book" : "TCE 133",
@@ -62,7 +62,7 @@
   {
     "book" : "TCE 119",
     "name" : "+2 All-Purpose Tool",
-    "price" : 5000
+    "price" : 4500
   },
   {
     "book" : "DMG 150",
@@ -72,12 +72,12 @@
   {
     "book" : "TCE 119",
     "name" : "+2 Amulet of the Devout",
-    "price" : 5000
+    "price" : 4250
   },
   {
     "book" : "TCE 120",
     "name" : "+2 Arcane Grimoire",
-    "price" : 5000
+    "price" : 4250
   },
   {
     "book" : "DMG 152",
@@ -92,7 +92,7 @@
   {
     "book" : "FTD 23",
     "name" : "+2 Dragonhide Belt",
-    "price" : 5000
+    "price" : 4000
   },
   {
     "book" : "TCE 133",
@@ -122,7 +122,7 @@
   {
     "book" : "TCE 119",
     "name" : "+3 All-Purpose Tool",
-    "price" : 20000
+    "price" : 16000
   },
   {
     "book" : "DMG 150",
@@ -132,12 +132,12 @@
   {
     "book" : "TCE 119",
     "name" : "+3 Amulet of the Devout",
-    "price" : 20000
+    "price" : 14500
   },
   {
     "book" : "TCE 120",
     "name" : "+3 Arcane Grimoire",
-    "price" : 20000
+    "price" : 14500
   },
   {
     "book" : "DMG 152",
@@ -152,7 +152,7 @@
   {
     "book" : "FTD 23",
     "name" : "+3 Dragonhide Belt",
-    "price" : 20000
+    "price" : 14000
   },
   {
     "book" : "TCE 133",
@@ -297,7 +297,7 @@
   {
     "book" : "TCE 119",
     "name" : "Alchemical Compendium",
-    "price" : 2000
+    "price" : 3000
   },
   {
     "book" : "SCC",
@@ -332,7 +332,7 @@
   {
     "book" : "FTD 22",
     "name" : "Amethyst Lodestone",
-    "price" : 10000
+    "price" : 20000
   },
   {
     "book" : "DMG 150",
@@ -392,7 +392,7 @@
   {
     "book" : "TA 206",
     "name" : "Amulet of the Black Skull",
-    "price" : 500
+    "price" : 6400
   },
   {
     "book" : "EGW",
@@ -547,7 +547,7 @@
   {
     "book" : "XGE 136",
     "name" : "Armor of Gleaming (any medium or heavy)",
-    "price" : 200
+    "price" : 75
   },
   {
     "book" : "TGS2",
@@ -635,14 +635,14 @@
     "price" : 2000
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 120",
     "name" : "Astral Shard",
-    "price" : 4000
+    "price" : 4200
   },
   {
     "book" : "TCE 120",
     "name" : "Astromancy Archive",
-    "price" : 2000
+    "price" : 3300
   },
   {
     "book" : "TGS2",
@@ -652,7 +652,7 @@
   {
     "book" : "TCE 120",
     "name" : "Atlas of Endless Horizons",
-    "price" : 2000
+    "price" : 3750
   },
   {
     "book" : "TGS2",
@@ -660,9 +660,14 @@
     "price" : 10
   },
   {
+    "book" : "GGR 177",
+    "name" : "Azorius Keyrune",
+    "price" : 1000
+  },
+  {
     "book" : "WDH 189",
     "name" : "Azuredge (battleaxe)",
-    "price" : 50000
+    "price" : 53000
   },
   {
     "book" : "WDH",
@@ -710,9 +715,9 @@
     "price" : 450
   },
   {
-    "book" : "WDH",
+    "book" : "WDH 189",
     "name" : "Badge of the Watch",
-    "price" : 6000
+    "price" : 3250
   },
   {
     "book" : "TGS2",
@@ -807,7 +812,7 @@
   {
     "book" : "BGDA 223",
     "name" : "Battle Standard of Infernal Power",
-    "price" : 4000
+    "price" : 6000
   },
   {
     "book" : "TGS2",
@@ -822,12 +827,12 @@
   {
     "book" : "XGE 136",
     "name" : "Bead of Nourishment",
-    "price" : 1
+    "price" : 25
   },
   {
     "book" : "XGE 136",
     "name" : "Bead of Refreshment",
-    "price" : 1
+    "price" : 25
   },
   {
     "book" : "TGS2",
@@ -847,7 +852,7 @@
   {
     "book" : "TCE 122",
     "name" : "Bell Branch",
-    "price" : 2000
+    "price" : 750
   },
   {
     "book" : "TGS2",
@@ -917,12 +922,12 @@
   {
     "book" : "WDMM 284",
     "name" : "Black Crystal Tablet",
-    "price" : 2500
+    "price" : 90000
   },
   {
     "book" : "HDQ 94",
     "name" : "Black Dragon Mask",
-    "price" : 100000
+    "price" : 95000
   },
   {
     "book" : "JttRC",
@@ -932,7 +937,7 @@
   {
     "book" : "WDH 190",
     "name" : "Blackstaff",
-    "price" : 95500
+    "price" : 72000
   },
   {
     "book" : "BGDIA",
@@ -967,7 +972,7 @@
   {
     "book" : "WDMM 310",
     "name" : "Blast Scepter",
-    "price" : 5000
+    "price" : 9500
   },
   {
     "book" : "BMT",
@@ -992,7 +997,7 @@
   {
     "book" : "CS 221",
     "name" : "Blood Spear",
-    "price" : 8000
+    "price" : 375
   },
   {
     "book" : "IMR 94",
@@ -1042,7 +1047,7 @@
   {
     "book" : "WBW 208",
     "name" : "Bobbing Lily Pad",
-    "price" : 1500
+    "price" : 4000
   },
   {
     "book" : "DMG",
@@ -1057,7 +1062,7 @@
   {
     "book" : "TA 206",
     "name" : "Bookmark (dagger)",
-    "price" : 20000
+    "price" : 30000
   },
   {
     "book" : "BMT",
@@ -1072,7 +1077,7 @@
   {
     "book" : "XGE 136",
     "name" : "Boots of False Tracks",
-    "price" : 200
+    "price" : 60
   },
   {
     "book" : "PUN",
@@ -1112,7 +1117,7 @@
   {
     "book" : "SCC 38",
     "name" : "Bottle of Boundless Coffee",
-    "price" : 10
+    "price" : 50
   },
   {
     "book" : "PA 222",
@@ -1147,7 +1152,7 @@
   {
     "book" : "WDH 190",
     "name" : "Bracer of Flying Daggers",
-    "price" : 500
+    "price" : 1000
   },
   {
     "book" : "DMG 156",
@@ -1242,7 +1247,7 @@
   {
     "book" : "XGE 136",
     "name" : "Candle of the Deep",
-    "price" : 200
+    "price" : 50
   },
   {
     "book" : "Chains of Asmodeus",
@@ -1287,7 +1292,7 @@
   {
     "book" : "XGE 136",
     "name" : "Cast-Off Armor (light medium or heavy)",
-    "price" : 200
+    "price" : 50
   },
   {
     "book" : "SCC",
@@ -1297,12 +1302,12 @@
   {
     "book" : "IDRF 314",
     "name" : "Cauldron of Plenty",
-    "price" : 50
+    "price" : 3500
   },
   {
     "book" : "TCE 122-123",
     "name" : "Cauldron of Rebirth",
-    "price" : 100000
+    "price" : 10000
   },
   {
     "book" : "DMG 158",
@@ -1317,7 +1322,7 @@
   {
     "book" : "XGE 136",
     "name" : "Charlatan's Die",
-    "price" : 1000
+    "price" : 80
   },
   {
     "book" : "GS 229",
@@ -1347,7 +1352,7 @@
   {
     "book" : "WBW 208",
     "name" : "Chromatic Rose",
-    "price" : 100
+    "price" : 500
   },
   {
     "book" : "AI",
@@ -1362,7 +1367,7 @@
   {
     "book" : "WDMM 30",
     "name" : "Circlet of Human Perfection",
-    "price" : 50
+    "price" : 200
   },
   {
     "book" : "SKT 233",
@@ -1407,7 +1412,7 @@
   {
     "book" : "XGE 136; WBW 208",
     "name" : "Cloak of Many Fashions",
-    "price" : 100
+    "price" : 90
   },
   {
     "book" : "DMG 159",
@@ -1427,7 +1432,7 @@
   {
     "book" : "XGE 137",
     "name" : "Clockwork Amulet",
-    "price" : 500
+    "price" : 100
   },
   {
     "book" : "BMT",
@@ -1437,7 +1442,7 @@
   {
     "book" : "XGE 137",
     "name" : "Clothes of Mending",
-    "price" : 100
+    "price" : 50
   },
   {
     "book" : "Lairs of Etharis",
@@ -1537,7 +1542,7 @@
   {
     "book" : "TCE 124-125",
     "name" : "Crystalline Chronicle",
-    "price" : 25000
+    "price" : 6500
   },
   {
     "book" : "DMG 159-160",
@@ -1552,7 +1557,7 @@
   {
     "book" : "SCC 38",
     "name" : "Cuddly Strixhaven Mascot",
-    "price" : 5
+    "price" : 100
   },
   {
     "book" : "GS 229",
@@ -1617,12 +1622,12 @@
   {
     "book" : "XGE 137",
     "name" : "Dark Shard Amulet",
-    "price" : 300
+    "price" : 75
   },
   {
     "book" : "OA 222",
     "name" : "Dawnbringer (longsword)",
-    "price" : 10000
+    "price" : 57000
   },
   {
     "book" : "DMG 161",
@@ -1747,7 +1752,7 @@
   {
     "book" : "TCE 126",
     "name" : "Devotee's Censer (flail)",
-    "price" : 4000
+    "price" : 4500
   },
   {
     "book" : "AI",
@@ -1782,7 +1787,7 @@
   {
     "book" : "WDMM 174",
     "name" : "Dodecahedron of Doom",
-    "price" : 1000
+    "price" : 750
   },
   {
     "book" : "BMT",
@@ -1832,7 +1837,7 @@
   {
     "book" : "FTD 23",
     "name" : "Dragon Wing Bow (any bow)",
-    "price" : 2000
+    "price" : 4000
   },
   {
     "book" : "FTD 25",
@@ -1882,12 +1887,12 @@
   {
     "book" : "LMP 48",
     "name" : "Dragonguard (breastplate)",
-    "price" : 2000
+    "price" : 4000
   },
   {
     "book" : "FTD 23",
     "name" : "Dragonlance",
-    "price" : 18000
+    "price" : 25000
   },
   {
     "book" : "WDH",
@@ -1902,12 +1907,12 @@
   {
     "book" : "RT 93",
     "name" : "Dragontooth Dagger",
-    "price" : 8000
+    "price" : 5000
   },
   {
     "book" : "XGE 137; WBW 208",
     "name" : "Dread Helm",
-    "price" : 100
+    "price" : 55
   },
   {
     "book" : "BMT",
@@ -1937,7 +1942,7 @@
   {
     "book" : "WBW 209",
     "name" : "Dust of Corrosion",
-    "price" : 500
+    "price" : 150
   },
   {
     "book" : "EGW",
@@ -1992,7 +1997,7 @@
   {
     "book" : "XGE 137",
     "name" : "Ear Horn of Hearing",
-    "price" : 200
+    "price" : 75
   },
   {
     "book" : "CRCotN",
@@ -2032,7 +2037,7 @@
   {
     "book" : "WBW 209",
     "name" : "Eldritch Staff",
-    "price" : 20000
+    "price" : 2000
   },
   {
     "book" : "TCE 127",
@@ -2062,7 +2067,7 @@
   {
     "book" : "FTD 23",
     "name" : "Emerald Pen",
-    "price" : 50
+    "price" : 250
   },
   {
     "book" : "XGE 137",
@@ -2082,7 +2087,7 @@
   {
     "book" : "XGE 137",
     "name" : "Ersatz Eye",
-    "price" : 100
+    "price" : 75
   },
   {
     "book" : "BMT",
@@ -2137,7 +2142,7 @@
   {
     "book" : "BGDA 223",
     "name" : "Fane-Eater (battleaxe)",
-    "price" : 40000
+    "price" : 55000
   },
   {
     "book" : "AI",
@@ -2182,7 +2187,7 @@
   {
     "book" : "WDH 191",
     "name" : "Feather of Diatryma Summoning",
-    "price" : 500
+    "price" : 600
   },
   {
     "book" : "Humblewood Campaign Setting",
@@ -2192,7 +2197,7 @@
   {
     "book" : "TCE 127",
     "name" : "Feywild Shard",
-    "price" : 4000
+    "price" : 250
   },
   {
     "book" : "BMT",
@@ -2257,7 +2262,7 @@
   {
     "book" : "FTD 23",
     "name" : "Flail of Tiamat (flail)",
-    "price" : 40000
+    "price" : 70000
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -2277,7 +2282,7 @@
   {
     "book" : "MOT 196",
     "name" : "Flying Chariot",
-    "price" : 12000
+    "price" : 4750
   },
   {
     "book" : "DSDQ",
@@ -2322,7 +2327,7 @@
   {
     "book" : "BGDA 223",
     "name" : "Gauntlets of Flaming Fury",
-    "price" : 20000
+    "price" : 2000
   },
   {
     "book" : "DMG 171",
@@ -2352,7 +2357,7 @@
   {
     "book" : "TA 206",
     "name" : "Ghost Lantern",
-    "price" : 1000
+    "price" : 1750
   },
   {
     "book" : "TCE 128",
@@ -2437,7 +2442,7 @@
   {
     "book" : "FTD 23",
     "name" : "Gold Canary Figurine of Wondrous Power",
-    "price" : 13000
+    "price" : 55000
   },
   {
     "book" : "DMG 169",
@@ -2522,7 +2527,7 @@
   {
     "book" : "TCE 128",
     "name" : "Guardian Emblem",
-    "price" : 2000
+    "price" : 300
   },
   {
     "book" : "GGR 173",
@@ -2532,12 +2537,12 @@
   {
     "book" : "GGR 178",
     "name" : "Guild Signet",
-    "price" : 1500
+    "price" : 350
   },
   {
     "book" : "CS 221",
     "name" : "Gulthias Staff",
-    "price" : 1000
+    "price" : 2200
   },
   {
     "book" : "DMG",
@@ -2592,12 +2597,12 @@
   {
     "book" : "XGE 137",
     "name" : "Hat of Vermin",
-    "price" : 150
+    "price" : 65
   },
   {
     "book" : "XGE 137",
     "name" : "Hat of Wizardry",
-    "price" : 300
+    "price" : 75
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -2607,7 +2612,7 @@
   {
     "book" : "HDQ 94",
     "name" : "Hazirawn (greatsword)",
-    "price" : 10000
+    "price" : 66000
   },
   {
     "book" : "DMG 173",
@@ -2617,7 +2622,7 @@
   {
     "book" : "TCE 128-129",
     "name" : "Heart Weaver's Primer",
-    "price" : 2000
+    "price" : 3000
   },
   {
     "book" : "TYP 228",
@@ -2627,7 +2632,7 @@
   {
     "book" : "BGDA 223",
     "name" : "Hellfire Weapon",
-    "price" : 50
+    "price" : 500
   },
   {
     "book" : "DMG 173",
@@ -2647,7 +2652,7 @@
   {
     "book" : "BGDA 223",
     "name" : "Helm of Devil Command",
-    "price" : 5000
+    "price" : 21500
   },
   {
     "book" : "D&D Beyond",
@@ -2682,12 +2687,12 @@
   {
     "book" : "MOT 196",
     "name" : "Helm of the Gods",
-    "price" : 7500
+    "price" : 1200
   },
   {
     "book" : "WDMM 297",
     "name" : "Helm of the Scavenger",
-    "price" : 5000
+    "price" : 175000
   },
   {
     "book" : "QftIS",
@@ -2697,7 +2702,7 @@
   {
     "book" : "LMP",
     "name" : "Hew (battleaxe)",
-    "price" : 2000
+    "price" : 800
   },
   {
     "book" : "DMG 174",
@@ -2707,12 +2712,12 @@
   {
     "book" : "XGE 137",
     "name" : "Heward's Handy Spice Pouch",
-    "price" : 2000
+    "price" : 100
   },
   {
     "book" : "LLK 55",
     "name" : "Heward’s Hireling Armor (leather)",
-    "price" : 2000
+    "price" : 7000
   },
   {
     "book" : "EGW",
@@ -2742,12 +2747,12 @@
   {
     "book" : "CS 222",
     "name" : "Holy Symbol of Ravenkind",
-    "price" : 2000
+    "price" : 51000
   },
   {
     "book" : "IDRF 314",
     "name" : "Hook of Fisher's Delight",
-    "price" : 500
+    "price" : 550
   },
   {
     "book" : "OoTA",
@@ -2772,7 +2777,7 @@
   {
     "book" : "XGE 137",
     "name" : "Horn of Silent Alarm",
-    "price" : 100
+    "price" : 85
   },
   {
     "book" : "DMG 175",
@@ -2797,7 +2802,7 @@
   {
     "book" : "WDMM 310",
     "name" : "Horned Ring",
-    "price" : 50
+    "price" : 10000
   },
   {
     "book" : "DMG 175",
@@ -2827,7 +2832,7 @@
   {
     "book" : "CS 222",
     "name" : "Icon of Ravenloft",
-    "price" : 10000
+    "price" : 50500
   },
   {
     "book" : "WDW",
@@ -2862,7 +2867,7 @@
   {
     "book" : "GGR 178",
     "name" : "Illusionist's Bracers",
-    "price" : 15000
+    "price" : 13500
   },
   {
     "book" : "ERLW 277",
@@ -2887,7 +2892,7 @@
   {
     "book" : "BGDA 224",
     "name" : "Infernal Puzzle Box",
-    "price" : 500
+    "price" : 3500
   },
   {
     "book" : "BGDA 224",
@@ -2922,7 +2927,7 @@
   {
     "book" : "HDQ 94",
     "name" : "Insignia of Claws",
-    "price" : 1000
+    "price" : 450
   },
   {
     "book" : "XGE 137",
@@ -2932,7 +2937,7 @@
   {
     "book" : "XGE 138; WBW211",
     "name" : "Instrument of Scribing",
-    "price" : 100
+    "price" : 80
   },
   {
     "book" : "DMG 176",
@@ -3357,7 +3362,7 @@
   {
     "book" : "WDH 191",
     "name" : "Knave's Eye Patch",
-    "price" : 500
+    "price" : 2000
   },
   {
     "book" : "Chains of Asmodeus",
@@ -3392,7 +3397,7 @@
   {
     "book" : "IDRF 314-315",
     "name" : "Lantern of Tracking",
-    "price" : 25
+    "price" : 75
   },
   {
     "book" : "DMG",
@@ -3462,7 +3467,7 @@
   {
     "book" : "LMP 48",
     "name" : "Lightbringer (mace)",
-    "price" : 2000
+    "price" : 1600
   },
   {
     "book" : "Lairs of Etharis",
@@ -3507,12 +3512,12 @@
   {
     "book" : "WDH 191",
     "name" : "Lord's Ensemble",
-    "price" : 3000
+    "price" : 5000
   },
   {
     "book" : "SCC 39",
     "name" : "Lorehold Primer",
-    "price" : 500
+    "price" : 300
   },
   {
     "book" : "PA 223-224",
@@ -3757,7 +3762,7 @@
   {
     "book" : "BGDA 224",
     "name" : "Matalotok (warhammer)",
-    "price" : 30000
+    "price" : 70000
   },
   {
     "book" : "WDH",
@@ -3917,7 +3922,7 @@
   {
     "book" : "GGR 179",
     "name" : "Mizzium Apparatus",
-    "price" : 1300
+    "price" : 500
   },
   {
     "book" : "GGR 179",
@@ -3957,7 +3962,7 @@
   {
     "book" : "GGR 180",
     "name" : "Moodmark Paint",
-    "price" : 5
+    "price" : 50
   },
   {
     "book" : "TCE",
@@ -3977,7 +3982,7 @@
   {
     "book" : "XGE 138",
     "name" : "Moon-Touched Sword (any sword)",
-    "price" : 50
+    "price" : 75
   },
   {
     "book" : "IMR 94",
@@ -4002,7 +4007,7 @@
   {
     "book" : "XGE 138",
     "name" : "Mystery Key",
-    "price" : 5
+    "price" : 50
   },
   {
     "book" : "DSDQ",
@@ -4012,7 +4017,7 @@
   {
     "book" : "TCE 133",
     "name" : "Nature's Mantle",
-    "price" : 2000
+    "price" : 325
   },
   {
     "book" : "SKT 235",
@@ -4142,7 +4147,7 @@
   {
     "book" : "BGDA 224",
     "name" : "Obsidian Flint Dragon Plate",
-    "price" : 8000
+    "price" : 27000
   },
   {
     "book" : "DMG 170",
@@ -4187,7 +4192,7 @@
   {
     "book" : "XGE 138; WBW 212",
     "name" : "Orb of Direction",
-    "price" : 20
+    "price" : 50
   },
   {
     "book" : "WDMM 174",
@@ -4207,7 +4212,7 @@
   {
     "book" : "XGE 138",
     "name" : "Orb of Time",
-    "price" : 20
+    "price" : 50
   },
   {
     "book" : "SKT 235",
@@ -4242,7 +4247,7 @@
   {
     "book" : "WBW 212",
     "name" : "Ornithopter of Flying",
-    "price" : 7000
+    "price" : 3500
   },
   {
     "book" : "GGR 178",
@@ -4252,7 +4257,7 @@
   {
     "book" : "TCE 133-134",
     "name" : "Outer Essence Shard",
-    "price" : 4000
+    "price" : 2000
   },
   {
     "book" : "WDH",
@@ -4262,7 +4267,7 @@
   {
     "book" : "WDH 191; IMR 94",
     "name" : "Paper Bird",
-    "price" : 25
+    "price" : 350
   },
   {
     "book" : "QftIS",
@@ -4272,7 +4277,7 @@
   {
     "book" : "GGR 180",
     "name" : "Pariah's Shield",
-    "price" : 10000
+    "price" : 1500
   },
   {
     "book" : "DMG 184",
@@ -4302,7 +4307,7 @@
   {
     "book" : "XGE 138",
     "name" : "Perfume of Bewitching",
-    "price" : 10
+    "price" : 75
   },
   {
     "book" : "DMG 184",
@@ -4392,22 +4397,22 @@
   {
     "book" : "OA 222",
     "name" : "Piwafwi (Cloak of Elvenkind)",
-    "price" : 3500
+    "price" : 200
   },
   {
     "book" : "OA 222",
     "name" : "Piwafwi of Fire Resistance",
-    "price" : 6000
+    "price" : 1400
   },
   {
     "book" : "WBW 212",
     "name" : "Pixie Dust",
-    "price" : 250
+    "price" : 1000
   },
   {
     "book" : "TCE 134",
     "name" : "Planecaller's Codex",
-    "price" : 2000
+    "price" : 3500
   },
   {
     "book" : "DMG 185",
@@ -4422,17 +4427,17 @@
   {
     "book" : "FTD 24",
     "name" : "Platinum Scarf",
-    "price" : 30000
+    "price" : 20000
   },
   {
     "book" : "XGE 138",
     "name" : "Pole of Angling",
-    "price" : 20
+    "price" : 50
   },
   {
     "book" : "XGE 138; WBW 212",
     "name" : "Pole of Collapsing",
-    "price" : 10
+    "price" : 55
   },
   {
     "book" : "LLK 56",
@@ -4457,12 +4462,12 @@
   {
     "book" : "XGE 138; IMR 95",
     "name" : "Pot of Awakening",
-    "price" : 30
+    "price" : 85
   },
   {
     "book" : "WBW 212",
     "name" : "Potion of Advantage",
-    "price" : 100
+    "price" : 125
   },
   {
     "book" : "DMG 187",
@@ -4471,8 +4476,8 @@
   },
   {
     "book" : "MOT 197",
-    "name" : "Potion of Aqueous Form",
-    "price" : 300
+    "name" : "Potion of Aqueous Form ",
+    "price" : 1000
   },
   {
     "book" : "DMG 187",
@@ -4487,7 +4492,7 @@
   {
     "book" : "WDMM 62",
     "name" : "Potion of Comprehension",
-    "price" : 70
+    "price" : 25
   },
   {
     "book" : "DMG 187",
@@ -4667,7 +4672,7 @@
   {
     "book" : "WDMM 62",
     "name" : "Potion of Watchful Rest",
-    "price" : 50
+    "price" : 35
   },
   {
     "book" : "DMG 188",
@@ -4687,7 +4692,7 @@
   {
     "book" : "LLK 56",
     "name" : "Powered Armor (plate)",
-    "price" : 10000
+    "price" : 30000
   },
   {
     "book" : "DMG 182",
@@ -4727,12 +4732,12 @@
   {
     "book" : "SCC 39",
     "name" : "Prismari Primer",
-    "price" : 500
+    "price" : 300
   },
   {
     "book" : "IDRF 315",
     "name" : "Professor Orb",
-    "price" : 50
+    "price" : 4000
   },
   {
     "book" : "IDRotF",
@@ -4742,7 +4747,7 @@
   {
     "book" : "WDMM 251",
     "name" : "Propeller Helm",
-    "price" : 750
+    "price" : 250
   },
   {
     "book" : "ERLW 278; TCE 134",
@@ -4757,7 +4762,7 @@
   {
     "book" : "IDRF 315",
     "name" : "Psi Crystal",
-    "price" : 800
+    "price" : 500
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -4772,12 +4777,12 @@
   {
     "book" : "GGR 180",
     "name" : "Pyroconverger",
-    "price" : 50
+    "price" : 250
   },
   {
     "book" : "MOT 197",
     "name" : "Pyxis of Pandemonium",
-    "price" : 10000
+    "price" : 25000
   },
   {
     "book" : "DMG 188-189",
@@ -4812,7 +4817,7 @@
   {
     "book" : "SCC 39",
     "name" : "Quandrix Primer",
-    "price" : 500
+    "price" : 300
   },
   {
     "book" : "DMG 189",
@@ -4832,7 +4837,7 @@
   {
     "book" : "GGR 180",
     "name" : "Rakdos Riteknife (dagger)",
-    "price" : 18000
+    "price" : 60000
   },
   {
     "book" : "Chains of Asmodeus",
@@ -5057,7 +5062,7 @@
   {
     "book" : "WDH 192",
     "name" : "Ring of Truth Telling",
-    "price" : 100
+    "price" : 150
   },
   {
     "book" : "DMG 193",
@@ -5227,7 +5232,7 @@
   {
     "book" : "XGE 138",
     "name" : "Rope of Mending",
-    "price" : 15
+    "price" : 50
   },
   {
     "book" : "AI",
@@ -5242,12 +5247,12 @@
   {
     "book" : "FTD 24",
     "name" : "Ruby Weave Gem",
-    "price" : 50000
+    "price" : 30000
   },
   {
     "book" : "XGE 138",
     "name" : "Ruby of the War Mage",
-    "price" : 50
+    "price" : 100
   },
   {
     "book" : "CRCotN",
@@ -5347,7 +5352,7 @@
   {
     "book" : "FTD 24",
     "name" : "Sapphire Buckler",
-    "price" : 24000
+    "price" : 9000
   },
   {
     "book" : "FTD 27",
@@ -5387,12 +5392,12 @@
   {
     "book" : "WBW 213",
     "name" : "Scissors of Shadow Snipping",
-    "price" : 2000
+    "price" : 750
   },
   {
     "book" : "TA 208",
     "name" : "Scorpion Armor (plate)",
-    "price" : 3000
+    "price" : 2100
   },
   {
     "book" : "Chains of Asmodeus",
@@ -5412,12 +5417,12 @@
   {
     "book" : "IDRF 315",
     "name" : "Scroll of Tarrasque Summoning",
-    "price" : 20000
+    "price" : 150000
   },
   {
     "book" : "IDRF 315-316",
     "name" : "Scroll of the Comet",
-    "price" : 50000
+    "price" : 250000
   },
   {
     "book" : "PA 223",
@@ -5437,7 +5442,7 @@
   {
     "book" : "DMG 199",
     "name" : "Sending Stones",
-    "price" : 1000
+    "price" : 1250
   },
   {
     "book" : "PAitM",
@@ -5472,7 +5477,7 @@
   {
     "book" : "TCE 135",
     "name" : "Shadowfell Shard",
-    "price" : 4000
+    "price" : 600
   },
   {
     "book" : "KGV",
@@ -5527,7 +5532,7 @@
   {
     "book" : "XGE 139",
     "name" : "Shield of Expression",
-    "price" : 100
+    "price" : 50
   },
   {
     "book" : "VGM 81",
@@ -5552,7 +5557,7 @@
   {
     "book" : "BGDA 225",
     "name" : "Shield of the Hidden Lord",
-    "price" : 23000
+    "price" : 86000
   },
   {
     "book" : "BMT",
@@ -5562,7 +5567,7 @@
   {
     "book" : "WDMM 299",
     "name" : "Shield of the Uven Rune",
-    "price" : 6000
+    "price" : 11000
   },
   {
     "book" : "ERLW 279",
@@ -5612,7 +5617,7 @@
   {
     "book" : "SCC 39",
     "name" : "Silverquill Primer",
-    "price" : 500
+    "price" : 300
   },
   {
     "book" : "GGR 178",
@@ -5622,7 +5627,7 @@
   {
     "book" : "MOT 198",
     "name" : "Siren Song Lyre",
-    "price" : 1000
+    "price" : 650
   },
   {
     "book" : "SKT 234",
@@ -5647,7 +5652,7 @@
   {
     "book" : "GGR 181",
     "name" : "Skyblinder Staff",
-    "price" : 100
+    "price" : 375
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -5666,8 +5671,8 @@
   },
   {
     "book" : "MOT 198",
-    "name" : "Sling Bullets of Althemone",
-    "price" : 15000
+    "name" : "Sling Bullets of Althemone ",
+    "price" : 5500
   },
   {
     "book" : "BMT",
@@ -5702,22 +5707,22 @@
   {
     "book" : "WDH 192",
     "name" : "Smokepowder",
-    "price" : 10
+    "price" : 325
   },
   {
     "book" : "XGE 139",
     "name" : "Smoldering Armor (light medium or heavy)",
-    "price" : 100
+    "price" : 75
   },
   {
     "book" : "WBW 213",
     "name" : "Snicker-Snack (greatsword)",
-    "price" : 24000
+    "price" : 80000
   },
   {
     "book" : "BGDA 225",
     "name" : "Soul Coin",
-    "price" : 2000
+    "price" : 250
   },
   {
     "book" : "Chains of Asmodeus",
@@ -5957,12 +5962,12 @@
   {
     "book" : "LMP 53",
     "name" : "Spider Staff",
-    "price" : 4000
+    "price" : 1750
   },
   {
     "book" : "GGR 181",
     "name" : "Spies' Murmur",
-    "price" : 2000
+    "price" : 475
   },
   {
     "book" : "BMT",
@@ -5982,12 +5987,12 @@
   {
     "book" : "XGE 139",
     "name" : "Staff of Adornment",
-    "price" : 20
+    "price" : 50
   },
   {
     "book" : "XGE 139",
     "name" : "Staff of Birdcalls",
-    "price" : 20
+    "price" : 70
   },
   {
     "book" : "DMG 201",
@@ -6002,7 +6007,7 @@
   {
     "book" : "LMP 53",
     "name" : "Staff of Defense",
-    "price" : 2000
+    "price" : 3400
   },
   {
     "book" : "EGW",
@@ -6022,7 +6027,7 @@
   {
     "book" : "XGE 139",
     "name" : "Staff of Flowers",
-    "price" : 20
+    "price" : 50
   },
   {
     "book" : "DMG 202",
@@ -6122,7 +6127,7 @@
   {
     "book" : "WBW 214",
     "name" : "Steel (longsword)",
-    "price" : 6000
+    "price" : 6500
   },
   {
     "book" : "SKT 235",
@@ -6252,12 +6257,12 @@
   {
     "book" : "GGR 181",
     "name" : "Sunforger (warhammer)",
-    "price" : 3000
+    "price" : 4600
   },
   {
     "book" : "CS 223",
     "name" : "Sunsword (longsword)",
-    "price" : 12000
+    "price" : 55000
   },
   {
     "book" : "51000",
@@ -6302,7 +6307,7 @@
   {
     "book" : "GGR 181",
     "name" : "Sword of the Paruns (longsword)",
-    "price" : 6000
+    "price" : 16000
   },
   {
     "book" : "BMT",
@@ -6332,7 +6337,7 @@
   {
     "book" : "XGE 139; WBW 214",
     "name" : "Talking Doll",
-    "price" : 30
+    "price" : 75
   },
   {
     "book" : "WDMM",
@@ -6342,12 +6347,12 @@
   {
     "book" : "HDQ 74",
     "name" : "Tankard of Plenty",
-    "price" : 10
+    "price" : 25
   },
   {
     "book" : "XGE 139",
     "name" : "Tankard of Sobriety",
-    "price" : 10
+    "price" : 80
   },
   {
     "book" : "DILCT",
@@ -6397,7 +6402,7 @@
   {
     "book" : "IDRF 317",
     "name" : "The Incantations of Iriolarthas",
-    "price" : 500
+    "price" : 100000
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -6407,7 +6412,7 @@
   {
     "book" : "IDRF 316",
     "name" : "Thermal Cube",
-    "price" : 100
+    "price" : 50
   },
   {
     "book" : "IMR 95",
@@ -6452,7 +6457,7 @@
   {
     "book" : "FTD 24",
     "name" : "Topaz Annihilator (firearm)",
-    "price" : 10000
+    "price" : 12000
   },
   {
     "book" : "AI",
@@ -6477,12 +6482,12 @@
   {
     "book" : "MOT 198",
     "name" : "Two-Birds Sling",
-    "price" : 1500
+    "price" : 4000
   },
   {
     "book" : "XGE 139",
-    "name" : "Unbreakable Arrow (arrow)",
-    "price" : 1
+    "name" : "Unbreakable Arrow (arrow) ",
+    "price" : 25
   },
   {
     "book" : "DMG 209",
@@ -6517,7 +6522,7 @@
   {
     "book" : "XGE 139",
     "name" : "Veteran's Cane",
-    "price" : 45
+    "price" : 50
   },
   {
     "book" : "Chains of Asmodeus",
@@ -6582,7 +6587,7 @@
   {
     "book" : "GGR 181",
     "name" : "Voyager Staff",
-    "price" : 90000
+    "price" : 10500
   },
   {
     "book" : "FTD",
@@ -6606,8 +6611,8 @@
   },
   {
     "book" : "XGE 139",
-    "name" : "Walloping Ammunition (any)",
-    "price" : 5
+    "name" : "Walloping Ammunition (any) ",
+    "price" : 30
   },
   {
     "book" : "ERLW 279",
@@ -6622,7 +6627,7 @@
   {
     "book" : "XGE 140",
     "name" : "Wand of Conducting",
-    "price" : 25
+    "price" : 90
   },
   {
     "book" : "DMG 210",
@@ -6672,12 +6677,12 @@
   {
     "book" : "XGE 140",
     "name" : "Wand of Pyrotechnics",
-    "price" : 25
+    "price" : 65
   },
   {
     "book" : "XGE 140; WBW 214",
     "name" : "Wand of Scowls",
-    "price" : 25
+    "price" : 60
   },
   {
     "book" : "DMG 211",
@@ -6692,7 +6697,7 @@
   {
     "book" : "XGE 140; WBW 214",
     "name" : "Wand of Smiles",
-    "price" : 25
+    "price" : 60
   },
   {
     "book" : "OA 223",
@@ -6707,7 +6712,7 @@
   {
     "book" : "HDQ 94",
     "name" : "Wand of Winter",
-    "price" : 2000
+    "price" : 4100
   },
   {
     "book" : "DMG 212",
@@ -6872,7 +6877,7 @@
   {
     "book" : "SCC 39",
     "name" : "Witherbloom Primer",
-    "price" : 500
+    "price" : 300
   },
   {
     "book" : "WBW 214",
@@ -6912,26 +6917,11 @@
   {
     "book" : "IDRF 316",
     "name" : "Ythryn Mythallar",
-    "price" : 20000
+    "price" : 200000
   },
   {
     "book" : "BP:GotG",
     "name" : "Zephyr Armor",
     "price" : 4000
-  },
-  {
-    "book" : "WDH 189",
-    "name" : "adge of the Watch",
-    "price" : 3250
-  },
-  {
-    "book" : "TCE 120",
-    "name" : "stral Shard",
-    "price" : 4200
-  },
-  {
-    "book" : "GGR 177",
-    "name" : "zorius Keyrune",
-    "price" : 1000
   }
 ]
