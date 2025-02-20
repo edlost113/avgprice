@@ -6993,20 +6993,5 @@
     "book" : "BP:GotG",
     "name" : "Zephyr Armor",
     "price" : "4000"
-  },
-  {
-    "book" : "WDH 189",
-    "name" : "adge of the Watch",
-    "price" : "3250"
-  },
-  {
-    "book" : "TCE 120",
-    "name" : "stral Shard",
-    "price" : "4200"
-  },
-  {
-    "book" : "GGR 177",
-    "name" : "zorius Keyrune",
-    "price" : "1000"
   }
 ]
