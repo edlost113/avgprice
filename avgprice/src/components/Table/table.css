@@ -1,5 +1,7 @@
 table {
     width: 100%;
+    position: absolute;
+    top: 30px;
     border-collapse: collapse;
   }
   
@@ -30,6 +32,8 @@ table {
   
   .controls {
     display: flex;
+    position: absolute;
+    top:0px;
   }
   
   input,
