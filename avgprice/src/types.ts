@@ -1,7 +1,5 @@
 export type Data = {
+    book: string
     name: string
-    ps: string
-    pm: string
-    pa: string
-    bp: string
+    price: string
 }[]
