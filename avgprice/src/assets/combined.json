@@ -385,6 +385,13 @@
     "priceSane" : 3000
   },
   {
+    "book" : "TGS2",
+    "name" : "Adventuring Gear, Poison",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Adze of Annam",
     "priceAverage" : 150000,
@@ -1309,6 +1316,13 @@
     "priceSane" : 72000
   },
   {
+    "book" : "TGS2",
+    "name" : "Blackthorn Spear of the Moonless Hunter",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BGDIA",
     "name" : "Blade of Avernus",
     "priceAverage" : 50000,
@@ -1386,6 +1400,13 @@
     "priceSane" : 32000
   },
   {
+    "book" : "TGS2",
+    "name" : "Blood Moon Blade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CS 221",
     "name" : "Blood Spear",
     "priceAverage" : 375,
@@ -1407,6 +1428,34 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Bloodhound Amulet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloodmire Phiale",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloodmire Rod of the Witch Doctor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloodmire Soulflame Lantern",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Bloodrage Greataxe",
     "priceAverage" : 2000,
@@ -1421,11 +1470,53 @@
     "priceSane" : 10
   },
   {
+    "book" : "TGS2",
+    "name" : "Bloodshard Trident",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Bloodshed Blade",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloodthirster Scimitar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloodthirsty Bistoury",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloody Marilith",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloody Marilith (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bloody Marilith (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "RoTOS",
@@ -1447,6 +1538,27 @@
     "priceAverage" : 150,
     "priceMerchant" : 150,
     "priceSane" : 150
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bonfire Charm",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Book of Clothier's Croquis",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Book of Instant Copying",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "KGV",
@@ -1554,6 +1666,13 @@
     "priceSane" : 600
   },
   {
+    "book" : "TGS2",
+    "name" : "Bounder's Ball",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Bow of Conflagration",
     "priceAverage" : 1000,
@@ -1566,6 +1685,34 @@
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
     "priceSane" : 10000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bow of the Cobra",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bow of the Eldritch Archer",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bow of the Spelldrinker",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bow of the Twilight Valkyrie",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 156",
@@ -1617,11 +1764,32 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Bracers of the Iron Octopus",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bramble Buckler",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 175",
     "name" : "Brass Horn of Valhalla",
     "priceAverage" : 8400,
     "priceMerchant" : 8400,
     "priceSane" : 8400
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Brawler's Ring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Lairs of Etharis",
@@ -1694,11 +1862,74 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Brutal Macuahuitl",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bulette Bulwark",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bulette Torpedo",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Bullfrog Totem",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Burrage's Collegiate Case",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "EGW",
     "name" : "Butcher's Bib",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
     "priceSane" : 1500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Caduceus Flail",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Camilla's Quicksilver Mirror",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Camper's Crutch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Camper's Respite",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BGDIA",
@@ -1722,11 +1953,39 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Candleflame Bow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Candleflame Helm",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Candy Xorn",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Canian Fork",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Canister of Vreyval's Soothing Tea",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 157",
@@ -1750,6 +2009,13 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Captain's Pride",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Card Sharp's Deck",
     "priceAverage" : 1500,
@@ -1769,6 +2035,13 @@
     "priceAverage" : 28000,
     "priceMerchant" : 44000,
     "priceSane" : 12000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Carrion Shroud",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "AI",
@@ -1806,6 +2079,27 @@
     "priceSane" : 10000
   },
   {
+    "book" : "TGS2",
+    "name" : "Celestial Sunrise",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Celestial Sunrise (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Celestial Sunrise (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 158",
     "name" : "Censer of Controlling Air Elementals",
     "priceAverage" : 6350,
@@ -1813,11 +2107,32 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Chain Devil Gloves",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Champion's Greatbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Chancellor's Crest",
     "priceAverage" : 7000,
     "priceMerchant" : 7000,
     "priceSane" : 7000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Charged Rapier",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 136",
@@ -1848,6 +2163,13 @@
     "priceSane" : 100
   },
   {
+    "book" : "TGS2",
+    "name" : "Chi-Balancing Tea",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Vecna: Eve of Ruin",
     "name" : "Chime of Exile",
     "priceAverage" : 7500,
@@ -1862,6 +2184,20 @@
     "priceSane" : 1500
   },
   {
+    "book" : "TGS2",
+    "name" : "Chimeric Collar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Chromatic Obsidian Greataxe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WBW 208",
     "name" : "Chromatic Rose",
     "priceAverage" : 500,
@@ -1869,11 +2205,25 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Chronal Sphere",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Chronolometer",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Chronomancer's Eyepiece",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 158",
@@ -1890,6 +2240,13 @@
     "priceSane" : 200
   },
   {
+    "book" : "TGS2",
+    "name" : "Circlet of the Sharpened Mind",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "SKT 233",
     "name" : "Claw of the Wyrm Rune",
     "priceAverage" : 4400,
@@ -1902,6 +2259,20 @@
     "priceAverage" : 4300,
     "priceMerchant" : 4300,
     "priceSane" : 4300
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Claymore of the Great Badger",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Cleaning Cube",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "ERLW 276",
@@ -1974,6 +2345,13 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Cloche of Surprise Treats",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137",
     "name" : "Clockwork Amulet",
     "priceAverage" : 100,
@@ -1988,11 +2366,53 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Clockwork Colony Toolbox",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Clockwork Earwig",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Clockwork Mend-A-Pillar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137",
     "name" : "Clothes of Mending",
     "priceAverage" : 50,
     "priceMerchant" : 50,
     "priceSane" : 50
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Club of Dancing",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Club of the Forest Drake",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Club of the Rook",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Lairs of Etharis",
@@ -2023,6 +2443,20 @@
     "priceSane" : 5
   },
   {
+    "book" : "TGS2",
+    "name" : "Coldfire Anvil",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Comet Ballista",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Comet Smasher",
     "priceAverage" : 24000,
@@ -2051,11 +2485,53 @@
     "priceSane" : 200
   },
   {
+    "book" : "TGS2",
+    "name" : "Conspirator's Coat",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Contingency Band",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "EGW",
     "name" : "Corpse Slayer",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Cottage Chest",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Courtesan's Fanblade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Covolt Dagger",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Covolt Scythe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "CM",
@@ -2072,6 +2548,13 @@
     "priceSane" : 15000
   },
   {
+    "book" : "TGS2",
+    "name" : "Crown of Storms",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Crown of Westemär",
     "priceAverage" : 100000,
@@ -2084,6 +2567,13 @@
     "priceAverage" : 7500,
     "priceMerchant" : 7500,
     "priceSane" : 7500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Crown of the Mindmaster Matriarch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BP:GotG",
@@ -2142,6 +2632,13 @@
     "priceSane" : 16000
   },
   {
+    "book" : "TGS2",
+    "name" : "Cube of Teleportation",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 160",
     "name" : "Cubic Gate",
     "priceAverage" : 102000,
@@ -2154,6 +2651,13 @@
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Cuff of Captions",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "GS 229",
@@ -2182,6 +2686,13 @@
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dagger of First Light",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDMM",
@@ -2240,6 +2751,13 @@
     "priceSane" : 10000
   },
   {
+    "book" : "TGS2",
+    "name" : "Dark Mantle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137",
     "name" : "Dark Shard Amulet",
     "priceAverage" : 75,
@@ -2247,11 +2765,46 @@
     "priceSane" : 75
   },
   {
+    "book" : "TGS2",
+    "name" : "Davy Jones's Key",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dawn and Dusk",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "OA 222",
     "name" : "Dawnbringer (longsword)",
     "priceAverage" : 57000,
     "priceMerchant" : 57000,
     "priceSane" : 57000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Death's Shadow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Deathloop Watch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Deathly Diadem",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 161",
@@ -2387,6 +2940,13 @@
     "priceSane" : 50000
   },
   {
+    "book" : "TGS2",
+    "name" : "Detective's Notebook",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "PA 222",
     "name" : "Devastation Orb (Air)",
     "priceAverage" : 8000,
@@ -2450,11 +3010,53 @@
     "priceSane" : 26000
   },
   {
+    "book" : "TGS2",
+    "name" : "Direstone Dwarven Key",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Direstone Runic Wand",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "EGW",
     "name" : "Dispelling Stone",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Diviner's Dice",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Djinn and Tonic",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Djinn and Tonic (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Djinn and Tonic (Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "ERLW 276",
@@ -2478,11 +3080,32 @@
     "priceSane" : 750
   },
   {
+    "book" : "TGS2",
+    "name" : "Dominic's Field Guide to Language",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Donjon's Sundering Sphere",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Doom Bloom",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Doubloon Diver's Goggles",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "RoT",
@@ -2499,6 +3122,13 @@
     "priceSane" : 100
   },
   {
+    "book" : "TGS2",
+    "name" : "Dragon Horn Pauldron",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 165",
     "name" : "Dragon Scale Mail",
     "priceAverage" : 9500,
@@ -2511,6 +3141,13 @@
     "priceAverage" : 6400,
     "priceMerchant" : 4800,
     "priceSane" : 8000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dragon Turtle Barding",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "FTD 27",
@@ -2604,6 +3241,20 @@
     "priceSane" : 10000
   },
   {
+    "book" : "TGS2",
+    "name" : "Dragonband",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dragonbreath Ammunition",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "HotDQ",
     "name" : "Dragongleam",
     "priceAverage" : 500,
@@ -2646,11 +3297,39 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Dramus's Dancing Shoes",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137; WBW 208",
     "name" : "Dread Helm",
     "priceAverage" : 55,
     "priceMerchant" : 55,
     "priceSane" : 55
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dream Saber",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dress of Defense",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dress of Many Pockets",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -2674,11 +3353,60 @@
     "priceSane" : 66000
   },
   {
+    "book" : "TGS2",
+    "name" : "Drowner's Pearl",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dune Cowl",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 126",
     "name" : "Duplicitous Manuscript",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
     "priceSane" : 3000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dusk Cleaver",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dusk Dagger",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dusk Dagger (Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dusk Dagger (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Dusk Dagger (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -2730,6 +3458,13 @@
     "priceSane" : 480
   },
   {
+    "book" : "TGS2",
+    "name" : "Dwarven Boozehound's Backpack",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 167",
     "name" : "Dwarven Plate",
     "priceAverage" : 17000,
@@ -2765,6 +3500,13 @@
     "priceSane" : 1600
   },
   {
+    "book" : "TGS2",
+    "name" : "Ear Cuff of the Climber",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137",
     "name" : "Ear Horn of Hearing",
     "priceAverage" : 75,
@@ -2793,6 +3535,13 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Eclipse Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 167",
     "name" : "Efreeti Bottle",
     "priceAverage" : 45000,
@@ -2807,11 +3556,39 @@
     "priceSane" : 20000
   },
   {
+    "book" : "TGS2",
+    "name" : "Egg of Primal Water",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ehagan's Moving Ladder",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Elder Cartograher's Glossography",
     "priceAverage" : 50,
     "priceMerchant" : 50,
     "priceSane" : 50
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Elder Sequoia Scale Mail",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Eldritch Bident",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TCE 126-127",
@@ -2884,6 +3661,13 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Enzymatic Gastrostaff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "MOT",
     "name" : "Ephixis, Bow of Nylea",
     "priceAverage" : 80000,
@@ -2896,6 +3680,13 @@
     "priceAverage" : 75,
     "priceMerchant" : 75,
     "priceSane" : 75
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Eternal Slayer",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -2912,6 +3703,13 @@
     "priceSane" : 100
   },
   {
+    "book" : "TGS2",
+    "name" : "Everglacier Prosthesis",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 168",
     "name" : "Eversmoking Bottle",
     "priceAverage" : 635,
@@ -2919,11 +3717,25 @@
     "priceSane" : 1000
   },
   {
+    "book" : "TGS2",
+    "name" : "Evoker's Exchange",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "EGW",
     "name" : "Explosive Seed",
     "priceAverage" : 1,
     "priceMerchant" : 1,
     "priceSane" : 1
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Eyedrops of Clarity",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 168",
@@ -2940,6 +3752,13 @@
     "priceSane" : 2500
   },
   {
+    "book" : "TGS2",
+    "name" : "Eyes of the Beheld",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 168",
     "name" : "Eyes of the Eagle",
     "priceAverage" : 1450,
@@ -2954,11 +3773,25 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Faeflame Torch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Failed Experiment Wand",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Failed Purity Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDMM",
@@ -3045,11 +3878,39 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Fell-Rider Chariot",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Felling Greataxe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Feywatch Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 127",
     "name" : "Feywild Shard",
     "priceAverage" : 250,
     "priceMerchant" : 250,
     "priceSane" : 250
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Feywood Ivy",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -3136,6 +3997,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Fists of the Guiding Star",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "FTD 23",
     "name" : "Flail of Tiamat (flail)",
     "priceAverage" : 70000,
@@ -3157,11 +4025,25 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Flamebreather Staff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "PaBTSO",
     "name" : "Flayer Slayer",
     "priceAverage" : 2500,
     "priceMerchant" : 2500,
     "priceSane" : 2500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Flood Pauldron",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "MOT 196",
@@ -3178,6 +4060,20 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Focus Breaker",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Focus Circlet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 170-171",
     "name" : "Folding Boat",
     "priceAverage" : 7375,
@@ -3192,11 +4088,60 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Fool's Lamp",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Forcebreaker Weapon",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Forecaster's Cloak",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Forgekeeper's Spark",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Forgework Dragon Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Fortune's Flower",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Foxfire Charm",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Freerunner's Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 171",
@@ -3206,11 +4151,32 @@
     "priceSane" : 2200
   },
   {
+    "book" : "TGS2",
+    "name" : "Frostburn Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 128",
     "name" : "Fulminating Treatise",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Furious Flail",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Fused Chimeric Hide",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "LLK 55",
@@ -3225,6 +4191,27 @@
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
     "priceSane" : 10000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gateway Ring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gauntlets of Deliverance",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gauntlets of Eldritch Ferocity",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BGDA 223",
@@ -3255,6 +4242,13 @@
     "priceSane" : 2800
   },
   {
+    "book" : "TGS2",
+    "name" : "Gelatinous Whip",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 171",
     "name" : "Gem of Brightness",
     "priceAverage" : 2625,
@@ -3267,6 +4261,13 @@
     "priceAverage" : 18500,
     "priceMerchant" : 5000,
     "priceSane" : 32000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gentleman's Saber",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TA 206",
@@ -3283,11 +4284,39 @@
     "priceSane" : 9000
   },
   {
+    "book" : "TGS2",
+    "name" : "Gi of Shifting Seasons",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 172",
     "name" : "Giant Slayer (any axe or sword)",
     "priceAverage" : 5800,
     "priceMerchant" : 4600,
     "priceSane" : 7000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Giantcraft Ambusher",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gladius of the Everfighter",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Glaive of the Revenant King",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "ERLW 277",
@@ -3311,6 +4340,13 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Glass Carver",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Lairs of Etharis",
     "name" : "Glass-Studded Armor",
     "priceAverage" : 200,
@@ -3330,6 +4366,27 @@
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gloves of Amphibios",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gloves of Healing",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gloves of Mimicry",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 172",
@@ -3360,6 +4417,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Gloves of the Great Badger",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Glowrune Pigment",
     "priceAverage" : 2000,
@@ -3367,11 +4431,32 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Gnashing Key",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DC",
     "name" : "Gnomengarde Grenade",
     "priceAverage" : 450,
     "priceMerchant" : 450,
     "priceSane" : 450
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Godsteel Warplate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Godsteel Worldcarver",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 172",
@@ -3402,11 +4487,32 @@
     "priceSane" : 600
   },
   {
+    "book" : "TGS2",
+    "name" : "Golem Sapper",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 177",
     "name" : "Golgari Keyrune",
     "priceAverage" : 7500,
     "priceMerchant" : 7500,
     "priceSane" : 7500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Gorget of the Holy Soldier",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Grasping Staff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -3423,6 +4529,13 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Great Owl's Shroud",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CoS",
     "name" : "Green Copper Ewer",
     "priceAverage" : 100,
@@ -3435,6 +4548,13 @@
     "priceAverage" : 100000,
     "priceMerchant" : 100000,
     "priceSane" : 100000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Green Knight's Vow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG",
@@ -3456,6 +4576,27 @@
     "priceAverage" : 20,
     "priceMerchant" : 20,
     "priceSane" : 20
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Griffon Coinpouch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Griffon Component Pack",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Griffon Key Loop",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -3514,6 +4655,13 @@
     "priceSane" : 300
   },
   {
+    "book" : "TGS2",
+    "name" : "Guardian's Reliquary",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 173",
     "name" : "Guild Charms",
     "priceAverage" : 450,
@@ -3556,6 +4704,34 @@
     "priceSane" : 67000
   },
   {
+    "book" : "TGS2",
+    "name" : "Gusting Blowgun",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "H'rethi Soul Scepter",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hadiya's Handy Quill",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Half Plate of the Blind Martyr",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Hammer of Runic Focus",
     "priceAverage" : 8000,
@@ -3575,6 +4751,13 @@
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
     "priceSane" : 10000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Harbinger's Flail",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Dungeons of Drakkenheim",
@@ -3598,11 +4781,25 @@
     "priceSane" : 100000
   },
   {
+    "book" : "TGS2",
+    "name" : "Harvest",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 173",
     "name" : "Hat of Disguise",
     "priceAverage" : 2737,
     "priceMerchant" : 475,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hat of Osnomnosis",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 137",
@@ -3617,6 +4814,20 @@
     "priceAverage" : 75,
     "priceMerchant" : 75,
     "priceSane" : 75
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hat of the Sanguine Coven",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hatred, the Wrathful Edge",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -3640,11 +4851,95 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Headband of the Sweatless",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Headdress of the Serpent King",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Headhunter's Bullseye Lantern",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 128-129",
     "name" : "Heart Weaver's Primer",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
     "priceSane" : 3000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heart of Damned Intervention",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heartless Cage Pendant",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heaven's Edge",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heaven's Gavel",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heavenly Chalice",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heavy Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Heavy Golem Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hedgewitch's Gardening Cane",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hedonic Motivator",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TYP 228",
@@ -3731,11 +5026,46 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Helm of the Broken Dragon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Helm of the Chromatic Dragon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "MOT 196",
     "name" : "Helm of the Gods",
     "priceAverage" : 1200,
     "priceMerchant" : 1200,
     "priceSane" : 1200
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Helm of the Justicars",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Helm of the Platinum Dragon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Helm of the Ruby Dragon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDMM 297",
@@ -3801,11 +5131,46 @@
     "priceSane" : 40000
   },
   {
+    "book" : "TGS2",
+    "name" : "Hideaway Vase",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "D&D Beyond",
     "name" : "Hither-Tither Staff",
     "priceAverage" : 2500,
     "priceMerchant" : 2500,
     "priceSane" : 2500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hoarder's Haul",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hoarder's Haul (Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hoarder's Haul (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hoarder's Haul (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 174",
@@ -3820,6 +5185,20 @@
     "priceAverage" : 51000,
     "priceMerchant" : 51000,
     "priceSane" : 51000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Homeroot",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Homeward Boots",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "IDRF 314",
@@ -3841,6 +5220,13 @@
     "priceAverage" : 1,
     "priceMerchant" : 1,
     "priceSane" : 1
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Horatio's Impossible Ship in a Bottle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "D&D Beyond",
@@ -3892,6 +5278,13 @@
     "priceSane" : 4000
   },
   {
+    "book" : "TGS2",
+    "name" : "Horn of the Wild Hunt",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDMM 310",
     "name" : "Horned Ring",
     "priceAverage" : 10000,
@@ -3920,6 +5313,20 @@
     "priceSane" : 1500
   },
   {
+    "book" : "TGS2",
+    "name" : "Hour and Minute",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hourglass of Slumber",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "House of Cards",
     "priceAverage" : 1000,
@@ -3932,6 +5339,27 @@
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
     "priceSane" : 3000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hushed Ring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hydra Charm",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Hydra Flail",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "CS 222",
@@ -4004,11 +5432,32 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Impact Plate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Indigo Stray's Conviction",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Infernal Amulet",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
     "priceSane" : 3000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Infernal Chain",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Chains of Asmodeus",
@@ -4060,6 +5509,20 @@
     "priceSane" : 15000
   },
   {
+    "book" : "TGS2",
+    "name" : "Inker's Armband",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Insatiable Tome",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Inscrutable Staff",
     "priceAverage" : 55000,
@@ -4074,11 +5537,25 @@
     "priceSane" : 450
   },
   {
+    "book" : "TGS2",
+    "name" : "Inspector's Silverware",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 137",
     "name" : "Instrument of Illusions",
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Instrument of Roses and Thorns",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 138; WBW211",
@@ -4466,6 +5943,13 @@
     "priceSane" : 76000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ironleaf Impaler",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "SKT 237",
     "name" : "Ise Rune Boots",
     "priceAverage" : 2650,
@@ -4571,6 +6055,20 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Jo'Catian Denier",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Jo'Catian Rebuker",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DSDQ",
     "name" : "Kagonesti Forest Shroud",
     "priceAverage" : 50000,
@@ -4590,6 +6088,13 @@
     "priceAverage" : 120,
     "priceMerchant" : 120,
     "priceSane" : 120
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Kestra's Bent Spoon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "ERLW 277",
@@ -4676,6 +6181,20 @@
     "priceSane" : 80000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ki Blade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Kinetic Bowstring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDH 191",
     "name" : "Knave's Eye Patch",
     "priceAverage" : 2000,
@@ -4704,6 +6223,13 @@
     "priceSane" : 63000
   },
   {
+    "book" : "TGS2",
+    "name" : "Kraken Band",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Kyanite Pteranodon",
     "priceAverage" : 14000,
@@ -4716,6 +6242,20 @@
     "priceAverage" : 21000,
     "priceMerchant" : 21000,
     "priceSane" : 21000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lady Phantasma's Material Anchor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lamian Facestealer",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 179",
@@ -4774,6 +6314,13 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Lash of the Spelldrinker",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "EGW",
     "name" : "Last Stand Armor",
     "priceAverage" : 2500,
@@ -4786,6 +6333,13 @@
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
     "priceSane" : 3000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Leatherbeard",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "JttRC",
@@ -4809,11 +6363,39 @@
     "priceSane" : 4200
   },
   {
+    "book" : "TGS2",
+    "name" : "Life Tether Ankh",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Life Turner",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Life's Flower Restorative",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 129",
     "name" : "Lifewell Tattoo",
     "priceAverage" : 5100,
     "priceMerchant" : 5100,
     "priceSane" : 5100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Light Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "OoTA",
@@ -4823,11 +6405,39 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Light Sling",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "LMP 48",
     "name" : "Lightbringer (mace)",
     "priceAverage" : 1600,
     "priceMerchant" : 1600,
     "priceSane" : 1600
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lightning Khopesh",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lightscreen Hover Boots",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lightseer's Gaze",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Lairs of Etharis",
@@ -4870,6 +6480,13 @@
     "priceAverage" : 50,
     "priceMerchant" : 50,
     "priceSane" : 50
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Locket of the Stolen Heart",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BP:GotG",
@@ -4928,6 +6545,13 @@
     "priceSane" : 100000
   },
   {
+    "book" : "TGS2",
+    "name" : "Luckleaf",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 205",
     "name" : "Luckstone",
     "priceAverage" : 4200,
@@ -4940,6 +6564,20 @@
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Luna Moth Cape",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Lupine Mask",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -5012,11 +6650,67 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Mace of the Priest",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mace of the Pumpkin King",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDMM",
     "name" : "Maddgoth's Helm",
     "priceAverage" : 1,
     "priceMerchant" : 1,
     "priceSane" : 1
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mage Eater Scythe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Magebane Poison",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Magentan Sun-Saw",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Magentan Sun-Saw (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Magentan Sun-Saw (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mageplate Ring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TCE",
@@ -5145,6 +6839,27 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Magnificent Pocket Vanity",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mandible Bident",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mantle of Security",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 180",
     "name" : "Mantle of Spell Resistance",
     "priceAverage" : 17100,
@@ -5194,6 +6909,13 @@
     "priceSane" : 1500
   },
   {
+    "book" : "TGS2",
+    "name" : "Marlin Lunger",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "ToA",
     "name" : "Mask of the Beast",
     "priceAverage" : 800,
@@ -5206,6 +6928,48 @@
     "priceAverage" : 175000,
     "priceMerchant" : 175000,
     "priceSane" : 175000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts (Crocodile)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts (Hawk)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts (Jackal)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts (Lion)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Masks of the Sacred Beasts (Mule)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "SCC",
@@ -5248,6 +7012,13 @@
     "priceAverage" : 5,
     "priceMerchant" : 5,
     "priceSane" : 5
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Matron's Mug",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "CRCotN",
@@ -5306,11 +7077,60 @@
     "priceSane" : 3000
   },
   {
+    "book" : "TGS2",
+    "name" : "Medusan Lavalier",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Medusan Signet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Medzo's Crossbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Melee Weapon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Meta Mantle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Meta Medallion",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE",
     "name" : "Mighty Servant of Leuk-0",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
     "priceSane" : 80000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mimicloak",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "PAitM",
@@ -5411,6 +7231,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Mindmaster's Monocle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 181-182",
     "name" : "Mirror of Life Trapping",
     "priceAverage" : 34000,
@@ -5437,6 +7264,13 @@
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
     "priceSane" : 10000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mistwalker Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "AI",
@@ -5516,6 +7350,27 @@
     "priceSane" : 1300
   },
   {
+    "book" : "TGS2",
+    "name" : "Monarch Mantle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Monster Tamer's Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Monster Tamer's Sword",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 180",
     "name" : "Moodmark Paint",
     "priceAverage" : 50,
@@ -5551,6 +7406,62 @@
     "priceSane" : 75
   },
   {
+    "book" : "TGS2",
+    "name" : "Moonstone Bracers",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Morath, Scepter of the Soul Vortex",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mosshide Troll Belt",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mourningsteel Demi-Gauntlets",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mourningsteel Ghost Candle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mourningsteel Half Plate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Mourningsteel War Banner",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "PaBTSO",
+    "name" : "Mudslick Tower",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "IMR 94",
     "name" : "Mummy Rot Antidote",
     "priceAverage" : 150,
@@ -5572,11 +7483,25 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Murk Blowgun",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG",
     "name" : "Musket, smoothbore",
     "priceAverage" : 500,
     "priceMerchant" : 500,
     "priceSane" : 500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Myceliaweave Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 138",
@@ -5733,6 +7658,34 @@
     "priceSane" : 350
   },
   {
+    "book" : "TGS2",
+    "name" : "Night Owl's Half-Moon Spectacles",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Nightmare Flask",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Nightstalker's Armor of the Northeastern Wind",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Nightstalker's Mask",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDH",
     "name" : "Nimblewright Detector",
     "priceAverage" : 10,
@@ -5745,6 +7698,13 @@
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
     "priceSane" : 15000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Nimbus, First Staff of the Thunderbirds",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 183",
@@ -5761,6 +7721,13 @@
     "priceSane" : 36000
   },
   {
+    "book" : "TGS2",
+    "name" : "No-Stones",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 183",
     "name" : "Nolzur's Marvelous Pigments",
     "priceAverage" : 8100,
@@ -5768,11 +7735,32 @@
     "priceSane" : 200
   },
   {
+    "book" : "TGS2",
+    "name" : "Novanite Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Oaken Candle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 183",
     "name" : "Oathbow (longbow)",
     "priceAverage" : 8250,
     "priceMerchant" : 13000,
     "priceSane" : 3500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Oathkeeper's Resolve",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BGDA 224",
@@ -5803,6 +7791,20 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Octavius's Saber",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ogramau's Graveyard",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 183",
     "name" : "Oil of Etherealness",
     "priceAverage" : 1960,
@@ -5822,6 +7824,13 @@
     "priceAverage" : 365,
     "priceMerchant" : 250,
     "priceSane" : 480
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ol' Stumpy",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 170",
@@ -5850,6 +7859,13 @@
     "priceAverage" : 50,
     "priceMerchant" : 50,
     "priceSane" : 50
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Orb of Remembrance",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "ERLW 278",
@@ -5915,11 +7931,53 @@
     "priceSane" : 6500
   },
   {
+    "book" : "TGS2",
+    "name" : "Orelia's Tome of Beast Familiars",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Orner's Venomous Crossbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WBW 212",
     "name" : "Ornithopter of Flying",
     "priceAverage" : 3500,
     "priceMerchant" : 3500,
     "priceSane" : 3500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Orostead Iced Tea",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Orostead Iced Tea (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Orostead Iced Tea (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "AI",
+    "name" : "Orrery of the Wanderer",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "GGR 178",
@@ -5936,11 +7994,32 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Overseer's Spade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDH",
     "name" : "Overzied Longbow",
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Owlbear Leather Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pack of Revisibility Bombs",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDH 191; IMR 94",
@@ -5978,11 +8057,25 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Pegasus Quill",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "SKT 235-236",
     "name" : "Pennant of the Vind Rune",
     "priceAverage" : 13000,
     "priceMerchant" : 13000,
     "priceSane" : 13000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pennypuncher Slingshot",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "GGR 180",
@@ -5992,11 +8085,25 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Peregrine Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR",
     "name" : "Peregrine's Mask",
     "priceAverage" : 12000,
     "priceMerchant" : 12000,
     "priceSane" : 12000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Performer's Puppet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 138",
@@ -6027,6 +8134,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Periscope Rod",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "ToA",
     "name" : "Petrified Grung Egg",
     "priceAverage" : 1000,
@@ -6034,11 +8148,46 @@
     "priceSane" : 1000
   },
   {
+    "book" : "TGS2",
+    "name" : "Phantom Walkers",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Phasing Bow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 184",
     "name" : "Philter of Love",
     "priceAverage" : 120,
     "priceMerchant" : 150,
     "priceSane" : 90
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Phoenix Breastplate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Phoenix Rocket Sword",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pick and Pocket",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "AI",
@@ -6111,6 +8260,13 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Pisces Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG",
     "name" : "Pistol, automatic",
     "priceAverage" : 1000,
@@ -6174,6 +8330,13 @@
     "priceSane" : 20000
   },
   {
+    "book" : "TGS2",
+    "name" : "Poison Armor of Amphibios",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "XGE 138",
     "name" : "Pole of Angling",
     "priceAverage" : 50,
@@ -6186,6 +8349,34 @@
     "priceAverage" : 55,
     "priceMerchant" : 55,
     "priceSane" : 55
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pollinator Carapace",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pollinator Pants",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Pollinator Visor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Poltergeist Candle Holder",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "LLK 56",
@@ -6538,6 +8729,13 @@
     "priceSane" : 1900
   },
   {
+    "book" : "TGS2",
+    "name" : "Power Collar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "LLK 56",
     "name" : "Powered Armor (plate)",
     "priceAverage" : 30000,
@@ -6594,6 +8792,13 @@
     "priceSane" : 25
   },
   {
+    "book" : "TGS2",
+    "name" : "Prism Glasses",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "SCC 39",
     "name" : "Prismari Primer",
     "priceAverage" : 300,
@@ -6634,6 +8839,20 @@
     "priceAverage" : 3500,
     "priceMerchant" : 3500,
     "priceSane" : 3500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Prototype Thunderberd",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Prying Mace",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "IDRF 315",
@@ -6720,6 +8939,13 @@
     "priceSane" : 300
   },
   {
+    "book" : "TGS2",
+    "name" : "Quick Change Ring",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 189",
     "name" : "Quiver of Ehlonna",
     "priceAverage" : 625,
@@ -6727,11 +8953,25 @@
     "priceSane" : 1000
   },
   {
+    "book" : "TGS2",
+    "name" : "Quiver of Elemental Chaos",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CM",
     "name" : "Radiance",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Radiant War Pick",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "GGR 178",
@@ -6762,6 +9002,13 @@
     "priceSane" : 300
   },
   {
+    "book" : "TGS2",
+    "name" : "Realmswarden Greataxe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Reaper's Scream",
     "priceAverage" : 30000,
@@ -6774,6 +9021,13 @@
     "priceAverage" : 100000,
     "priceMerchant" : 100000,
     "priceSane" : 100000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Red Queen's Burden",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "D&D Beyond",
@@ -6790,6 +9044,27 @@
     "priceSane" : 1500
   },
   {
+    "book" : "TGS2",
+    "name" : "Redeemer's Regards",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Redsmith Crucible Set",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Redsmith Hammer",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Refined Delerium Dust",
     "priceAverage" : 500,
@@ -6802,6 +9077,76 @@
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rejuvenating Draft",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rejuvenating Draft (Legendary)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rejuvenating Draft (Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rejuvenating Draft (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rejuvenating Draft (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Reliquary of Holy Memories",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Reliquary of Holy Memories (Legendary)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Reliquary of Holy Memories (Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Reliquary of Holy Memories (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Reliquary of Holy Memories (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG",
@@ -6825,6 +9170,13 @@
     "priceSane" : 750
   },
   {
+    "book" : "TGS2",
+    "name" : "Riff's Dimensional Ripper",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG",
     "name" : "Rifle, Automatic",
     "priceAverage" : 3000,
@@ -6837,6 +9189,13 @@
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rift Sheath",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 190",
@@ -6858,6 +9217,13 @@
     "priceAverage" : 2500,
     "priceMerchant" : 1000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of Changing Shapes",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Chains of Asmodeus",
@@ -6916,6 +9282,13 @@
     "priceSane" : 20000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of Healer's Heroism",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 191",
     "name" : "Ring of Invisibility",
     "priceAverage" : 42500,
@@ -6930,11 +9303,25 @@
     "priceSane" : 2500
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of Lunar Might",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "PUN",
     "name" : "Ring of Mind Shielding",
     "priceAverage" : 600,
     "priceMerchant" : 600,
     "priceSane" : 600
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of Misdirection",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -6979,11 +9366,25 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of Rituals",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 192",
     "name" : "Ring of Shooting Stars",
     "priceAverage" : 17000,
     "priceMerchant" : 20000,
     "priceSane" : 14000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of Solar's Sight",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 192",
@@ -6998,6 +9399,13 @@
     "priceAverage" : 48000,
     "priceMerchant" : 66000,
     "priceSane" : 30000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of Stolen Alacrity",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 193",
@@ -7042,6 +9450,13 @@
     "priceSane" : 150
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of Volleys",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 193",
     "name" : "Ring of Warmth",
     "priceAverage" : 740,
@@ -7077,11 +9492,32 @@
     "priceSane" : 6000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of the Arcane Berserker",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of the Assassin Lord",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Ring of the Copycat",
     "priceAverage" : 6500,
     "priceMerchant" : 6500,
     "priceSane" : 6500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Ring of the Mute Mage",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "PaBTSO",
@@ -7098,11 +9534,39 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Ring of the Split Mind",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rings of the True Companions",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Riptide Crossbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CRCotN",
     "name" : "Riudium Weapon",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Roaring Whip",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 193-194",
@@ -7175,6 +9639,13 @@
     "priceSane" : 25000
   },
   {
+    "book" : "TGS2",
+    "name" : "Rod of Endless Light",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Rod of Hellish Flames",
     "priceAverage" : 5000,
@@ -7189,6 +9660,13 @@
     "priceSane" : 28000
   },
   {
+    "book" : "TGS2",
+    "name" : "Rod of Refstophobia",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 197",
     "name" : "Rod of Resurrection",
     "priceAverage" : 125000,
@@ -7201,6 +9679,13 @@
     "priceAverage" : 500,
     "priceMerchant" : 500,
     "priceSane" : 500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rod of Reverberation",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 197",
@@ -7222,6 +9707,34 @@
     "priceAverage" : 70000,
     "priceMerchant" : 70000,
     "priceSane" : 70000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rod of Storms",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rod of Thought Projection",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rod of Water Absorption",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Rod of the Magicycle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 197",
@@ -7259,6 +9772,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Rope Caster",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 197",
     "name" : "Rope of Climbing",
     "priceAverage" : 1175,
@@ -7280,11 +9800,32 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Rose Quartz Koi",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Rotor of Return",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Royal Blade of Amphibios",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Royal Incinerator",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Chains of Asmodeus",
@@ -7364,6 +9905,13 @@
     "priceSane" : 5000
   },
   {
+    "book" : "TGS2",
+    "name" : "Rust Arrow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 199",
     "name" : "Saddle of the Cavalier",
     "priceAverage" : 1125,
@@ -7420,6 +9968,13 @@
     "priceSane" : 4000
   },
   {
+    "book" : "TGS2",
+    "name" : "Sagittarian Vestments",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CoS",
     "name" : "Saint Markovia's Thighbone",
     "priceAverage" : 6000,
@@ -7434,6 +9989,13 @@
     "priceSane" : 6500
   },
   {
+    "book" : "TGS2",
+    "name" : "Salamander Flame Gauntlets",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Sanctum Amulet",
     "priceAverage" : 5000,
@@ -7446,6 +10008,20 @@
     "priceAverage" : 9000,
     "priceMerchant" : 9000,
     "priceSane" : 9000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sash of Sorcerous Synergy",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Satchel of Beast Chow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "FTD 27",
@@ -7483,6 +10059,20 @@
     "priceSane" : 36000
   },
   {
+    "book" : "TGS2",
+    "name" : "Scarlet Scourge",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scepter of Faith",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Sceptre of Saint Vitruvio",
     "priceAverage" : 6500,
@@ -7504,11 +10094,32 @@
     "priceSane" : 750
   },
   {
+    "book" : "TGS2",
+    "name" : "Scorned Heart Breastplate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scorpio Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TA 208",
     "name" : "Scorpion Armor (plate)",
     "priceAverage" : 2100,
     "priceMerchant" : 2100,
     "priceSane" : 2100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scorpion Lasher",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Chains of Asmodeus",
@@ -7523,6 +10134,34 @@
     "priceAverage" : 60,
     "priceMerchant" : 60,
     "priceSane" : 60
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scroll of Mapping",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scroll of Mapping (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scroll of Mapping (Very Rare)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Scroll of Nightmares",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 199",
@@ -7546,11 +10185,39 @@
     "priceSane" : 250000
   },
   {
+    "book" : "TGS2",
+    "name" : "Scroll of the Jester",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Second Fiddle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "PA 223",
     "name" : "Seeker Dart",
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Seeker's Compass",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Seer's Starlight Cloak",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "GS 229",
@@ -7588,6 +10255,13 @@
     "priceSane" : 20000
   },
   {
+    "book" : "TGS2",
+    "name" : "Seraphim's Stiletto",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "CM",
     "name" : "Serpent Scale Armor",
     "priceAverage" : 10000,
@@ -7609,6 +10283,20 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Shadow Tag",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shadow Weaver's Guise",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "TCE 134-135",
     "name" : "Shadowfell Brand Tattoo",
     "priceAverage" : 1100,
@@ -7621,6 +10309,13 @@
     "priceAverage" : 600,
     "priceMerchant" : 600,
     "priceSane" : 600
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shadowscale Shroud",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "KGV",
@@ -7735,6 +10430,13 @@
     "priceSane" : 86000
   },
   {
+    "book" : "TGS2",
+    "name" : "Shield of the Justicars",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Shield of the Tortoise",
     "priceAverage" : 50,
@@ -7749,11 +10451,53 @@
     "priceSane" : 11000
   },
   {
+    "book" : "TGS2",
+    "name" : "Shifter's Shine",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shifter's Shine (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shifter's Shine (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "ERLW 279",
     "name" : "Shiftweave",
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shimmering Spectacles",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shipwright's Watch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Shooting Star",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG",
@@ -7768,6 +10512,13 @@
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Siege Staff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -7791,6 +10542,20 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Silver Coin of Duvra",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Silver Eagle Studded Cuirass",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 175",
     "name" : "Silver Horn of Valhalla",
     "priceAverage" : 5600,
@@ -7803,6 +10568,13 @@
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Silver Star Cane",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "MTF 89",
@@ -7819,11 +10591,53 @@
     "priceSane" : 300
   },
   {
+    "book" : "TGS2",
+    "name" : "Silverwind, the Cleansing Breeze",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 178",
     "name" : "Simic Keyrune",
     "priceAverage" : 500,
     "priceMerchant" : 500,
     "priceSane" : 500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Simple Weapon, Rod",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sir Varion's Helm",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sir Varion's Lance",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sir Varion's Mantle",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sir Varion's Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "MOT 198",
@@ -7861,11 +10675,32 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Sky Anchor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 181",
     "name" : "Skyblinder Staff",
     "priceAverage" : 375,
     "priceMerchant" : 375,
     "priceSane" : 375
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Skyglider Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Skylit Greaves",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "Dungesons of Drakkenheim",
@@ -7882,11 +10717,25 @@
     "priceSane" : 10000
   },
   {
+    "book" : "TGS2",
+    "name" : "Slaying Longbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "QftIS",
     "name" : "Sleep Grenade",
     "priceAverage" : 500,
     "priceMerchant" : 500,
     "priceSane" : 500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sleepytime Sheep Stuffy",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "MOT 198",
@@ -7952,11 +10801,25 @@
     "priceSane" : 75
   },
   {
+    "book" : "TGS2",
+    "name" : "Snake Charmer's Flute",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WBW 213",
     "name" : "Snicker-Snack (greatsword)",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
     "priceSane" : 80000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Snow Rider's Sleigh",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BGDA 225",
@@ -7973,11 +10836,32 @@
     "priceSane" : 100
   },
   {
+    "book" : "TGS2",
+    "name" : "Soul Pendant",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Soul-Searing Scythe",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 200",
     "name" : "Sovereign Glue",
     "priceAverage" : 2700,
     "priceMerchant" : 5000,
     "priceSane" : 400
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sovereignseed Satchel",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "QftIS",
@@ -8218,6 +11102,13 @@
     "priceSane" : 10240
   },
   {
+    "book" : "TGS2",
+    "name" : "Spellfire Bow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 201",
     "name" : "Spellguard Shield",
     "priceAverage" : 43000,
@@ -8244,6 +11135,20 @@
     "priceAverage" : 100,
     "priceMerchant" : 100,
     "priceSane" : 100
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Spellsword",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Spellwriter's Brace",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TCE 135",
@@ -8316,6 +11221,34 @@
     "priceSane" : 4000
   },
   {
+    "book" : "TGS2",
+    "name" : "Spirit Cleaver",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Spirit Sheath",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Spiritwalker Breastplate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Splinterguard",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Spyglass of Clairvoyance",
     "priceAverage" : 50,
@@ -8328,6 +11261,13 @@
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Sream's Stoppered Oasis",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 139",
@@ -8356,6 +11296,13 @@
     "priceAverage" : 26000,
     "priceMerchant" : 26000,
     "priceSane" : 26000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Staff of Cubic Cultivation",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "LMP 53",
@@ -8456,6 +11403,13 @@
     "priceSane" : 1800
   },
   {
+    "book" : "TGS2",
+    "name" : "Staff of the Dream Shepherd",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "ToA",
     "name" : "Staff of the Forgotten One",
     "priceAverage" : 75000,
@@ -8491,6 +11445,13 @@
     "priceSane" : 4000
   },
   {
+    "book" : "TGS2",
+    "name" : "Staff of the Vineyard",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 204",
     "name" : "Staff of the Woodlands",
     "priceAverage" : 24250,
@@ -8498,11 +11459,53 @@
     "priceSane" : 44000
   },
   {
+    "book" : "TGS2",
+    "name" : "Staff, Simple Weapon, Melee Weapon, Spellcasting Focus",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Stalagmight Geode",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Stalwart Staff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Dungesons of Drakkenheim",
     "name" : "Starcrossed Bow",
     "priceAverage" : 7500,
     "priceMerchant" : 7500,
     "priceSane" : 7500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Starmetal Nova Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Starmetal Shard Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Starmetal Sliver",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -8524,6 +11527,20 @@
     "priceAverage" : 500,
     "priceMerchant" : 500,
     "priceSane" : 500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Status Signets",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Steam Harpoon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WBW 214",
@@ -8624,6 +11641,13 @@
     "priceSane" : 7000
   },
   {
+    "book" : "TGS2",
+    "name" : "Stonemason's Companion",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "OA 223",
     "name" : "Stonespeaker Crystal",
     "priceAverage" : 4600,
@@ -8643,6 +11667,27 @@
     "priceAverage" : 150,
     "priceMerchant" : 150,
     "priceSane" : 150
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Storm Seer Lamp",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Storm's Eye Shield",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Stormbrewer Bracers",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -8666,6 +11711,13 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Storyteller's Stein",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "SCC 39",
     "name" : "Strixhaven Pennant",
     "priceAverage" : 50,
@@ -8680,11 +11732,25 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Stuffy Familiar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Stygian Spear",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Stylist's Circlet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 205",
@@ -8799,6 +11865,13 @@
     "priceSane" : 10240
   },
   {
+    "book" : "TGS2",
+    "name" : "Tack and Harness",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 207",
     "name" : "Talisman of Pure Good",
     "priceAverage" : 98340,
@@ -8848,11 +11921,25 @@
     "priceSane" : 80
   },
   {
+    "book" : "TGS2",
+    "name" : "Tarrasque Plate",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DILCT",
     "name" : "Tasha's Creeping Keelboat",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
     "priceSane" : 15000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tea Weird",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDMM",
@@ -8876,11 +11963,32 @@
     "priceSane" : 1000
   },
   {
+    "book" : "BMT",
+    "name" : "Telescopic Transporter",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tempest Griffon Bracers",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 208",
     "name" : "Tentacle Rod",
     "priceAverage" : 3500,
     "priceMerchant" : 2000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Thalamus Thread",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -8911,6 +12019,13 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "The Griffon's Saddlebag",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "IDRF 317",
     "name" : "The Incantations of Iriolarthas",
     "priceAverage" : 100000,
@@ -8939,11 +12054,25 @@
     "priceSane" : 100
   },
   {
+    "book" : "TGS2",
+    "name" : "Thomas's Dimensional Trousers",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Thunderbuss",
     "priceAverage" : 7000,
     "priceMerchant" : 7000,
     "priceSane" : 7000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tide Turner",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "AI",
@@ -8960,6 +12089,27 @@
     "priceSane" : 71000
   },
   {
+    "book" : "TGS2",
+    "name" : "Titan Cricket Greaves",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Titan's Tooth Claymore",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tome of Advanced Fighting Styles",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 208",
     "name" : "Tome of Clear Thought",
     "priceAverage" : 36000,
@@ -8972,6 +12122,13 @@
     "priceAverage" : 36000,
     "priceMerchant" : 36000,
     "priceSane" : 36000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tome of Lost Knowledge",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 209",
@@ -8995,6 +12152,27 @@
     "priceSane" : 12000
   },
   {
+    "book" : "TGS2",
+    "name" : "Torrdok's Magnificent Forgery",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Traitor's Gauntlet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Trampling Crossbow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "AI",
     "name" : "Travel Alchemical Kit",
     "priceAverage" : 50,
@@ -9007,6 +12185,13 @@
     "priceAverage" : 400,
     "priceMerchant" : 400,
     "priceSane" : 400
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tremor Spike",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "DMG 209",
@@ -9023,11 +12208,25 @@
     "priceSane" : 50000
   },
   {
+    "book" : "TGS2",
+    "name" : "Turtle Brooch",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "MOT 198",
     "name" : "Two-Birds Sling",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Tyrannosaurus Rax",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 139",
@@ -9037,11 +12236,32 @@
     "priceSane" : 25
   },
   {
+    "book" : "TGS2",
+    "name" : "Underworld Asphodel Regalia",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 209",
     "name" : "Universal Solvent",
     "priceAverage" : 2650,
     "priceMerchant" : 5000,
     "priceSane" : 300
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Urnblade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Vain Virtuoso's Violin",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WDMM",
@@ -9056,6 +12276,13 @@
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Verax Weapon",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "EGW",
@@ -9142,6 +12369,20 @@
     "priceSane" : 650
   },
   {
+    "book" : "TGS2",
+    "name" : "Violet King's Promise",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Viper Khopesh",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BMT",
     "name" : "Voidwalker Armor",
     "priceAverage" : 50,
@@ -9170,11 +12411,25 @@
     "priceSane" : 500
   },
   {
+    "book" : "TGS2",
+    "name" : "Voyage Collar",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "GGR 181",
     "name" : "Voyager Staff",
     "priceAverage" : 10500,
     "priceMerchant" : 10500,
     "priceSane" : 10500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Vyra's Broken Path",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "FTD",
@@ -9233,6 +12488,13 @@
     "priceSane" : 90
   },
   {
+    "book" : "TGS2",
+    "name" : "Wand of Dowsing",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 210",
     "name" : "Wand of Enemy Detection",
     "priceAverage" : 3875,
@@ -9261,6 +12523,13 @@
     "priceSane" : 32000
   },
   {
+    "book" : "TGS2",
+    "name" : "Wand of Gilding",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 211",
     "name" : "Wand of Lightning Bolts",
     "priceAverage" : 18400,
@@ -9282,6 +12551,20 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Wand of Merriment",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wand of Necrosis",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 211",
     "name" : "Wand of Paralysis",
     "priceAverage" : 10125,
@@ -9294,6 +12577,13 @@
     "priceAverage" : 26500,
     "priceMerchant" : 21000,
     "priceSane" : 32000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wand of Puppetry",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "XGE 140",
@@ -9331,6 +12621,13 @@
     "priceSane" : 60
   },
   {
+    "book" : "TGS2",
+    "name" : "Wand of Stars",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "OA 223",
     "name" : "Wand of Viscid Globs",
     "priceAverage" : 900,
@@ -9359,11 +12656,60 @@
     "priceSane" : 2250
   },
   {
+    "book" : "TGS2",
+    "name" : "Wand of the Alicorn",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wand of the Frostrose",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "War Horn of Valor",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
     "priceSane" : 5000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "War's Wager",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wardancer's Spear",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Warding Staff",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Warhammer of Eruptions",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Warp Anchor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "BMT",
@@ -9380,11 +12726,32 @@
     "priceSane" : 2500
   },
   {
+    "book" : "TGS2",
+    "name" : "Waterskin of Voices",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wavecutter",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Wayfarer's Boots",
     "priceAverage" : 6000,
     "priceMerchant" : 6000,
     "priceSane" : 6000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wayfinder Sphere",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "TYP 229",
@@ -9415,6 +12782,13 @@
     "priceSane" : 8000
   },
   {
+    "book" : "TGS2",
+    "name" : "Weapon of Verdict",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 213",
     "name" : "Weapon of Warning (any)",
     "priceAverage" : 30200,
@@ -9427,6 +12801,20 @@
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
     "priceSane" : 2000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Weaving Wasp Needles",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Webgrip Bow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "PA 223",
@@ -9464,6 +12852,27 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Whirling Weapons",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Whirlpool Dart",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Whispergust Mote",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "RoTOS",
     "name" : "White Dragon Mask",
     "priceAverage" : 100000,
@@ -9476,6 +12885,34 @@
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
     "priceSane" : 1000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Widemouth Bucket",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Widow's Tea",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wildfire Ammunition",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wildskin Armor",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "AAG",
@@ -9506,11 +12943,39 @@
     "priceSane" : 30000
   },
   {
+    "book" : "TGS2",
+    "name" : "Williwig's Time Stopper",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "DMG 213",
     "name" : "Wind Fan",
     "priceAverage" : 825,
     "priceMerchant" : 150,
     "priceSane" : 1500
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wind Riders",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wind and Whirl",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wind-Up Merchant",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "PA 225",
@@ -9562,6 +13027,34 @@
     "priceSane" : 2000
   },
   {
+    "book" : "TGS2",
+    "name" : "Wisp Cloak",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wispy Sour",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wispy Sour (Common)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wispy Sour (Uncommon)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "WDW",
     "name" : "Witchlight Vane",
     "priceAverage" : 18000,
@@ -9581,6 +13074,20 @@
     "priceAverage" : 300,
     "priceMerchant" : 300,
     "priceSane" : 300
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wondrous Item, Artisan's Tools",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wondrous Item, Vehicle (Land)",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "WBW 214",
@@ -9611,6 +13118,13 @@
     "priceSane" : 4000
   },
   {
+    "book" : "TGS2",
+    "name" : "Wraps of the Restless",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "Chains of Asmodeus",
     "name" : "Wrought-Iron Tower",
     "priceAverage" : 35000,
@@ -9625,11 +13139,46 @@
     "priceSane" : 50
   },
   {
+    "book" : "TGS2",
+    "name" : "Wyrmling Wristlet",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
     "book" : "BP:GotG",
     "name" : "Wyrmreaver's Gauntlets",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
     "priceSane" : 10000
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Wyrmshide Bow",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Xibalban Blade",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Xorn-Sole Boots",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
+  },
+  {
+    "book" : "TGS2",
+    "name" : "Yellow Harbinger's Path",
+    "priceAverage" : 0,
+    "priceMerchant" : 0,
+    "priceSane" : 0
   },
   {
     "book" : "IDRF 316",
