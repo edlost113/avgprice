@@ -73,6 +73,7 @@ export const Table = ({ rows }: TableProps) => {
             {Object.keys(rows[0]).map((entry, index) => (
               <th key={index}>{capitalize(entry)}</th>
             ))}
+            <th>More Info</th>
           </tr>
         </thead>
         <tbody>
@@ -81,6 +82,11 @@ export const Table = ({ rows }: TableProps) => {
               {Object.values(row).map((entry, columnIndex) => (
                 <td key={columnIndex}>{formatEntry(entry)}</td>
               ))}
+              <td>
+                <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${row.name}`} target="_blank" rel="noreferrer">
+                  View on DNDBeyond
+                </a>
+              </td>
             </tr>
           ))}
         </tbody>
