@@ -1,6 +1,6 @@
 
 import { data } from './data'
-
+import Box from '@mui/material/Box';
 import { Grid } from './components/Grid'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -15,7 +15,9 @@ const App = () => {
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
-      <Grid rows={data} />
+      <Box id="gridD">
+        <Grid rows={data} />
+      </Box>
     </ThemeProvider>
   )
 }
