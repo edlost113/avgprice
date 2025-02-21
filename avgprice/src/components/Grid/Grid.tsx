@@ -39,7 +39,7 @@ const columns = [
       </strong>
     ),
   },
-  { field: "priceMerchant", headerName: "Merchant Price", width: 100, 
+  { field: "priceMerchant", headerName: "Discerning Merchant Price", width: 200, 
     valueGetter: (value: any) => {
       if (value==0) {
         return 'unknown';
