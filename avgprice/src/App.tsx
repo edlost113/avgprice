@@ -2,12 +2,21 @@
 import { data } from './data'
 
 import { Grid } from './components/Grid'
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
 
 const App = () => {
   return (
-    <div style={{ height: "100%", width: "98%", top: "0", position: "absolute", left: "1%" }}>
+    <ThemeProvider theme={darkTheme}>
+      <CssBaseline />
       <Grid rows={data} />
-    </div>
+    </ThemeProvider>
   )
 }
 

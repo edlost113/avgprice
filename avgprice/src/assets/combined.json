@@ -42,7 +42,7 @@
     "priceSane" : 425
   },
   {
-    "book" : "400",
+    "book" : "FTD 23",
     "name" : "+1 Dragonhide Belt",
     "priceAverage" : 400,
     "priceMerchant" : 400,
@@ -7910,7 +7910,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "60000",
+    "book" : "POTA",
     "name" : "Orcsplitter (greataxe)",
     "priceAverage" : 60000,
     "priceMerchant" : 60000,
@@ -11788,7 +11788,7 @@
     "priceSane" : 55000
   },
   {
-    "book" : "51000",
+    "book" : "DMG",
     "name" : "Sword of Answering (longsword)",
     "priceAverage" : 43500,
     "priceMerchant" : 51000,
@@ -13116,6 +13116,13 @@
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
     "priceSane" : 4000
+  },
+  {
+    "book" : "BMT",
+    "name" : "Wraps of Unarmed Prowess +3",
+    "priceAverage" : 16000,
+    "priceMerchant" : 16000,
+    "priceSane" : 16000
   },
   {
     "book" : "TGS2",
