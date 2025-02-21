@@ -15,7 +15,7 @@ const App = () => {
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
-      <Box id="gridD">
+      <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'98%'}}>
         <Grid rows={data} />
       </Box>
     </ThemeProvider>
