@@ -64,6 +64,7 @@ function getRowId(row: any) {
           getRowId={getRowId}
           disableColumnFilter
           disableDensitySelector
+          disableRowSelectionOnClick
           getRowClassName={(params) =>
             params.indexRelativeToCurrentPage % 2 === 0 ? 'even' : 'odd'
           }
