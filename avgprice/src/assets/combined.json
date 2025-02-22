@@ -42,7 +42,7 @@
     "priceSane" : 425
   },
   {
-    "book" : "FTD 23",
+    "book" : "400",
     "name" : "+1 Dragonhide Belt",
     "priceAverage" : 400,
     "priceMerchant" : 400,
@@ -6104,76 +6104,6 @@
     "priceSane" : 50
   },
   {
-    "book" : "GGR",
-    "name" : "Keyrune - Azorius",
-    "priceAverage" : 5000,
-    "priceMerchant" : 5000,
-    "priceSane" : 5000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Boros",
-    "priceAverage" : 6000,
-    "priceMerchant" : 6000,
-    "priceSane" : 6000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Dimir",
-    "priceAverage" : 10000,
-    "priceMerchant" : 10000,
-    "priceSane" : 10000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Golgari",
-    "priceAverage" : 6000,
-    "priceMerchant" : 6000,
-    "priceSane" : 6000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Gruul",
-    "priceAverage" : 4000,
-    "priceMerchant" : 4000,
-    "priceSane" : 4000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Izzet",
-    "priceAverage" : 4000,
-    "priceMerchant" : 4000,
-    "priceSane" : 4000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Orzhov",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Rakdos",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Selesnya",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
-    "book" : "GGR",
-    "name" : "Keyrune - Simic",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
     "book" : "MOT",
     "name" : "Khrusor, Spear of Heliod",
     "priceAverage" : 80000,
@@ -6714,13 +6644,6 @@
   },
   {
     "book" : "TCE",
-    "name" : "Magic Tattoo - Absorbing",
-    "priceAverage" : 24000,
-    "priceMerchant" : 24000,
-    "priceSane" : 24000
-  },
-  {
-    "book" : "TCE",
     "name" : "Magic Tattoo - Barrier - Rare",
     "priceAverage" : 12000,
     "priceMerchant" : 12000,
@@ -6739,104 +6662,6 @@
     "priceAverage" : 24000,
     "priceMerchant" : 24000,
     "priceSane" : 24000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Blood Fury",
-    "priceAverage" : 3000,
-    "priceMerchant" : 3000,
-    "priceSane" : 3000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Coiling Grasp",
-    "priceAverage" : 3000,
-    "priceMerchant" : 3000,
-    "priceSane" : 3000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Eldritch Claw",
-    "priceAverage" : 500,
-    "priceMerchant" : 500,
-    "priceSane" : 500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Ghost Step",
-    "priceAverage" : 3000,
-    "priceMerchant" : 3000,
-    "priceSane" : 3000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Illuminator's",
-    "priceAverage" : 500,
-    "priceMerchant" : 500,
-    "priceSane" : 500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Lifewell",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Masquerade",
-    "priceAverage" : 500,
-    "priceMerchant" : 500,
-    "priceSane" : 500
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Shadowfell Brand",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 1st Level",
-    "priceAverage" : 300,
-    "priceMerchant" : 300,
-    "priceSane" : 300
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 2nd Level",
-    "priceAverage" : 600,
-    "priceMerchant" : 600,
-    "priceSane" : 600
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 3rd Level",
-    "priceAverage" : 1000,
-    "priceMerchant" : 1000,
-    "priceSane" : 1000
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 4th Level",
-    "priceAverage" : 1600,
-    "priceMerchant" : 1600,
-    "priceSane" : 1600
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 5th Level",
-    "priceAverage" : 3200,
-    "priceMerchant" : 3200,
-    "priceSane" : 3200
-  },
-  {
-    "book" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - Cantrip",
-    "priceAverage" : 50,
-    "priceMerchant" : 50,
-    "priceSane" : 50
   },
   {
     "book" : "TGS2",
@@ -7910,7 +7735,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "POTA",
+    "book" : "60000",
     "name" : "Orcsplitter (greataxe)",
     "priceAverage" : 60000,
     "priceMerchant" : 60000,
@@ -11788,7 +11613,7 @@
     "priceSane" : 55000
   },
   {
-    "book" : "DMG",
+    "book" : "51000",
     "name" : "Sword of Answering (longsword)",
     "priceAverage" : 43500,
     "priceMerchant" : 51000,
