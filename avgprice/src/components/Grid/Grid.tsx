@@ -65,9 +65,6 @@ function getRowId(row: any) {
           disableColumnFilter
           disableDensitySelector
           disableRowSelectionOnClick
-          getRowClassName={(params) =>
-            params.indexRelativeToCurrentPage % 2 === 0 ? 'even' : 'odd'
-          }
           slots={{ toolbar: GridToolbar }}
           initialState={{
             ...rows.initialState,

@@ -16,7 +16,13 @@ const App = () => {
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
-      <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'98%'}}>
+      <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
+        <Box>
+        Same as !avgprice. <br /> 
+        The items were looked up in !sane and !price. <br />
+        The two prices are then averaged. <br />
+        If the item does not exist in either, then the price from dungeonsports is used. <br />
+        </Box>
         <Grid rows={data} />
       </Box>
     </ThemeProvider>
