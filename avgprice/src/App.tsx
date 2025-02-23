@@ -2,17 +2,29 @@
 import { data } from './data'
 import Box from '@mui/material/Box';
 import { Grid } from './components/Grid'
+import { Mobile } from './components/Mobile'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import React, { useEffect, useState } from 'react';
 
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
   },
 });
-
 const App = () => {
- 
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(max-width: 767px)');
+    setIsMobile(mediaQuery.matches);
+
+    const handleResize = () => setIsMobile(mediaQuery.matches);
+    mediaQuery.addEventListener('change', handleResize);
+
+    return () => mediaQuery.removeEventListener('change', handleResize);
+  }, []);
+
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
@@ -23,8 +35,8 @@ const App = () => {
         The two prices are then averaged. <br />
         If the item does not exist in either, then the price from dungeonsports is used. <br />
         </Box>
-        <Grid rows={data} />
-      </Box>
+        {isMobile ? <Grid rows={data} /> : <Mobile rows={data} />}
+        </Box>
     </ThemeProvider>
   )
 }
