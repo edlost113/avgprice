@@ -35,7 +35,7 @@ const App = () => {
         The two prices are then averaged. <br />
         If the item does not exist in either, then the price from dungeonsports is used. <br />
         </Box>
-        {isMobile ? <Grid rows={data} /> : <Mobile rows={data} />}
+        {!isMobile ? <Grid rows={data} /> : <Mobile rows={data} />}
         </Box>
     </ThemeProvider>
   )
