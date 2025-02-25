@@ -7,7 +7,8 @@ import { Sound } from './components/Sound'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { useEffect, useState } from 'react';
-
+import gifPath from './assets/dancingwizard.gif'; // Adjust the path accordingly
+import './App.css'
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
@@ -31,11 +32,16 @@ const App = () => {
       <CssBaseline />
       <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
         <Box>
+        <div>
+          <img src={gifPath} alt="dancing wizard" id="dancingWizard"/>
+        </div>
         <Sound></Sound>
-        Same as !avgprice. <br /> 
-        The items were looked up in !sane and !price. <br />
-        The two prices are then averaged. <br />
-        If the item does not exist in either, then the price from dungeonsports is used. <br />
+        <div id="useageText">
+          Same as !avgprice. <br /> 
+          The items were looked up in !sane and !price. <br />
+          The two prices are then averaged. <br />
+          If the item does not exist in either, then the price from dungeonsports is used. <br />
+        </div>
         </Box>
         {!isMobile ? <Grid rows={data} /> : <Mobile rows={data} />}
         </Box>
