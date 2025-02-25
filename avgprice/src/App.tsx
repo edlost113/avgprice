@@ -9,6 +9,12 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { useEffect, useState } from 'react';
 import gifPath from './assets/dancingwizard.gif'; // Adjust the path accordingly
 import './App.css'
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+
+
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
