@@ -3,6 +3,7 @@ import { data } from './data'
 import Box from '@mui/material/Box';
 import { Grid } from './components/Grid'
 import { Mobile } from './components/Mobile'
+import { Sound } from './components/Sound'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { useEffect, useState } from 'react';
@@ -30,6 +31,7 @@ const App = () => {
       <CssBaseline />
       <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
         <Box>
+        <Sound></Sound>
         Same as !avgprice. <br /> 
         The items were looked up in !sane and !price. <br />
         The two prices are then averaged. <br />
