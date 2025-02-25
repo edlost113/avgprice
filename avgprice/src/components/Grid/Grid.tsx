@@ -5,11 +5,25 @@ import imgSrc from '../../assets/wondrousitem.jpg'
 import './grid.css'
 
 export const Grid = ({ rows }: any) => {
+
+  function renderSwitch(raw: string) {
+    var imgOut: string = imgSrc
+    switch (raw) {
+    case 'wonderousItem': imgOut = imgSrc;
+    }
+    return imgOut
+  }
+
 const columns = [
+  { field: "itemType", headerName: "", width: 20, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
+    renderCell: (params: any) => (
+        <img className="imgIcon" src={renderSwitch(params)}></img>
+    ),
+  },
   { field: "name", headerName: "Name", width: 350, filterable: true,
     renderCell: (params: any) => (
         <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(params.value)}`} target="_blank" rel="noreferrer">
-                          <img className="imgIcon" src={imgSrc}></img>&nbsp;&nbsp;&nbsp;{params.value}
+                          {params.value}
                         </a>
     ),
   },
