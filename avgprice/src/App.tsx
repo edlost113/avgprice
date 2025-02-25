@@ -16,8 +16,8 @@ import '@fontsource/roboto/700.css';
 
 
 const darkTheme = createTheme({
-  palette: {
-    mode: 'dark',
+  colorSchemes: {
+    dark: true,
   },
 });
 const App = () => {
