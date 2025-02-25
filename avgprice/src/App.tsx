@@ -3,7 +3,7 @@ import { data } from './data'
 import Box from '@mui/material/Box';
 import { Grid } from './components/Grid'
 import { Mobile } from './components/Mobile'
-import { Sound } from './components/Sound'
+//import { Sound } from './components/Sound'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { useEffect, useState } from 'react';
@@ -29,13 +29,13 @@ const App = () => {
 
   return (
     <ThemeProvider theme={darkTheme}>
+      {/*<Sound></Sound>*/}
       <CssBaseline />
       <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
         <Box>
         <div>
           <img src={gifPath} alt="dancing wizard" id="dancingWizard"/>
         </div>
-        <Sound></Sound>
         <div id="useageText">
           Same as !avgprice. <br /> 
           The items were looked up in !sane and !price. <br />
