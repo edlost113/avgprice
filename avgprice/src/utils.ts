@@ -2,6 +2,24 @@ export const capitalize = (str: string) => str?.replace(/\b\w/g, substr => subst
 
 export const encode = (str: string) => encodeURIComponent(str)
 
+/**
+ * If argument is a string, try to parse as JSON.
+ * Otherwise return null.
+ */
+export function parseOrNull(raw: unknown) {
+  if (!raw) return null
+
+  if (typeof raw === 'string') {
+    try {
+      return JSON.parse(raw)
+    } catch(e) {
+      console.warn(`Failed to parse: ${raw.substring(0, 50)}`)
+      return null
+    }
+  }
+
+  return null
+}
 
 export const random = (min: number, max: number): number => (
     Math.floor(Math.random() * (max - min + 1)) + min * 1000

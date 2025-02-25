@@ -1,5 +1,6 @@
-import { DataGrid,GridToolbar } from "@mui/x-data-grid";
+import { DataGrid,GridToolbar, useGridApiRef} from "@mui/x-data-grid";
 import { encode } from '../../utils'
+import { usePersistColumnSettings } from './GridState'
 import './grid.css'
 
 export const Grid = ({ rows }: any) => {
@@ -53,7 +54,8 @@ const columns = [
     ),
   },
 ];
-
+const apiRef = useGridApiRef()
+  usePersistColumnSettings(apiRef, 'customers-grid')
 function getRowId(row: any) {
   return row.name;
 }
