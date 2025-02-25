@@ -4,14 +4,14 @@ import './mobile.css'
 
 export const Mobile = ({ rows }: any) => {
 const columns = [
-  { field: "name", headerName: "Name", width: 350, filterable: true,
+  { field: "name", headerName: "Name", width: 250, filterable: true,
     renderCell: (params: any) => (
         <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(params.value)}`} target="_blank" rel="noreferrer">
                           {params.value}
                         </a>
     ),
   },
-  { field: "priceAverage", headerName: "Price", width: 100, 
+  { field: "priceAverage", headerName: "Price", width: 150, 
     valueGetter: (value: any) => {
       if (value==0) {
         return 'unknown';
