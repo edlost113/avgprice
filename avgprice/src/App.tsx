@@ -7,7 +7,7 @@ import { Mobile } from './components/Mobile'
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { useEffect, useState } from 'react';
-import gifPath from './assets/dancingwizard.gif'; // Adjust the path accordingly
+import gifPath from './assets/dancingwizard.gif';
 import './App.css'
 import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
@@ -40,11 +40,12 @@ const App = () => {
       <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
         <Box>
         <div>
-          <img src={gifPath} alt="dancing wizard" id="dancingWizard"/>
+          <img src={gifPath} alt="dancing wizard" id="dancingWizardLeft" className="reverse"/>
+          <img src={gifPath} alt="ggnore" id="dancingWizardRight" />
         </div>
         <div id="useageText">
-          Same as !avgprice. <br /> 
-          The items were looked up in !sane and !price. <br />
+          Same as <code className="bold">!avgprice</code>. <br /> 
+          The items were looked up in <code className="bold">!sane</code> and <code className="bold">!price</code>. <br />
           The two prices are then averaged. <br />
           If the item does not exist in either, then the price from dungeonsports is used. <br />
         </div>

@@ -1,5 +1,17 @@
-#dancingWizard {
+#dancingWizardRight {
 width: 96px;
 height: 96px;
 float: right;
+}
+#dancingWizardLeft {
+    width: 96px;
+    height: 96px;
+    float: left;
+    }
+.reverse {
+    transform: scaleX(-1);
+}
+
+.bold {
+    font-weight: bold;
 }
