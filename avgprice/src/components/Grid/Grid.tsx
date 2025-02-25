@@ -1,15 +1,19 @@
 import { DataGrid,GridToolbar, useGridApiRef} from "@mui/x-data-grid";
 import { encode } from '../../utils'
 import { usePersistColumnSettings } from './GridState'
-import imgSrc from '../../assets/wondrousitem.jpg'
+import imgSrcWonderous from '../../assets/wondrousitem.jpg'
+import imgSrcArmor from '../../assets/armor.jpg'
+import imgSrcWeapon from '../../assets/weapon.jpg'
 import './grid.css'
 
 export const Grid = ({ rows }: any) => {
 
   function renderSwitch(raw: string) {
-    var imgOut: string = imgSrc
+    var imgOut: string = imgSrcWonderous
     switch (raw) {
-    case 'wonderousItem': imgOut = imgSrc;
+    case 'wonderousItem': imgOut = imgSrcWonderous; break;
+    case 'weaponItem': imgOut = imgSrcWeapon; break;
+    case 'armorItem': imgOut = imgSrcArmor; break;
     }
     return imgOut
   }
@@ -17,7 +21,7 @@ export const Grid = ({ rows }: any) => {
 const columns = [
   { field: "itemType", headerName: "", width: 20, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
     renderCell: (params: any) => (
-        <img className="imgIcon" src={renderSwitch(params)}></img>
+        <img className="imgIcon" src={renderSwitch(params.value)}></img>
     ),
   },
   { field: "name", headerName: "Name", width: 350, filterable: true,

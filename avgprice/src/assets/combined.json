@@ -9,7 +9,7 @@
   },
   {
     "book" : "DMG 150",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+1 Ammunition (any) ",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -33,7 +33,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+1 Armor (light medium or heavy)",
     "priceAverage" : 2500,
     "priceMerchant" : 3500,
@@ -57,7 +57,7 @@
   },
   {
     "book" : "TCE 133",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+1 Moon Sickle",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -73,7 +73,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+1 Shield",
     "priceAverage" : 975,
     "priceMerchant" : 450,
@@ -81,7 +81,7 @@
   },
   {
     "book" : "DMG 212",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+1 Wand of the War Mage",
     "priceAverage" : 800,
     "priceMerchant" : 400,
@@ -89,7 +89,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+1 Weapon (any)",
     "priceAverage" : 750,
     "priceMerchant" : 500,
@@ -105,7 +105,7 @@
   },
   {
     "book" : "DMG 150",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+2 Ammunition (any) ",
     "priceAverage" : 250,
     "priceMerchant" : 250,
@@ -129,7 +129,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+2 Armor (light medium or heavy)",
     "priceAverage" : 13000,
     "priceMerchant" : 20000,
@@ -153,7 +153,7 @@
   },
   {
     "book" : "TCE 133",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+2 Moon Sickle",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -169,7 +169,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+2 Shield",
     "priceAverage" : 5000,
     "priceMerchant" : 4000,
@@ -177,7 +177,7 @@
   },
   {
     "book" : "DMG 212",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+2 Wand of the War Mage",
     "priceAverage" : 4400,
     "priceMerchant" : 4000,
@@ -185,7 +185,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+2 Weapon (any)",
     "priceAverage" : 3250,
     "priceMerchant" : 2500,
@@ -201,7 +201,7 @@
   },
   {
     "book" : "DMG 150",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+3 Ammunition (any) ",
     "priceAverage" : 1250,
     "priceMerchant" : 1250,
@@ -225,7 +225,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+3 Armor (light medium or heavy)",
     "priceAverage" : 37500,
     "priceMerchant" : 51000,
@@ -249,7 +249,7 @@
   },
   {
     "book" : "TCE 133",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+3 Moon Sickle",
     "priceAverage" : 16500,
     "priceMerchant" : 16500,
@@ -265,7 +265,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+3 Shield",
     "priceAverage" : 23000,
     "priceMerchant" : 22000,
@@ -273,7 +273,7 @@
   },
   {
     "book" : "DMG 212",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+3 Wand of the War Mage",
     "priceAverage" : 16600,
     "priceMerchant" : 14000,
@@ -281,7 +281,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+3 Weapon (any)",
     "priceAverage" : 15500,
     "priceMerchant" : 15000,
