@@ -1,6 +1,7 @@
 import { DataGrid,GridToolbar, useGridApiRef} from "@mui/x-data-grid";
 import { encode } from '../../utils'
 import { usePersistColumnSettings } from './GridState'
+import imgSrc from '../../assets/wondrousitem.jpg'
 import './grid.css'
 
 export const Grid = ({ rows }: any) => {
@@ -8,7 +9,7 @@ const columns = [
   { field: "name", headerName: "Name", width: 350, filterable: true,
     renderCell: (params: any) => (
         <a href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(params.value)}`} target="_blank" rel="noreferrer">
-                          {params.value}
+                          <img className="imgIcon" src={imgSrc}></img>&nbsp;&nbsp;&nbsp;{params.value}
                         </a>
     ),
   },
