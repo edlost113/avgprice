@@ -5,6 +5,16 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "/avgprice",
   plugins: [react()],
-  build: { chunkSizeWarningLimit: 1600, },
+  build: {
+    chunkSizeWarningLimit: 1200,
+    rollupOptions: {
+      onwarn(warning, warn) {
+        if (warning.code === "MODULE_LEVEL_DIRECTIVE") {
+          return;
+        }
+        warn(warning);
+      },
+    },
+  },
 })
   
