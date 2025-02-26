@@ -33,7 +33,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+1 Armor (light medium or heavy)",
     "priceAverage" : 2500,
     "priceMerchant" : 3500,
@@ -73,7 +73,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+1 Shield",
     "priceAverage" : 975,
     "priceMerchant" : 450,
@@ -89,7 +89,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+1 Weapon (any)",
     "priceAverage" : 750,
     "priceMerchant" : 500,
@@ -129,7 +129,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+2 Armor (light medium or heavy)",
     "priceAverage" : 13000,
     "priceMerchant" : 20000,
@@ -169,7 +169,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+2 Shield",
     "priceAverage" : 5000,
     "priceMerchant" : 4000,
@@ -185,7 +185,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+2 Weapon (any)",
     "priceAverage" : 3250,
     "priceMerchant" : 2500,
@@ -225,7 +225,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+3 Armor (light medium or heavy)",
     "priceAverage" : 37500,
     "priceMerchant" : 51000,
@@ -265,7 +265,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "+3 Shield",
     "priceAverage" : 23000,
     "priceMerchant" : 22000,
@@ -281,7 +281,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "+3 Weapon (any)",
     "priceAverage" : 15500,
     "priceMerchant" : 15000,
@@ -345,7 +345,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Acheron Blade",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -353,7 +353,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Aciurgist's Blade",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -409,7 +409,7 @@
   },
   {
     "book" : "DMG 150",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Adamantine Armor (medium or heavy but not hide)",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -473,7 +473,7 @@
   },
   {
     "book" : "MOT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Akmon, Hammer of Purphoros",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
@@ -497,7 +497,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Alchemist's Potion Belt",
     "priceAverage" : 5,
     "priceMerchant" : 5,
@@ -673,7 +673,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Angler's Armor",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -689,7 +689,7 @@
   },
   {
     "book" : "DMG 151",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Animated Shield",
     "priceAverage" : 6000,
     "priceMerchant" : 6000,
@@ -705,7 +705,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Antimagic Armor",
     "priceAverage" : 50000,
     "priceMerchant" : 50000,
@@ -761,7 +761,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Arborguard Shield",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -857,7 +857,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Fungal Spores",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -865,7 +865,7 @@
   },
   {
     "book" : "XGE 136",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Gleaming (any medium or heavy)",
     "priceAverage" : 75,
     "priceMerchant" : 75,
@@ -873,7 +873,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Icarus",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -881,7 +881,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Invulnerability (plate)",
     "priceAverage" : 44000,
     "priceMerchant" : 70000,
@@ -889,7 +889,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Resistance (light medium or heavy)",
     "priceAverage" : 4500,
     "priceMerchant" : 3000,
@@ -897,7 +897,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Safeguarding",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -905,7 +905,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of The Fallen",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -913,7 +913,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Vulnerability (plate)",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -921,7 +921,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of Weightlessness",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -929,7 +929,7 @@
   },
   {
     "book" : "PUN",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Armor of White Rose",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -961,7 +961,7 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Arrow-Catching Shield",
     "priceAverage" : 5250,
     "priceMerchant" : 4500,
@@ -1209,7 +1209,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Bane Shield",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -1241,7 +1241,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "ringItem",
+    "itemType" : "armorItem",
     "name" : "Battering Shield",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -1393,7 +1393,7 @@
   },
   {
     "book" : "DMG 155",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Berserker Axe (cursed)",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -1457,7 +1457,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blackthorn Spear of the Moonless Hunter",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1465,7 +1465,7 @@
   },
   {
     "book" : "BGDIA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blade of Avernus",
     "priceAverage" : 50000,
     "priceMerchant" : 50000,
@@ -1473,7 +1473,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blade of Broken Mirrors (Awakened)",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -1481,7 +1481,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blade of Broken Mirrors (Dormant)",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -1489,7 +1489,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blade of Broken Mirrors (Exalted)",
     "priceAverage" : 30000,
     "priceMerchant" : 30000,
@@ -1505,7 +1505,7 @@
   },
   {
     "book" : "Humblewood Campaign Setting",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blade of the Wood",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -1553,7 +1553,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blood Moon Blade",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1561,7 +1561,7 @@
   },
   {
     "book" : "CS 221",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Blood Spear",
     "priceAverage" : 375,
     "priceMerchant" : 375,
@@ -1641,7 +1641,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bloodshed Blade",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -1753,7 +1753,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Boomerang Shield",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -1929,7 +1929,7 @@
   },
   {
     "book" : "WDH 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bracer of Flying Daggers",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -1993,7 +1993,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Brawler's Ring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -2001,7 +2001,7 @@
   },
   {
     "book" : "Lairs of Etharis",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Brazen Armor",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -2065,7 +2065,7 @@
   },
   {
     "book" : "DMG 156",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Brooch of Shielding",
     "priceAverage" : 3937,
     "priceMerchant" : 375,
@@ -2161,7 +2161,7 @@
   },
   {
     "book" : "BGDIA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Candle Mace",
     "priceAverage" : 1100,
     "priceMerchant" : 1100,
@@ -2297,7 +2297,7 @@
   },
   {
     "book" : "XGE 136",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Cast-Off Armor (light medium or heavy)",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -2649,7 +2649,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Clockwork Armor",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -2833,7 +2833,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Covolt Dagger",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3009,7 +3009,7 @@
   },
   {
     "book" : "WDMM",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dagger of Blind Sight",
     "priceAverage" : 250,
     "priceMerchant" : 250,
@@ -3017,7 +3017,7 @@
   },
   {
     "book" : "WDMM 86",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dagger of Blindsight",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -3025,7 +3025,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dagger of First Light",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3033,7 +3033,7 @@
   },
   {
     "book" : "WDMM",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dagger of Guitar Solos",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -3041,7 +3041,7 @@
   },
   {
     "book" : "DMG 161",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dagger of Venom",
     "priceAverage" : 2000,
     "priceMerchant" : 1500,
@@ -3265,7 +3265,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Delerium-Forged Blade",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
@@ -3281,7 +3281,7 @@
   },
   {
     "book" : "DMG 165",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Demon Armor (plate) (cursed)",
     "priceAverage" : 7500,
     "priceMerchant" : 7500,
@@ -3353,7 +3353,7 @@
   },
   {
     "book" : "ToA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Devlin's Staff of Striking",
     "priceAverage" : 21000,
     "priceMerchant" : 21000,
@@ -3513,7 +3513,7 @@
   },
   {
     "book" : "ToA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Draconic Long Sword",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -3593,7 +3593,7 @@
   },
   {
     "book" : "FTD 25",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dragon's Wrath Weapon (Ascendant) (any)",
     "priceAverage" : 65000,
     "priceMerchant" : 65000,
@@ -3601,7 +3601,7 @@
   },
   {
     "book" : "FTD 25",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Dragon's Wrath Weapon (Slumbering) (any)",
     "priceAverage" : 250,
     "priceMerchant" : 250,
@@ -3609,7 +3609,7 @@
   },
   {
     "book" : "FTD 25",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Dragon's Wrath Weapon (Stirring) (any)",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -3617,7 +3617,7 @@
   },
   {
     "book" : "FTD 25",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dragon's Wrath Weapon (Wakened) (any)",
     "priceAverage" : 11000,
     "priceMerchant" : 11000,
@@ -3713,7 +3713,7 @@
   },
   {
     "book" : "RT 93",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dragontooth Dagger",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -3817,7 +3817,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dusk Dagger",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3825,7 +3825,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dusk Dagger (Rare)",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3833,7 +3833,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dusk Dagger (Uncommon)",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3841,7 +3841,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dusk Dagger (Very Rare)",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3937,7 +3937,7 @@
   },
   {
     "book" : "ERLW 276",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dyrrn's Tentacle Whip",
     "priceAverage" : 17000,
     "priceMerchant" : 17000,
@@ -3993,7 +3993,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Eclipse Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4065,7 +4065,7 @@
   },
   {
     "book" : "WBW 209",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Eldritch Staff",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -4281,7 +4281,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Failed Purity Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4401,7 +4401,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Feywatch Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4425,7 +4425,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Feywrought Armor",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -4553,7 +4553,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Flamebreather Staff",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4617,7 +4617,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Fool's Blade",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -4633,7 +4633,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Forcebreaker Weapon",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -4657,7 +4657,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Forgework Dragon Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4681,7 +4681,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Freerunner's Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4697,7 +4697,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Frostburn Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4745,7 +4745,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Gateway Ring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4801,7 +4801,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Gelatinous Whip",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4921,7 +4921,7 @@
   },
   {
     "book" : "Lairs of Etharis",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Glass-Studded Armor",
     "priceAverage" : 200,
     "priceMerchant" : 200,
@@ -4937,7 +4937,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Gloomwrought Armor",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -5105,7 +5105,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Grasping Staff",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -5113,7 +5113,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Grasping Whip",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -5121,7 +5121,7 @@
   },
   {
     "book" : "OoTA",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Gravenhollow Compas Ring",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -5297,7 +5297,7 @@
   },
   {
     "book" : "CS 221",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Gulthias Staff",
     "priceAverage" : 2200,
     "priceMerchant" : 2200,
@@ -5361,7 +5361,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Hammer of Runic Focus",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -5369,7 +5369,7 @@
   },
   {
     "book" : "DMG 173",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Hammer of Thunderbolts (maul)",
     "priceAverage" : 33500,
     "priceMerchant" : 51000,
@@ -5569,7 +5569,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Heavy Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -5577,7 +5577,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Heavy Golem Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -5609,7 +5609,7 @@
   },
   {
     "book" : "BGDA 223",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Hellfire Weapon",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -5785,7 +5785,7 @@
   },
   {
     "book" : "LLK 55",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Heward’s Hireling Armor (leather)",
     "priceAverage" : 7000,
     "priceMerchant" : 7000,
@@ -5825,7 +5825,7 @@
   },
   {
     "book" : "D&D Beyond",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Hither-Tither Staff",
     "priceAverage" : 2500,
     "priceMerchant" : 2500,
@@ -5993,7 +5993,7 @@
   },
   {
     "book" : "WDMM 310",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Horned Ring",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -6057,7 +6057,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Hushed Ring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -6105,7 +6105,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Ignacious, Sword of Burning Truth",
     "priceAverage" : 60000,
     "priceMerchant" : 60000,
@@ -6113,7 +6113,7 @@
   },
   {
     "book" : "SKT 235",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Ild Rune Armor (light medium or heavy)",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -6121,7 +6121,7 @@
   },
   {
     "book" : "SKT 235",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Ild Rune Weapon (any)",
     "priceAverage" : 400,
     "priceMerchant" : 400,
@@ -6193,7 +6193,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Infernal Plate Armor",
     "priceAverage" : 4200,
     "priceMerchant" : 4200,
@@ -6265,7 +6265,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Inscrutable Staff",
     "priceAverage" : 55000,
     "priceMerchant" : 55000,
@@ -6697,7 +6697,7 @@
   },
   {
     "book" : "WDMM",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Jade Serpent Staff",
     "priceAverage" : 200,
     "priceMerchant" : 200,
@@ -6705,7 +6705,7 @@
   },
   {
     "book" : "CoS",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Jakarion's Staff of Frost",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -6817,7 +6817,7 @@
   },
   {
     "book" : "MOT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Khrusor, Spear of Heliod",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
@@ -6825,7 +6825,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Ki Blade",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -6985,7 +6985,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Last Stand Armor",
     "priceAverage" : 2500,
     "priceMerchant" : 2500,
@@ -6993,7 +6993,7 @@
   },
   {
     "book" : "LLK 55",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Leather Golem Armor (leather)",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -7065,7 +7065,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Light Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7129,7 +7129,7 @@
   },
   {
     "book" : "ERLW 278",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Living Armor",
     "priceAverage" : 9500,
     "priceMerchant" : 9500,
@@ -7217,7 +7217,7 @@
   },
   {
     "book" : "CoS",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Lost Sword",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -7289,7 +7289,7 @@
   },
   {
     "book" : "Lairs of Etharis",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Lycan Weapon",
     "priceAverage" : 4500,
     "priceMerchant" : 4500,
@@ -7313,7 +7313,7 @@
   },
   {
     "book" : "DMG 179",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of Disruption",
     "priceAverage" : 4875,
     "priceMerchant" : 1750,
@@ -7321,7 +7321,7 @@
   },
   {
     "book" : "DMG 179",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of Smiting",
     "priceAverage" : 4500,
     "priceMerchant" : 2000,
@@ -7329,7 +7329,7 @@
   },
   {
     "book" : "DMG 180",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of Terror",
     "priceAverage" : 5750,
     "priceMerchant" : 3500,
@@ -7337,7 +7337,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of the Black Crown (Awakened)",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -7345,7 +7345,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of the Black Crown (Dormant)",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -7353,7 +7353,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of the Black Crown (Exalted)",
     "priceAverage" : 30000,
     "priceMerchant" : 30000,
@@ -7361,7 +7361,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of the Priest",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7369,7 +7369,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mace of the Pumpkin King",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7425,7 +7425,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Mageplate Ring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7529,7 +7529,7 @@
   },
   {
     "book" : "DMG 181",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Mariner's Armor (light medium or heavy)",
     "priceAverage" : 950,
     "priceMerchant" : 400,
@@ -7633,7 +7633,7 @@
   },
   {
     "book" : "MOT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Mastix, Whip of Erebos",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
@@ -7753,7 +7753,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Melee Weapon",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7945,7 +7945,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Mistwalker Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7953,7 +7953,7 @@
   },
   {
     "book" : "AI",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Mithral +1 Armor",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -7961,7 +7961,7 @@
   },
   {
     "book" : "DMG 182",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Mithral Armor (medium or heavy but not hide)",
     "priceAverage" : 625,
     "priceMerchant" : 450,
@@ -7985,7 +7985,7 @@
   },
   {
     "book" : "GGR 179",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Mizzium Armor (medium or heavy but not hide)",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -8049,7 +8049,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Monster Tamer's Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8057,7 +8057,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Monster Tamer's Sword",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8209,7 +8209,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Myceliaweave Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8369,7 +8369,7 @@
   },
   {
     "book" : "CM",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Nether Scroll of Azumar",
     "priceAverage" : 200000,
     "priceMerchant" : 200000,
@@ -8377,7 +8377,7 @@
   },
   {
     "book" : "PaBTSO",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Netherese Ring of Protection",
     "priceAverage" : 4500,
     "priceMerchant" : 4500,
@@ -8409,7 +8409,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Nightstalker's Armor of the Northeastern Wind",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8441,7 +8441,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Nimbus, First Staff of the Thunderbirds",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8481,7 +8481,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Novanite Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8633,7 +8633,7 @@
   },
   {
     "book" : "ERLW 278",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Orb of Shielding",
     "priceAverage" : 80,
     "priceMerchant" : 80,
@@ -8697,7 +8697,7 @@
   },
   {
     "book" : "CoS",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Order of the Silver Dragon +2 Shield",
     "priceAverage" : 6500,
     "priceMerchant" : 6500,
@@ -8793,7 +8793,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Owlbear Leather Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8825,7 +8825,7 @@
   },
   {
     "book" : "GGR 180",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Pariah's Shield",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -8881,7 +8881,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Peregrine Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8985,7 +8985,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Phoenix Rocket Sword",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9081,7 +9081,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Pisces Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9137,7 +9137,7 @@
   },
   {
     "book" : "DMG 185",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Plate Armor of Etherealness",
     "priceAverage" : 54000,
     "priceMerchant" : 60000,
@@ -9161,7 +9161,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Poison Armor of Amphibios",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9257,7 +9257,7 @@
   },
   {
     "book" : "WBW 212",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Advantage",
     "priceAverage" : 125,
     "priceMerchant" : 125,
@@ -9265,7 +9265,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Animal Friendship",
     "priceAverage" : 200,
     "priceMerchant" : 200,
@@ -9273,7 +9273,7 @@
   },
   {
     "book" : "MOT 197",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Aqueous Form ",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -9281,7 +9281,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Clairvoyance",
     "priceAverage" : 930,
     "priceMerchant" : 900,
@@ -9289,7 +9289,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Climbing",
     "priceAverage" : 105,
     "priceMerchant" : 30,
@@ -9297,7 +9297,7 @@
   },
   {
     "book" : "WDMM 62",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Comprehension",
     "priceAverage" : 25,
     "priceMerchant" : 25,
@@ -9305,7 +9305,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Diminution",
     "priceAverage" : 385,
     "priceMerchant" : 500,
@@ -9313,7 +9313,7 @@
   },
   {
     "book" : "FTD",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Dragon's Majesty",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -9321,7 +9321,7 @@
   },
   {
     "book" : "FTD 24",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Dragon’s Majesty ",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
@@ -9329,7 +9329,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Fire Breath",
     "priceAverage" : 250,
     "priceMerchant" : 350,
@@ -9337,7 +9337,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Flying",
     "priceAverage" : 1500,
     "priceMerchant" : 2500,
@@ -9345,7 +9345,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Gaseous Form",
     "priceAverage" : 900,
     "priceMerchant" : 1500,
@@ -9353,7 +9353,7 @@
   },
   {
     "book" : "SKT 236",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Size ",
     "priceAverage" : 11000,
     "priceMerchant" : 11000,
@@ -9361,7 +9361,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Strength (Cloud) ",
     "priceAverage" : 1800,
     "priceMerchant" : 1800,
@@ -9369,7 +9369,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Strength (Fire) ",
     "priceAverage" : 1200,
     "priceMerchant" : 1200,
@@ -9377,7 +9377,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Strength (Frost\/Stone) ",
     "priceAverage" : 650,
     "priceMerchant" : 650,
@@ -9385,7 +9385,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Strength (Hill)",
     "priceAverage" : 125,
     "priceMerchant" : 125,
@@ -9393,7 +9393,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Giant Strength (Storm) ",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -9401,7 +9401,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Greater Healing",
     "priceAverage" : 150,
     "priceMerchant" : 150,
@@ -9409,7 +9409,7 @@
   },
   {
     "book" : "DMG 187-188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Greater healing",
     "priceAverage" : 300,
     "priceMerchant" : 300,
@@ -9417,7 +9417,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Growth",
     "priceAverage" : 285,
     "priceMerchant" : 300,
@@ -9425,7 +9425,7 @@
   },
   {
     "book" : "DMG 187-188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Healing",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -9433,7 +9433,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Heroism",
     "priceAverage" : 490,
     "priceMerchant" : 800,
@@ -9441,7 +9441,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Invisibility",
     "priceAverage" : 1090,
     "priceMerchant" : 2000,
@@ -9449,7 +9449,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Invulnerability",
     "priceAverage" : 2670,
     "priceMerchant" : 1500,
@@ -9457,7 +9457,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Longevity",
     "priceAverage" : 6000,
     "priceMerchant" : 3000,
@@ -9465,7 +9465,7 @@
   },
   {
     "book" : "PUN",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Maximum Power",
     "priceAverage" : 300,
     "priceMerchant" : 300,
@@ -9473,7 +9473,7 @@
   },
   {
     "book" : "TYP 229",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Mind Control (beast) ",
     "priceAverage" : 1600,
     "priceMerchant" : 1600,
@@ -9481,7 +9481,7 @@
   },
   {
     "book" : "TYP 229",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Mind Control (humanoid) ",
     "priceAverage" : 2500,
     "priceMerchant" : 2500,
@@ -9489,7 +9489,7 @@
   },
   {
     "book" : "TYP 229",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Mind Control (monster) ",
     "priceAverage" : 6000,
     "priceMerchant" : 6000,
@@ -9497,7 +9497,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Mind Reading",
     "priceAverage" : 640,
     "priceMerchant" : 1100,
@@ -9505,7 +9505,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Poison",
     "priceAverage" : 300,
     "priceMerchant" : 500,
@@ -9513,7 +9513,7 @@
   },
   {
     "book" : "DILCT",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Polychromy",
     "priceAverage" : 200,
     "priceMerchant" : 200,
@@ -9521,7 +9521,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Possibility",
     "priceAverage" : 200,
     "priceMerchant" : 200,
@@ -9529,7 +9529,7 @@
   },
   {
     "book" : "PaBTSO",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Psionic Fortitude",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -9537,7 +9537,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Resistance",
     "priceAverage" : 400,
     "priceMerchant" : 500,
@@ -9545,7 +9545,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Speed",
     "priceAverage" : 1200,
     "priceMerchant" : 2000,
@@ -9553,7 +9553,7 @@
   },
   {
     "book" : "DMG 187",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Superior Healing",
     "priceAverage" : 450,
     "priceMerchant" : 450,
@@ -9561,7 +9561,7 @@
   },
   {
     "book" : "DMG 187-188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Superior healing ",
     "priceAverage" : 750,
     "priceMerchant" : 750,
@@ -9569,7 +9569,7 @@
   },
   {
     "book" : "DMG 187-188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Supreme Healing",
     "priceAverage" : 1425,
     "priceMerchant" : 1500,
@@ -9577,7 +9577,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Vitality",
     "priceAverage" : 1380,
     "priceMerchant" : 1800,
@@ -9585,7 +9585,7 @@
   },
   {
     "book" : "WDMM 62",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Watchful Rest",
     "priceAverage" : 35,
     "priceMerchant" : 35,
@@ -9593,7 +9593,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Water Breathing",
     "priceAverage" : 180,
     "priceMerchant" : 180,
@@ -9601,7 +9601,7 @@
   },
   {
     "book" : "DMG 188",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of Waterbreathing",
     "priceAverage" : 400,
     "priceMerchant" : 400,
@@ -9609,7 +9609,7 @@
   },
   {
     "book" : "PUN",
-    "itemType" : "wonderousItem",
+    "itemType" : "potionItem",
     "name" : "Potion of possibility",
     "priceAverage" : 1900,
     "priceMerchant" : 1900,
@@ -9625,7 +9625,7 @@
   },
   {
     "book" : "LLK 56",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Powered Armor (plate)",
     "priceAverage" : 30000,
     "priceMerchant" : 30000,
@@ -9753,7 +9753,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Prying Mace",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9857,7 +9857,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Quick Change Ring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9961,7 +9961,7 @@
   },
   {
     "book" : "D&D Beyond",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Red Wizard Blade",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -9993,7 +9993,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Redsmith Hammer",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10153,7 +10153,7 @@
   },
   {
     "book" : "DMG 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Air Elemental Command",
     "priceAverage" : 35000,
     "priceMerchant" : 35000,
@@ -10161,7 +10161,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Amity",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -10169,7 +10169,7 @@
   },
   {
     "book" : "DMG 189",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Animal Influence",
     "priceAverage" : 2500,
     "priceMerchant" : 1000,
@@ -10177,7 +10177,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Changing Shapes",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10185,7 +10185,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Collection",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -10193,7 +10193,7 @@
   },
   {
     "book" : "DMG 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Djinni Summoning",
     "priceAverage" : 125000,
     "priceMerchant" : 125000,
@@ -10201,7 +10201,7 @@
   },
   {
     "book" : "DMG 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Earth Elemental Command",
     "priceAverage" : 31000,
     "priceMerchant" : 31000,
@@ -10209,7 +10209,7 @@
   },
   {
     "book" : "DMG 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Elemental Command",
     "priceAverage" : 200000,
     "priceMerchant" : 200000,
@@ -10217,7 +10217,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Evasion",
     "priceAverage" : 4950,
     "priceMerchant" : 4900,
@@ -10225,7 +10225,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Feather Falling",
     "priceAverage" : 2100,
     "priceMerchant" : 2200,
@@ -10233,7 +10233,7 @@
   },
   {
     "book" : "DMG 190",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Fire Elemental Command",
     "priceAverage" : 17000,
     "priceMerchant" : 17000,
@@ -10241,7 +10241,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Free Action",
     "priceAverage" : 12250,
     "priceMerchant" : 4500,
@@ -10249,7 +10249,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Healer's Heroism",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10257,7 +10257,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Invisibility",
     "priceAverage" : 42500,
     "priceMerchant" : 75000,
@@ -10265,7 +10265,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Jumping",
     "priceAverage" : 1375,
     "priceMerchant" : 250,
@@ -10273,7 +10273,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Lunar Might",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10281,7 +10281,7 @@
   },
   {
     "book" : "PUN",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Ring of Mind Shielding",
     "priceAverage" : 600,
     "priceMerchant" : 600,
@@ -10289,7 +10289,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Misdirection",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10305,7 +10305,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Protection",
     "priceAverage" : 3250,
     "priceMerchant" : 3000,
@@ -10313,7 +10313,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Puzzler's Wit",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -10321,7 +10321,7 @@
   },
   {
     "book" : "CRCotN",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Red Fury",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
@@ -10329,7 +10329,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Regeneration",
     "priceAverage" : 26000,
     "priceMerchant" : 40000,
@@ -10337,7 +10337,7 @@
   },
   {
     "book" : "DMG 192",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Resistance",
     "priceAverage" : 4750,
     "priceMerchant" : 3500,
@@ -10345,7 +10345,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Rituals",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10353,7 +10353,7 @@
   },
   {
     "book" : "DMG 192",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Shooting Stars",
     "priceAverage" : 17000,
     "priceMerchant" : 20000,
@@ -10361,7 +10361,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Solar's Sight",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10377,7 +10377,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Spell Turning",
     "priceAverage" : 48000,
     "priceMerchant" : 66000,
@@ -10385,7 +10385,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Stolen Alacrity",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10393,7 +10393,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Swimming",
     "priceAverage" : 1650,
     "priceMerchant" : 300,
@@ -10401,7 +10401,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Telekinesis",
     "priceAverage" : 52500,
     "priceMerchant" : 25000,
@@ -10409,7 +10409,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Temporal Salvation",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -10417,7 +10417,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Three Wishes",
     "priceAverage" : 97950,
     "priceMerchant" : 97950,
@@ -10425,7 +10425,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Treachery",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -10433,7 +10433,7 @@
   },
   {
     "book" : "WDH 192",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Truth Telling",
     "priceAverage" : 150,
     "priceMerchant" : 150,
@@ -10441,7 +10441,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Volleys",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10449,7 +10449,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Warmth",
     "priceAverage" : 740,
     "priceMerchant" : 480,
@@ -10457,7 +10457,7 @@
   },
   {
     "book" : "DMG 191",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Water Elemental Command",
     "priceAverage" : 25000,
     "priceMerchant" : 25000,
@@ -10465,7 +10465,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Water Walking",
     "priceAverage" : 1000,
     "priceMerchant" : 500,
@@ -10473,7 +10473,7 @@
   },
   {
     "book" : "ToA",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of Winter",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
@@ -10481,7 +10481,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of X-Ray Vision",
     "priceAverage" : 4750,
     "priceMerchant" : 3500,
@@ -10489,7 +10489,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Arcane Berserker",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10497,7 +10497,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Assassin Lord",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10505,7 +10505,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Copycat",
     "priceAverage" : 6500,
     "priceMerchant" : 6500,
@@ -10513,7 +10513,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Mute Mage",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10521,7 +10521,7 @@
   },
   {
     "book" : "PaBTSO",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Orator",
     "priceAverage" : 150,
     "priceMerchant" : 150,
@@ -10529,7 +10529,7 @@
   },
   {
     "book" : "DMG 193",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Ram",
     "priceAverage" : 4500,
     "priceMerchant" : 4000,
@@ -10537,7 +10537,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Ring of the Split Mind",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10545,7 +10545,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Rings of the True Companions",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10561,7 +10561,7 @@
   },
   {
     "book" : "CRCotN",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Riudium Weapon",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -10569,7 +10569,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Roaring Whip",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10857,7 +10857,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Royal Blade of Amphibios",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10897,7 +10897,7 @@
   },
   {
     "book" : "CRCotN",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Ruidium Armor",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -10905,7 +10905,7 @@
   },
   {
     "book" : "CRCotN",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Ruidium Shield",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -11185,7 +11185,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Scorpio Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11193,7 +11193,7 @@
   },
   {
     "book" : "TA 208",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Scorpion Armor (plate)",
     "priceAverage" : 2100,
     "priceMerchant" : 2100,
@@ -11225,7 +11225,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Mapping",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11233,7 +11233,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Mapping (Uncommon)",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11241,7 +11241,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Mapping (Very Rare)",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11249,7 +11249,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Nightmares",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11257,7 +11257,7 @@
   },
   {
     "book" : "DMG 199",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Protection",
     "priceAverage" : 1840,
     "priceMerchant" : 3500,
@@ -11265,7 +11265,7 @@
   },
   {
     "book" : "IDRF 315",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of Tarrasque Summoning",
     "priceAverage" : 150000,
     "priceMerchant" : 150000,
@@ -11273,7 +11273,7 @@
   },
   {
     "book" : "IDRF 315-316",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of the Comet",
     "priceAverage" : 250000,
     "priceMerchant" : 250000,
@@ -11281,7 +11281,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Scroll of the Jester",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11353,7 +11353,7 @@
   },
   {
     "book" : "DMG 199",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Sentinel Shield",
     "priceAverage" : 10150,
     "priceMerchant" : 300,
@@ -11369,7 +11369,7 @@
   },
   {
     "book" : "CM",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Serpent Scale Armor",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -11505,7 +11505,7 @@
   },
   {
     "book" : "IDRotF",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield Guardian Amulet",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -11513,7 +11513,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of Expression",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -11521,7 +11521,7 @@
   },
   {
     "book" : "VGM 81",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of Far Sight",
     "priceAverage" : 750,
     "priceMerchant" : 750,
@@ -11529,7 +11529,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of Missile Attraction",
     "priceAverage" : 3500,
     "priceMerchant" : 1000,
@@ -11537,7 +11537,7 @@
   },
   {
     "book" : "ToA",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of Shouting",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -11545,7 +11545,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of the Blazing Dreadnought",
     "priceAverage" : 20000,
     "priceMerchant" : 20000,
@@ -11553,7 +11553,7 @@
   },
   {
     "book" : "BGDA 225",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of the Hidden Lord",
     "priceAverage" : 86000,
     "priceMerchant" : 86000,
@@ -11561,7 +11561,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of the Justicars",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11569,7 +11569,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of the Tortoise",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -11577,7 +11577,7 @@
   },
   {
     "book" : "WDMM 299",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Shield of the Uven Rune",
     "priceAverage" : 11000,
     "priceMerchant" : 11000,
@@ -11657,7 +11657,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Siege Staff",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11761,7 +11761,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Simple Weapon, Rod",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11793,7 +11793,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Sir Varion's Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11809,7 +11809,7 @@
   },
   {
     "book" : "SKT 234",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Skold Rune Shield",
     "priceAverage" : 2600,
     "priceMerchant" : 2600,
@@ -11849,7 +11849,7 @@
   },
   {
     "book" : "GGR 181",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Skyblinder Staff",
     "priceAverage" : 375,
     "priceMerchant" : 375,
@@ -11857,7 +11857,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Skyglider Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11873,7 +11873,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Skymetal Shield",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -11881,7 +11881,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Skymetal Staff",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -11953,7 +11953,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "ringItem",
+    "itemType" : "armorItem",
     "name" : "Smoldering Armor (light medium or heavy)",
     "priceAverage" : 75,
     "priceMerchant" : 75,
@@ -12225,7 +12225,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 0",
     "priceAverage" : 12,
     "priceMerchant" : 15,
@@ -12233,7 +12233,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 1",
     "priceAverage" : 42,
     "priceMerchant" : 25,
@@ -12241,7 +12241,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 2",
     "priceAverage" : 135,
     "priceMerchant" : 150,
@@ -12249,7 +12249,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 3",
     "priceAverage" : 300,
     "priceMerchant" : 400,
@@ -12257,7 +12257,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 4",
     "priceAverage" : 560,
     "priceMerchant" : 800,
@@ -12265,7 +12265,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 5",
     "priceAverage" : 1070,
     "priceMerchant" : 1500,
@@ -12273,7 +12273,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 6",
     "priceAverage" : 1640,
     "priceMerchant" : 2000,
@@ -12281,7 +12281,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 7",
     "priceAverage" : 3030,
     "priceMerchant" : 3500,
@@ -12289,7 +12289,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 8",
     "priceAverage" : 5060,
     "priceMerchant" : 5000,
@@ -12297,7 +12297,7 @@
   },
   {
     "book" : "DMG 200",
-    "itemType" : "wonderousItem",
+    "itemType" : "scrollItem",
     "name" : "Spell Scroll Level 9",
     "priceAverage" : 15120,
     "priceMerchant" : 20000,
@@ -12313,7 +12313,7 @@
   },
   {
     "book" : "DMG 201",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Spellguard Shield",
     "priceAverage" : 43000,
     "priceMerchant" : 36000,
@@ -12417,7 +12417,7 @@
   },
   {
     "book" : "LMP 53",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Spider Staff",
     "priceAverage" : 1750,
     "priceMerchant" : 1750,
@@ -12497,7 +12497,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Adornment",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -12505,7 +12505,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Birdcalls",
     "priceAverage" : 70,
     "priceMerchant" : 70,
@@ -12513,7 +12513,7 @@
   },
   {
     "book" : "DMG 201",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Charming",
     "priceAverage" : 7875,
     "priceMerchant" : 3750,
@@ -12521,7 +12521,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Contaminated Power",
     "priceAverage" : 26000,
     "priceMerchant" : 26000,
@@ -12529,7 +12529,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Cubic Cultivation",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12537,7 +12537,7 @@
   },
   {
     "book" : "LMP 53",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Defense",
     "priceAverage" : 3400,
     "priceMerchant" : 3400,
@@ -12545,7 +12545,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Dunamancy",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -12553,7 +12553,7 @@
   },
   {
     "book" : "CM",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Fate",
     "priceAverage" : 17000,
     "priceMerchant" : 17000,
@@ -12561,7 +12561,7 @@
   },
   {
     "book" : "DMG 201",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Fire",
     "priceAverage" : 17000,
     "priceMerchant" : 18000,
@@ -12569,7 +12569,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Flowers",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -12577,7 +12577,7 @@
   },
   {
     "book" : "DMG 202",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Frost",
     "priceAverage" : 22000,
     "priceMerchant" : 18000,
@@ -12585,7 +12585,7 @@
   },
   {
     "book" : "DMG 202",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Healing",
     "priceAverage" : 8900,
     "priceMerchant" : 4800,
@@ -12593,7 +12593,7 @@
   },
   {
     "book" : "DMG 202",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Power",
     "priceAverage" : 70750,
     "priceMerchant" : 46000,
@@ -12601,7 +12601,7 @@
   },
   {
     "book" : "QftIS",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Ruling",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -12609,7 +12609,7 @@
   },
   {
     "book" : "DMG 203",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Striking",
     "priceAverage" : 28500,
     "priceMerchant" : 36000,
@@ -12617,7 +12617,7 @@
   },
   {
     "book" : "DMG 203",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Swarming Insects",
     "priceAverage" : 10250,
     "priceMerchant" : 4500,
@@ -12625,7 +12625,7 @@
   },
   {
     "book" : "DMG 204-205",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Thunder and Lightning",
     "priceAverage" : 20000,
     "priceMerchant" : 30000,
@@ -12633,7 +12633,7 @@
   },
   {
     "book" : "DMG 205",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of Withering",
     "priceAverage" : 2550,
     "priceMerchant" : 2100,
@@ -12641,7 +12641,7 @@
   },
   {
     "book" : "DMG 203",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Adder",
     "priceAverage" : 1075,
     "priceMerchant" : 350,
@@ -12649,7 +12649,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Dream Shepherd",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12657,7 +12657,7 @@
   },
   {
     "book" : "ToA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Forgotten One",
     "priceAverage" : 75000,
     "priceMerchant" : 75000,
@@ -12665,7 +12665,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Ivory Claw",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -12673,7 +12673,7 @@
   },
   {
     "book" : "DMG 203",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Magi",
     "priceAverage" : 98000,
     "priceMerchant" : 98000,
@@ -12681,7 +12681,7 @@
   },
   {
     "book" : "DMG 204",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Python",
     "priceAverage" : 1125,
     "priceMerchant" : 250,
@@ -12689,7 +12689,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Rooted Hills",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -12697,7 +12697,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Vineyard",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12705,7 +12705,7 @@
   },
   {
     "book" : "DMG 204",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff of the Woodlands",
     "priceAverage" : 24250,
     "priceMerchant" : 4500,
@@ -12713,7 +12713,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Staff, Simple Weapon, Melee Weapon, Spellcasting Focus",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12729,7 +12729,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Stalwart Staff",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12745,7 +12745,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Starmetal Nova Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12753,7 +12753,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Starmetal Shard Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12825,7 +12825,7 @@
   },
   {
     "book" : "SKT 235",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Stein Rune Shield",
     "priceAverage" : 4600,
     "priceMerchant" : 4600,
@@ -12905,7 +12905,7 @@
   },
   {
     "book" : "CM",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Stonky's Ring",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -12929,7 +12929,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Storm's Eye Shield",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13001,7 +13001,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Stygian Spear",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -13025,7 +13025,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Sun Staff",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -13073,7 +13073,7 @@
   },
   {
     "book" : "DMG 206",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Sword of Life-Stealing",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -13081,7 +13081,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Sword of Retribution",
     "priceAverage" : 16000,
     "priceMerchant" : 16000,
@@ -13113,7 +13113,7 @@
   },
   {
     "book" : "BGDIA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Sword of Zariel",
     "priceAverage" : 200000,
     "priceMerchant" : 200000,
@@ -13129,7 +13129,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Sword of the Planes",
     "priceAverage" : 50000,
     "priceMerchant" : 50000,
@@ -13249,7 +13249,7 @@
   },
   {
     "book" : "WDH",
-    "itemType" : "wonderousItem",
+    "itemType" : "ringItem",
     "name" : "Teleporter Ring",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -13337,7 +13337,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "The Shield of Sacred Flame",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -13617,7 +13617,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Verax Weapon",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13673,7 +13673,7 @@
   },
   {
     "book" : "AI",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Vicious +1 Weapon",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -13689,7 +13689,7 @@
   },
   {
     "book" : "DMG 209",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Vicious Weapon (any)",
     "priceAverage" : 775,
     "priceMerchant" : 1200,
@@ -13697,7 +13697,7 @@
   },
   {
     "book" : "SKT 236",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Vind Rune Armor (light medium or heavy)",
     "priceAverage" : 300,
     "priceMerchant" : 300,
@@ -13737,7 +13737,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Voidwalker Armor",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -13777,7 +13777,7 @@
   },
   {
     "book" : "GGR 181",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Voyager Staff",
     "priceAverage" : 10500,
     "priceMerchant" : 10500,
@@ -13809,7 +13809,7 @@
   },
   {
     "book" : "FTD",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Wakened Dragon's Wrath Weapon",
     "priceAverage" : 12000,
     "priceMerchant" : 12000,
@@ -14081,7 +14081,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Wardancer's Spear",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14089,7 +14089,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Warding Staff",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14169,7 +14169,7 @@
   },
   {
     "book" : "Chains of Asmodeus",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of Agonizing Paralysis",
     "priceAverage" : 20000,
     "priceMerchant" : 20000,
@@ -14177,7 +14177,7 @@
   },
   {
     "book" : "EGW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of Certain Death",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -14185,7 +14185,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of Throne's Command",
     "priceAverage" : 8000,
     "priceMerchant" : 8000,
@@ -14193,7 +14193,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of Verdict",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14201,7 +14201,7 @@
   },
   {
     "book" : "DMG 213",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of Warning (any)",
     "priceAverage" : 30200,
     "priceMerchant" : 400,
@@ -14209,7 +14209,7 @@
   },
   {
     "book" : "WDMM 299",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Weapon of the Uven Rune (any)",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -14265,7 +14265,7 @@
   },
   {
     "book" : "AI",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Whipser Jar",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -14273,7 +14273,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Whirling Weapons",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14337,7 +14337,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Wildskin Armor",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14425,7 +14425,7 @@
   },
   {
     "book" : "Humblewood Campaign Setting",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Wing Crest Shield",
     "priceAverage" : 16000,
     "priceMerchant" : 16000,
@@ -14553,7 +14553,7 @@
   },
   {
     "book" : "WDW",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Woodcutters Axe",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -14601,7 +14601,7 @@
   },
   {
     "book" : "WDMM",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Wyllow's Staff of Flowers",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -14633,7 +14633,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Xibalban Blade",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14665,7 +14665,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "armorItem",
     "name" : "Zephyr Armor",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
