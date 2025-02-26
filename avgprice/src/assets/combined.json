@@ -937,7 +937,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Arrow of Anchoring",
     "priceAverage" : 20,
     "priceMerchant" : 20,
@@ -945,23 +945,15 @@
   },
   {
     "book" : "DMG 152",
-    "itemType" : "wonderousItem",
-    "name" : "Arrow of Slaying (any) ",
-    "priceAverage" : 1000,
-    "priceMerchant" : 1000,
-    "priceSane" : 1000
-  },
-  {
-    "book" : "DMG 152",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Arrow of Slaying (ea)",
-    "priceAverage" : 600,
-    "priceMerchant" : 600,
+    "priceAverage" : 800,
+    "priceMerchant" : 1000,
     "priceSane" : 600
   },
   {
     "book" : "DMG 152",
-    "itemType" : "armorItem",
+    "itemType" : "weaponItem",
     "name" : "Arrow-Catching Shield",
     "priceAverage" : 5250,
     "priceMerchant" : 4500,
@@ -1865,7 +1857,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of Conflagration",
     "priceAverage" : 1000,
     "priceMerchant" : 1000,
@@ -1873,7 +1865,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of Melodies",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -1881,7 +1873,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of the Cobra",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1889,7 +1881,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of the Eldritch Archer",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1897,7 +1889,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of the Spelldrinker",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1905,7 +1897,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bow of the Twilight Valkyrie",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -1913,7 +1905,7 @@
   },
   {
     "book" : "DMG 156",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Bowl of Commanding Water Elementals",
     "priceAverage" : 6350,
     "priceMerchant" : 4700,
@@ -2185,7 +2177,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Candleflame Bow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -2369,7 +2361,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Champion's Greatbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -3585,7 +3577,7 @@
   },
   {
     "book" : "FTD 23",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Dragon Wing Bow (any bow)",
     "priceAverage" : 4000,
     "priceMerchant" : 4000,
@@ -4145,7 +4137,7 @@
   },
   {
     "book" : "MOT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Ephixis, Bow of Nylea",
     "priceAverage" : 80000,
     "priceMerchant" : 80000,
@@ -4929,7 +4921,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Glimmering Moonbow",
     "priceAverage" : 6000,
     "priceMerchant" : 6000,
@@ -5393,7 +5385,7 @@
   },
   {
     "book" : "Dungeons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Hardened Delerium-tipped Arrows",
     "priceAverage" : 20,
     "priceMerchant" : 20,
@@ -6833,7 +6825,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "ringItem",
+    "itemType" : "weaponItem",
     "name" : "Kinetic Bowstring",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -7073,7 +7065,7 @@
   },
   {
     "book" : "OoTA",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Light Repeating Crossbow",
     "priceAverage" : 50,
     "priceMerchant" : 50,
@@ -7177,7 +7169,7 @@
   },
   {
     "book" : "BP:GotG",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Longbow of the Healing Hearth",
     "priceAverage" : 50000,
     "priceMerchant" : 50000,
@@ -7745,7 +7737,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Medzo's Crossbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8497,7 +8489,7 @@
   },
   {
     "book" : "DMG 183",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Oathbow (longbow)",
     "priceAverage" : 8250,
     "priceMerchant" : 13000,
@@ -8713,7 +8705,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Orner's Venomous Crossbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8785,7 +8777,7 @@
   },
   {
     "book" : "WDH",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Overzied Longbow",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -8961,7 +8953,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Phasing Bow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -9969,7 +9961,7 @@
   },
   {
     "book" : "Humblewood Campaign Setting",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Red-Feather Bow",
     "priceAverage" : 1500,
     "priceMerchant" : 1500,
@@ -10553,7 +10545,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Riptide Crossbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -10961,7 +10953,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Rust Arrow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -11457,7 +11449,7 @@
   },
   {
     "book" : "KGV",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Shard Solitaire - Rainbow Pearl",
     "priceAverage" : 5000,
     "priceMerchant" : 5000,
@@ -11889,7 +11881,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Slaying Longbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12305,7 +12297,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Spellfire Bow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -12737,7 +12729,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Starcrossed Bow",
     "priceAverage" : 7500,
     "priceMerchant" : 7500,
@@ -12769,7 +12761,7 @@
   },
   {
     "book" : "BMT",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Starshot Crossbow",
     "priceAverage" : 6000,
     "priceMerchant" : 6000,
@@ -13489,7 +13481,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Trampling Crossbow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13561,7 +13553,7 @@
   },
   {
     "book" : "XGE 139",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Unbreakable Arrow (arrow) ",
     "priceAverage" : 25,
     "priceMerchant" : 25,
@@ -14225,7 +14217,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Webgrip Bow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14625,7 +14617,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "weaponItem",
     "name" : "Wyrmshide Bow",
     "priceAverage" : 0,
     "priceMerchant" : 0,
