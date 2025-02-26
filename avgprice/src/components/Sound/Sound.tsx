@@ -1,18 +1,26 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import useSound from 'use-sound';
 import setRandomInterval from '../../utils'
 import soundFile from '../../assets/craig.mp3'; // Make sure to replace this with the actual path to your sound file
 
 export const Sound = () => {
-  const [play] = useSound(soundFile);
+  let [playbackRate, setPlaybackRate] = useState(0.75);
+
+  const [play] = useSound(soundFile, {
+    playbackRate,
+    interrupt: true,
+  });
+
   let playSound: Boolean = false;
   useEffect(() => {
     if (!playSound) {
       playSound = true;
       setRandomInterval(() => {
-        console.log(new Date().toISOString());
+        setPlaybackRate(playbackRate + 0.1);
+        const timestamp = new Date().toLocaleString();
+        console.log(timestamp);
         play();
-      }, 30, 45);
+      }, 30, 145);
     }
   }, [ play]);
 

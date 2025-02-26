@@ -20,9 +20,13 @@ export function parseOrNull(raw: unknown) {
 
   return null
 }
-
+function getRand(min: number, max: number): number {
+  let num = (Math.floor(Math.random() * (max - min + 1)) + min)*1000;
+  console.log(num);
+  return num;
+}
 export const random = (min: number, max: number): number => (
-    Math.floor(Math.random() * (max - min + 1)) + min * 1000
+  getRand(min,max)
   );
 
 
