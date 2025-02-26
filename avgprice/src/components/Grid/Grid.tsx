@@ -1,9 +1,9 @@
 import { DataGrid,GridToolbar, useGridApiRef} from "@mui/x-data-grid";
 import { encode } from '../../utils'
 import { usePersistColumnSettings } from './GridState'
-import imgSrcWonderous from '../../assets/wondrousitem.jpg'
-import imgSrcArmor from '../../assets/armor.jpg'
-import imgSrcWeapon from '../../assets/weapon.jpg'
+import imgSrcWonderous from '../../assets/wondrousitem.png'
+import imgSrcArmor from '../../assets/armor.png'
+import imgSrcWeapon from '../../assets/weapon.png'
 import './grid.css'
 
 export const Grid = ({ rows }: any) => {
@@ -19,7 +19,7 @@ export const Grid = ({ rows }: any) => {
   }
 
 const columns = [
-  { field: "itemType", headerName: "", width: 20, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
+  { field: "itemType", headerName: "", width: 65, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
     renderCell: (params: any) => (
         <img className="imgIcon" src={renderSwitch(params.value)}></img>
     ),
