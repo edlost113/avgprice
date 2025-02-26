@@ -3688,17 +3688,9 @@
     "priceSane" : 25000
   },
   {
-    "book" : "WDH",
-    "itemType" : "weaponItem",
-    "name" : "Dragonstaff of Ahghairon",
-    "priceAverage" : 2000,
-    "priceMerchant" : 2000,
-    "priceSane" : 2000
-  },
-  {
     "book" : "WDH 191",
     "itemType" : "weaponItem",
-    "name" : "Dragonstaff of Anghairon",
+    "name" : "Dragonstaff of Ahghairon",
     "priceAverage" : 50500,
     "priceMerchant" : 50500,
     "priceSane" : 50500
