@@ -15,26 +15,51 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 
 
-const darkTheme = createTheme({
+const defaultTheme = createTheme({
   colorSchemes: {
     dark: true,
   },
 });
+
+const lightTheme = createTheme({
+  palette: {
+    mode: 'light',
+  },
+});
+
+
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
+
+let useThemePick = defaultTheme;
+
 const App = () => {
   const [isMobile, setIsMobile] = useState(false);
-
+  
   useEffect(() => {
     const mediaQuery = window.matchMedia('(max-width: 767px)');
-    setIsMobile(mediaQuery.matches);
-
+    let urlParams = new URLSearchParams(window.location.search);
+    let isMobile = mediaQuery.matches || ('mobile' === urlParams.get("device"));
+    setIsMobile(isMobile);
+    let theme = urlParams.get("theme");
+    if (theme === 'dark') {
+      useThemePick = darkTheme;
+    } else if (theme === 'light') {
+      useThemePick = lightTheme;
+    } else {
+      useThemePick = defaultTheme;
+    }
     const handleResize = () => setIsMobile(mediaQuery.matches);
     mediaQuery.addEventListener('change', handleResize);
-
+    
     return () => mediaQuery.removeEventListener('change', handleResize);
   }, []);
 
   return (
-    <ThemeProvider theme={darkTheme}>
+    <ThemeProvider theme={useThemePick}>
       <Sound></Sound>
       <CssBaseline />
       <Box sx={{position: 'absolute', top: '1%', left:'1%', width: '98%', height:'87%'}}>
