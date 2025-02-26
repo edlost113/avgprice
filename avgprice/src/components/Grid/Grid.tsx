@@ -19,7 +19,7 @@ export const Grid = ({ rows }: any) => {
   }
 
 const columns = [
-  { field: "itemType", headerName: "", width: 65, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
+  { field: "itemType", headerName: "", width: 70, filterable: false, sortable: false, resizable: false, disableColumnMenu: true,
     renderCell: (params: any) => (
         <img className="imgIcon" src={renderSwitch(params.value)}></img>
     ),
