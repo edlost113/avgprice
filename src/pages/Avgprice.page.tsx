@@ -12,7 +12,6 @@ export function HomePage() {
       </Box>
       <Image  src={dancingWizard} style={{width: '32px', height:'32px'}}></Image>
       </Group>
-      <ColorSchemeToggle />
       </Stack>
       <Box><Table /></Box>
     </>

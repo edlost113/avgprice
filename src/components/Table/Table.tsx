@@ -3,15 +3,54 @@ import {
     useMantineReactTable,
     type MRT_ColumnDef,
   } from 'mantine-react-table';
+  import imgSrcWonderous from '../../assets/wondrousitem.png'
+  import imgSrcArmor from '../../assets/armor.png'
+  import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
   import { useMemo } from 'react';
-
+  import { Grid,Image, Anchor, Button, Box, Stack} from '@mantine/core';
+  import './table.css'
+  import { modals } from '@mantine/modals';
 const Table = () => {
+    const encode = (str: string) => encodeURIComponent(str)
+
+    function renderSwitch(raw: string) {
+      var imgOut: string = imgSrcWonderous
+      switch (raw) {
+      case 'wonderousItem': imgOut = imgSrcWonderous; break;
+      case 'weaponItem': imgOut = imgSrcWeapon; break;
+      case 'armorItem': imgOut = imgSrcArmor; break;
+      }
+      return imgOut
+    }
+    const openModal = (shoppingList: string) => modals.openConfirmModal({
+      title: 'Shopping List',
+      children: (
+        <Stack>
+          {shoppingList}
+        </Stack>
+      ),
+      labels: { confirm: 'Confirm', cancel: 'Cancel' },
+      onCancel: () => console.log('Cancel'),
+      onConfirm: () => console.log('Confirmed'),
+    });
     const columns = useMemo<MRT_ColumnDef<Items>[]>(
         () => [
           {
             header: 'Item Name',
             accessorKey: 'name',
+            grow: true,
+            Cell: ({ cell }) => (
+              <>
+              <Grid>
+              <Image className="imgIcon" src={renderSwitch(cell.row.original.itemType)}></Image>
+              &nbsp;&nbsp;&nbsp;
+              <Anchor underline="hover" href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(cell.getValue<string>())}`} target="_blank" rel="noreferrer">
+              {cell.getValue<string>()}
+              </Anchor>
+              </Grid>
+              </>
+            ),
           },
           {
             header: 'Book',
@@ -20,6 +59,11 @@ const Table = () => {
           {
             header: 'Average Price',
             accessorKey: 'priceAverage',
+            Cell: ({ cell }) => (
+              <>
+              {cell.row.original.priceAverage ?  <Box><strong style={{ color: 'skyblue' }}>{cell.row.original.priceAverage} gp</strong></Box>:<Box><strong style={{ color: 'red' }}>Unknown</strong></Box>}
+              </>
+            ),
           },
           {
             header: 'Merchant Price',
@@ -36,12 +80,32 @@ const Table = () => {
         columns,
         data,
         enableColumnResizing: true,
-        enableGrouping: false,
+        enableGrouping: true,
         enableGlobalFilter: true,
         enableStickyHeader: false,
         enableStickyFooter: false,
         enableBottomToolbar: false,
         enableDensityToggle: false,
+        enableRowSelection: true,
+        getRowId: (row) => row.name,
+        renderTopToolbarCustomActions: ({ table }) => (
+          <Button
+            onClick={() => {
+              const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
+              var shoppingList = "";
+              var totalPrice = 0;
+              selectedRows.forEach(row => {
+                var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
+                shoppingList = shoppingList + row.original.name+ " Average Price: " + avgPrice + "| ";
+                totalPrice = totalPrice + row.original.priceAverage;
+              });
+              shoppingList = shoppingList + " Total Price: " + totalPrice;
+              openModal(shoppingList);
+            }}
+          >
+            Calculate Total Price
+          </Button>
+        ),
         layoutMode: 'grid-no-grow',
         initialState: {
           density: 'md',
