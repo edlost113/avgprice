@@ -93,13 +93,21 @@ const Table = () => {
             onClick={() => {
               const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
               var shoppingList = "";
-              var totalPrice = 0;
+              var totalPriceA = 0;
+              var totalPriceS = 0;
+              var totalPriceM = 0;
               selectedRows.forEach(row => {
                 var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
-                shoppingList = shoppingList + row.original.name+ " Average Price: " + avgPrice + "| ";
-                totalPrice = totalPrice + row.original.priceAverage;
+                var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
+                var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
+                shoppingList = shoppingList + row.original.name + " Average Price: " + avgPrice + + " Sane Price: " + sanePrice + " Merchant Price: " + merchantPrice +"| ";
+                totalPriceA = totalPriceA + row.original.priceAverage;
+                totalPriceS = totalPriceS + row.original.priceSane;
+                totalPriceM = totalPriceM + row.original.priceMerchant;
               });
-              shoppingList = shoppingList + " Total Price: " + totalPrice;
+              shoppingList = shoppingList + " Total Average Price: " + totalPriceA +"|";
+              shoppingList = shoppingList + " Total Sane Price: " + totalPriceS +"|";
+              shoppingList = shoppingList + " Total Merchant Price: " + totalPriceM +"|";
               openModal(shoppingList);
             }}
           >
