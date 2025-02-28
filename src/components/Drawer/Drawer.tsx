@@ -8,7 +8,7 @@ function ShoppingList({ content }:any) {
   return (
     <>
       <Drawer position="top" opened={opened} onClose={close} title="Shopping List">
-        <Stack>
+        <Stack gap="xs" justify="flex-start">
         {content.map((row: string) => <Box key={row}>{row}</Box>)}
         </Stack>
       </Drawer>

@@ -135,11 +135,12 @@ const Table = () => {
                 var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
                 var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
                 var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
-                shoppingList.push(row.original.name + " Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
+                shoppingList.push(row.original.name + ": Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
                 totalPriceA = totalPriceA + row.original.priceAverage;
                 totalPriceS = totalPriceS + row.original.priceSane;
                 totalPriceM = totalPriceM + row.original.priceMerchant;
               });
+              shoppingList.push( "________________________");
               shoppingList.push( " Total Average Price: " + totalPriceA);
               shoppingList.push(" Total Sane Price: " + totalPriceS);
               shoppingList.push(" Total Merchant Price: " + totalPriceM);
