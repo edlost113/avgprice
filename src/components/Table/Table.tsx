@@ -9,18 +9,17 @@ import {
   import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
   import { useMemo, useState, useEffect } from 'react';
-  import { Grid,Image, Anchor, Box, Group, useMantineColorScheme} from '@mantine/core';
+  import { Grid,Image, Anchor, Box, Group} from '@mantine/core';
   import './table.css'
   import {ShoppingList} from '../Drawer/Drawer';
 
 
 const Table = () => {
-    const encode = (str: string) => encodeURIComponent(str)
-    const { setColorScheme } = useMantineColorScheme();
+    const encode = (str: string) => encodeURIComponent(str)    
     const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
     const [totalPrice, setTotalPrice] = useState(0);
     const [list, setList] = useState<string[]>([]);
-    setColorScheme('auto');
+
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
       switch (raw) {
