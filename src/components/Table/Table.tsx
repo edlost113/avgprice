@@ -2,7 +2,6 @@ import {
     MantineReactTable,
     useMantineReactTable,
     type MRT_ColumnDef,
-    type MRT_TableInstance,
     type MRT_RowSelectionState,
   } from 'mantine-react-table';
   import imgSrcWonderous from '../../assets/wondrousitem.png'
@@ -12,12 +11,13 @@ import {
   import { useMemo, useState, useEffect } from 'react';
   import { Grid,Image, Anchor, Button, Box, Stack,Group, useMantineColorScheme} from '@mantine/core';
   import './table.css'
-  import { modals } from '@mantine/modals';
+  import {ShoppingList} from '../Drawer/Drawer';
 const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)
     const { setColorScheme } = useMantineColorScheme();
     const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
     const [totalPrice, setTotalPrice] = useState(0);
+    const [list, setList] = useState<string[]>([]);
     setColorScheme('auto');
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
@@ -28,17 +28,6 @@ const Table = () => {
       }
       return imgOut
     }
-    const openModal = (shoppingList: string) => modals.openConfirmModal({
-      title: 'Shopping List',
-      children: (
-        <Stack>
-          {shoppingList}
-        </Stack>
-      ),
-      labels: { confirm: 'Confirm', cancel: 'Cancel' },
-      onCancel: () => console.log('Cancel'),
-      onConfirm: () => console.log('Confirmed'),
-    });
     const columns = useMemo<MRT_ColumnDef<Items>[]>(
         () => [
           {
@@ -112,30 +101,7 @@ const Table = () => {
         renderTopToolbarCustomActions: ({ table }) => (
           <>
           <Group>
-          <Button
-            onClick={() => {
-              const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
-              var shoppingList = "";
-              var totalPriceA = 0;
-              var totalPriceS = 0;
-              var totalPriceM = 0;
-              selectedRows.forEach(row => {
-                var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
-                var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
-                var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
-                shoppingList = shoppingList + row.original.name + " Average Price: " + avgPrice + " Sane Price: " + sanePrice + " Merchant Price: " + merchantPrice +" | ";
-                totalPriceA = totalPriceA + row.original.priceAverage;
-                totalPriceS = totalPriceS + row.original.priceSane;
-                totalPriceM = totalPriceM + row.original.priceMerchant;
-              });
-              shoppingList = shoppingList + " Total Average Price: " + totalPriceA +" |";
-              shoppingList = shoppingList + " Total Sane Price: " + totalPriceS +" |";
-              shoppingList = shoppingList + " Total Merchant Price: " + totalPriceM +" |";
-              openModal(shoppingList);
-            }}
-          >
-            Calculate Total Price
-          </Button>
+          <ShoppingList content={list}/>
           </Group>
           </>
         ),
@@ -155,11 +121,24 @@ const Table = () => {
       useEffect(() => {
         //fetch data based on row selection state or something
         const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
-        var totalPriceA = 0;
-        selectedRows.forEach(row => {
-          totalPriceA = totalPriceA + row.original.priceAverage;
-        });
-        setTotalPrice(totalPriceA);
+        var shoppingList: [string] = [""];
+              var totalPriceA = 0;
+              var totalPriceS = 0;
+              var totalPriceM = 0;
+              selectedRows.forEach(row => {
+                var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
+                var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
+                var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
+                shoppingList.push(row.original.name + " Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
+                totalPriceA = totalPriceA + row.original.priceAverage;
+                totalPriceS = totalPriceS + row.original.priceSane;
+                totalPriceM = totalPriceM + row.original.priceMerchant;
+              });
+              shoppingList.push( " Total Average Price: " + totalPriceA);
+              shoppingList.push(" Total Sane Price: " + totalPriceS);
+              shoppingList.push(" Total Merchant Price: " + totalPriceM);
+              setTotalPrice(totalPriceA);
+              setList(shoppingList);
       }, [table.getState().rowSelection]);
 
       function calcTotal(raw: string) {
