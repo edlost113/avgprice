@@ -7,12 +7,13 @@ import { Router } from './Router';
 import { theme } from './theme';
 import { Notifications } from '@mantine/notifications';
 import { ModalsProvider } from '@mantine/modals';
-import { Button, Group } from '@mantine/core';
+import { Sound } from './components/Sound'
 
 export default function App() {
   return (
     <MantineProvider theme={theme}>
       <Notifications />
+      <Sound />
       <ModalsProvider>
       <Router />
       </ModalsProvider>
