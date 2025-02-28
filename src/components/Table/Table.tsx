@@ -60,6 +60,7 @@ const Table = () => {
           },
           {
             header: 'Average Price',
+            minSize: 200, //min size enforced during resizing
             accessorKey: 'priceAverage',
             Cell: ({ cell }) => (
               <>
@@ -69,6 +70,7 @@ const Table = () => {
           },
           {
             header: 'Merchant Price',
+            minSize: 220, //min size enforced during resizing
             accessorKey: 'priceMerchant',
             Cell: ({ cell }) => (
               <>
@@ -78,6 +80,7 @@ const Table = () => {
           },
           {
             header: 'Sane Price',
+            minSize: 100, //min size enforced during resizing
             accessorKey: 'priceSane',
             Cell: ({ cell }) => (
               <>
@@ -98,7 +101,8 @@ const Table = () => {
         enableStickyFooter: true,
         enableBottomToolbar: true,
         enableDensityToggle: false,
-        enableRowSelection: true,
+        enableRowSelection: (row) => row.original.priceAverage > 0,
+        enableBatchRowSelection: true,
         getRowId: (row) => row.name,
         renderTopToolbarCustomActions: ({ table }) => (
           <>
