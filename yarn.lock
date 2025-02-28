@@ -149,7 +149,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.25.9"
 
-"@babel/runtime@^7.12.5", "@babel/runtime@^7.20.13":
+"@babel/runtime@^7.12.5", "@babel/runtime@^7.20.13", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.7":
   version "7.26.9"
   resolved "https://registry.npmjs.org/@babel/runtime/-/runtime-7.26.9.tgz"
   integrity sha512-aA63XwOkcl4xxQa3HjPMqOP6LiK0ZDv3mUPYEFXkpHbaFjtGggE1A61FjFzJnB+p7/oy2gA8E+rcBNl/zC1tMg==
@@ -453,6 +453,24 @@
   version "7.17.0"
   resolved "https://registry.npmjs.org/@mantine/hooks/-/hooks-7.17.0.tgz"
   integrity sha512-vo3K49mLy1nJ8LQNb5KDbJgnX0xwt3Y8JOF3ythjB5LEFMptdLSSgulu64zj+QHtzvffFCsMb05DbTLLpVP/JQ==
+
+"@mantine/modals@^7.17.0":
+  version "7.17.0"
+  resolved "https://registry.npmjs.org/@mantine/modals/-/modals-7.17.0.tgz"
+  integrity sha512-4sfiFxIxMxfm2RH4jXMN+cr8tFS5AexXG4TY7TRN/ySdkiWtFVvDe5l2/KRWWeWwDUb7wQhht8Ompj5KtexlEA==
+
+"@mantine/notifications@^7.17.0":
+  version "7.17.0"
+  resolved "https://registry.npmjs.org/@mantine/notifications/-/notifications-7.17.0.tgz"
+  integrity sha512-xejr1WW02NrrrE4HPDoownILJubcjLLwCDeTk907ZeeHKBEPut7RukEq6gLzOZBhNhKdPM+vCM7GcbXdaLZq/Q==
+  dependencies:
+    "@mantine/store" "7.17.0"
+    react-transition-group "4.4.5"
+
+"@mantine/store@7.17.0":
+  version "7.17.0"
+  resolved "https://registry.npmjs.org/@mantine/store/-/store-7.17.0.tgz"
+  integrity sha512-nhWRYRLqvAjrD/ApKCXxuHyTWg2b5dC06Z5gmO8udj4pBgndNf9nmCl+Of90H6bgOa56moJA7UQyXoF1SfxqVg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -1521,6 +1539,14 @@ dom-accessibility-api@^0.6.3:
   resolved "https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.6.3.tgz"
   integrity sha512-7ZgogeTnjuHbo+ct10G9Ffp0mif17idi0IyWNVA/wcwcm7NPOD/WEHVP3n7n3MhXqxoIYm8d6MuZohYWIZ4T3w==
 
+dom-helpers@^5.0.1:
+  version "5.2.1"
+  resolved "https://registry.npmjs.org/dom-helpers/-/dom-helpers-5.2.1.tgz"
+  integrity sha512-nRCa7CK3VTrM2NmGkIy4cbK7IZlgBE/PYMn55rrXefr5xXDP0LdtfPnblFDoVdcAfslJ7or6iqAUnx0CCGIWQA==
+  dependencies:
+    "@babel/runtime" "^7.8.7"
+    csstype "^3.0.2"
+
 dunder-proto@^1.0.0, dunder-proto@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz"
@@ -2306,6 +2332,11 @@ hookified@^1.7.0:
   version "1.7.1"
   resolved "https://registry.npmjs.org/hookified/-/hookified-1.7.1.tgz"
   integrity sha512-OXcdHsXeOiD7OJ5zvWj8Oy/6RCdLwntAX+wUrfemNcMGn6sux4xbEHi2QXwqePYhjQ/yvxxq2MvCRirdlHscBw==
+
+howler@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.npmjs.org/howler/-/howler-2.2.4.tgz"
+  integrity sha512-iARIBPgcQrwtEr+tALF+rapJ8qSc+Set2GJQl7xT1MQzWaVkFebdJhR3alVlSiUf5U7nAANKuj3aWpwerocD5w==
 
 html-encoding-sniffer@^4.0.0:
   version "4.0.0"
@@ -3342,7 +3373,7 @@ process@^0.11.10:
   resolved "https://registry.npmjs.org/process/-/process-0.11.10.tgz"
   integrity sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==
 
-prop-types@^15.8.1:
+prop-types@^15.6.2, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -3382,7 +3413,7 @@ react-docgen@^7.0.0:
     resolve "^1.22.1"
     strip-indent "^4.0.0"
 
-"react-dom@^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta", "react-dom@^18.0.0 || ^19.0.0", "react-dom@^18.x || ^19.x", react-dom@^19.0.0, react-dom@>=16.8, react-dom@>=16.8.0, react-dom@>=18, react-dom@>=18.0:
+"react-dom@^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta", "react-dom@^18.0.0 || ^19.0.0", "react-dom@^18.x || ^19.x", react-dom@^19.0.0, react-dom@>=16.6.0, react-dom@>=16.8, react-dom@>=16.8.0, react-dom@>=18, react-dom@>=18.0:
   version "19.0.0"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-19.0.0.tgz"
   integrity sha512-4GV5sHFG0e/0AD4X+ySy6UJd3jVl1iNsNHdpad0qhABJ11twS3TTBnseqsKurKcsNqCEFeGL3uLpVChpIO3QfQ==
@@ -3462,7 +3493,17 @@ react-textarea-autosize@8.5.6:
     use-composed-ref "^1.3.0"
     use-latest "^1.2.1"
 
-"react@^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta", "react@^18.0.0 || ^19.0.0", "react@^18.x || ^19.x", react@^19.0.0, "react@>= 16", react@>=16.8, react@>=16.8.0, react@>=18, react@>=18.0:
+react-transition-group@4.4.5:
+  version "4.4.5"
+  resolved "https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.4.5.tgz"
+  integrity sha512-pZcd1MCJoiKiBR2NRxeCRg13uCXbydPnmB4EOeRrY7480qNWO8IIgQG6zlDkm6uRMsURXPuKq0GWtiM59a5Q6g==
+  dependencies:
+    "@babel/runtime" "^7.5.5"
+    dom-helpers "^5.0.1"
+    loose-envify "^1.4.0"
+    prop-types "^15.6.2"
+
+"react@^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta", "react@^18.0.0 || ^19.0.0", "react@^18.x || ^19.x", react@^19.0.0, "react@>= 16", react@>=16.6.0, react@>=16.8, react@>=16.8.0, react@>=18, react@>=18.0:
   version "19.0.0"
   resolved "https://registry.npmjs.org/react/-/react-19.0.0.tgz"
   integrity sha512-V8AVnmPIICiWpGfm6GLzCR/W5FXLchHop40W4nXBmdlEceh16rCN8O8LNWm5bh5XUX91fh7KpA+W0TgMKmgTpQ==
@@ -4356,6 +4397,13 @@ use-sidecar@^1.1.3:
   dependencies:
     detect-node-es "^1.1.0"
     tslib "^2.0.0"
+
+use-sound@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.npmjs.org/use-sound/-/use-sound-5.0.0.tgz"
+  integrity sha512-MNHT3FFC5HxNCrgZtrnpIMJI2cw/0D2xismcrtyht8BTuF5FhFhb57xO/jlQr2xJaFrc/0btzRQvGyHQwB7PVA==
+  dependencies:
+    howler "^2.2.4"
 
 util-deprecate@^1.0.2:
   version "1.0.2"
