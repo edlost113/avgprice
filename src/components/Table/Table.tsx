@@ -7,6 +7,10 @@ import {
   import imgSrcWonderous from '../../assets/wondrousitem.png'
   import imgSrcArmor from '../../assets/armor.png'
   import imgSrcWeapon from '../../assets/weapon.png'
+  import imgSrcRing from '../../assets/ring.png'
+  import imgSrcPotion from '../../assets/potion.png'
+  import imgSrcSroll from '../../assets/scroll.png'
+  import imgSrcWand from '../../assets/wand.png'
   import { data, type Items } from '../../data';
   import { useMemo, useState, useEffect } from 'react';
   import { Grid,Image, Anchor, Box, Group} from '@mantine/core';
@@ -47,6 +51,11 @@ const Table = () => {
       case 'wonderousItem': imgOut = imgSrcWonderous; break;
       case 'weaponItem': imgOut = imgSrcWeapon; break;
       case 'armorItem': imgOut = imgSrcArmor; break;
+      case 'ringItem': imgOut = imgSrcRing; break;
+      case 'potionItem': imgOut = imgSrcPotion; break;
+      case 'scrollItem': imgOut = imgSrcSroll; break;
+      case 'wandItem': imgOut = imgSrcWand; break;
+      default: imgOut = imgSrcWonderous; break;
       }
       return imgOut
     }

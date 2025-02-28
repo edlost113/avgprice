@@ -81,7 +81,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "+1 Wand of the War Mage",
     "priceAverage" : 800,
     "priceMerchant" : 400,
@@ -177,7 +177,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "+2 Wand of the War Mage",
     "priceAverage" : 4400,
     "priceMerchant" : 4000,
@@ -273,7 +273,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "+3 Wand of the War Mage",
     "priceAverage" : 16600,
     "priceMerchant" : 14000,
@@ -312,7 +312,7 @@
     "priceSane" : 10000
   },
   {
-    "book" : "IDRF",
+    "book" : "IDRotF",
     "itemType" : "wonderousItem",
     "name" : "Abracadabrus",
     "priceAverage" : 100,
@@ -825,7 +825,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Arcanist's Scribing Wand",
     "priceAverage" : 500,
     "priceMerchant" : 500,
@@ -841,7 +841,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Arista, Wand of the Spire",
     "priceAverage" : 10000,
     "priceMerchant" : 10000,
@@ -1136,7 +1136,7 @@
     "priceSane" : 12000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 153-154",
     "itemType" : "wonderousItem",
     "name" : "Bag of Holding",
     "priceAverage" : 2250,
@@ -2312,7 +2312,7 @@
     "priceSane" : 3500
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 122-123",
     "itemType" : "wonderousItem",
     "name" : "Cauldron of Rebirth",
     "priceAverage" : 10000,
@@ -2401,7 +2401,7 @@
   },
   {
     "book" : "WDH",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Charred Wand of Magic Missiles",
     "priceAverage" : 3000,
     "priceMerchant" : 3000,
@@ -2584,7 +2584,7 @@
     "priceSane" : 5000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 158-159",
     "itemType" : "wonderousItem",
     "name" : "Cloak of Invisibility",
     "priceAverage" : 67000,
@@ -2936,7 +2936,7 @@
     "priceSane" : 6000
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 124-125",
     "itemType" : "wonderousItem",
     "name" : "Crystalline Chronicle",
     "priceAverage" : 6500,
@@ -2944,7 +2944,7 @@
     "priceSane" : 6500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 159-160",
     "itemType" : "wonderousItem",
     "name" : "Cube of Force",
     "priceAverage" : 10500,
@@ -2992,7 +2992,7 @@
     "priceSane" : 250
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 160-161",
     "itemType" : "wonderousItem",
     "name" : "Daern's Instant Fortress",
     "priceAverage" : 40000,
@@ -3168,7 +3168,7 @@
     "priceSane" : 8000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 161-162",
     "itemType" : "wonderousItem",
     "name" : "Deck of Illusions",
     "priceAverage" : 3285,
@@ -3184,7 +3184,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 162-164",
     "itemType" : "wonderousItem",
     "name" : "Deck of Many Things",
     "priceAverage" : 250000,
@@ -3393,7 +3393,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Direstone Runic Wand",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -4040,7 +4040,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 126-127",
     "itemType" : "wonderousItem",
     "name" : "Eldritch Claw Tattoo",
     "priceAverage" : 500,
@@ -4257,7 +4257,7 @@
   },
   {
     "book" : "AI",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Failed Experiment Wand",
     "priceAverage" : 2000,
     "priceMerchant" : 2000,
@@ -4592,7 +4592,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 170-171",
     "itemType" : "wonderousItem",
     "name" : "Folding Boat",
     "priceAverage" : 7375,
@@ -5504,7 +5504,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 128-129",
     "itemType" : "wonderousItem",
     "name" : "Heart Weaver's Primer",
     "priceAverage" : 3000,
@@ -5920,7 +5920,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 174-175",
     "itemType" : "wonderousItem",
     "name" : "Horn of Blasting",
     "priceAverage" : 1475,
@@ -6408,7 +6408,7 @@
     "priceSane" : 125000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Absorption",
     "priceAverage" : 11200,
@@ -6416,7 +6416,7 @@
     "priceSane" : 2400
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Agility",
     "priceAverage" : 5500,
@@ -6424,7 +6424,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Awareness",
     "priceAverage" : 8000,
@@ -6432,7 +6432,7 @@
     "priceSane" : 12000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Fortitude",
     "priceAverage" : 5500,
@@ -6440,7 +6440,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Greater Absorption",
     "priceAverage" : 45500,
@@ -6456,7 +6456,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Insight",
     "priceAverage" : 5500,
@@ -6464,7 +6464,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Intellect",
     "priceAverage" : 5500,
@@ -6480,7 +6480,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Leadership",
     "priceAverage" : 5500,
@@ -6488,7 +6488,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Mastery",
     "priceAverage" : 37500,
@@ -6504,7 +6504,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Protection",
     "priceAverage" : 2400,
@@ -6512,7 +6512,7 @@
     "priceSane" : 1200
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Regeneration",
     "priceAverage" : 29500,
@@ -6528,7 +6528,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Reserve",
     "priceAverage" : 5250,
@@ -6544,7 +6544,7 @@
     "priceSane" : 750
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Strength",
     "priceAverage" : 5500,
@@ -6560,7 +6560,7 @@
     "priceSane" : 600
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 176-177",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Sustenance",
     "priceAverage" : 2000,
@@ -6576,7 +6576,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "IDRF",
+    "book" : "IDRotF",
     "itemType" : "wonderousItem",
     "name" : "Iron Ball",
     "priceAverage" : 1,
@@ -7488,7 +7488,7 @@
     "priceSane" : 36000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 180-181",
     "itemType" : "wonderousItem",
     "name" : "Manual of Golems",
     "priceAverage" : 22000,
@@ -7896,7 +7896,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 181-182",
     "itemType" : "wonderousItem",
     "name" : "Mirror of Life Trapping",
     "priceAverage" : 34000,
@@ -8656,7 +8656,7 @@
     "priceSane" : 4000
   },
   {
-    "book" : "IDRF",
+    "book" : "IDRotF",
     "itemType" : "wonderousItem",
     "name" : "Orc Stone",
     "priceAverage" : 1000,
@@ -8664,7 +8664,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "DMG",
+    "book" : "60000",
     "itemType" : "weaponItem",
     "name" : "Orcsplitter (greataxe)",
     "priceAverage" : 60000,
@@ -8737,7 +8737,7 @@
   },
   {
     "book" : "AI",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Orrery of the Wanderer",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -8752,7 +8752,7 @@
     "priceSane" : 1100
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 133-134",
     "itemType" : "wonderousItem",
     "name" : "Outer Essence Shard",
     "priceAverage" : 2000,
@@ -9208,7 +9208,7 @@
     "priceSane" : 6500
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 185-187",
     "itemType" : "wonderousItem",
     "name" : "Portable Hole",
     "priceAverage" : 6500,
@@ -9298,7 +9298,7 @@
   {
     "book" : "FTD",
     "itemType" : "potionItem",
-    "name" : "Potion of Dragon's Majesty",
+    "name" : "Potion of Dragon’s Majesty ",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
     "priceSane" : 15000
@@ -9384,7 +9384,7 @@
     "priceSane" : 150
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 187-188",
     "itemType" : "potionItem",
     "name" : "Potion of Greater healing",
     "priceAverage" : 300,
@@ -9400,7 +9400,7 @@
     "priceSane" : 270
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 187-188",
     "itemType" : "potionItem",
     "name" : "Potion of Healing",
     "priceAverage" : 50,
@@ -9536,7 +9536,7 @@
     "priceSane" : 450
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 187-188",
     "itemType" : "potionItem",
     "name" : "Potion of Superior healing ",
     "priceAverage" : 750,
@@ -9544,7 +9544,7 @@
     "priceSane" : 750
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 187-188",
     "itemType" : "potionItem",
     "name" : "Potion of Supreme Healing",
     "priceAverage" : 1425,
@@ -9688,7 +9688,7 @@
     "priceSane" : 4000
   },
   {
-    "book" : "IDRF",
+    "book" : "IDRotF",
     "itemType" : "wonderousItem",
     "name" : "Professor Skant",
     "priceAverage" : 50,
@@ -9704,7 +9704,7 @@
     "priceSane" : 250
   },
   {
-    "book" : "ERLW; TCE",
+    "book" : "ERLW 278; TCE 134",
     "itemType" : "wonderousItem",
     "name" : "Prosthetic Limb",
     "priceAverage" : 100,
@@ -9776,7 +9776,7 @@
     "priceSane" : 25000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 188-189",
     "itemType" : "wonderousItem",
     "name" : "Quaal's Feather Token",
     "priceAverage" : 1000,
@@ -10552,7 +10552,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 193-194",
     "itemType" : "wonderousItem",
     "name" : "Robe of Eyes",
     "priceAverage" : 17500,
@@ -10800,7 +10800,7 @@
     "priceSane" : 2000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 197-199",
     "itemType" : "wonderousItem",
     "name" : "Rope of Entanglement",
     "priceAverage" : 2500,
@@ -11384,7 +11384,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE",
+    "book" : "TCE 134-135",
     "itemType" : "wonderousItem",
     "name" : "Shadowfell Brand Tattoo",
     "priceAverage" : 1100,
@@ -11480,7 +11480,7 @@
     "priceSane" : 50
   },
   {
-    "book" : "IDRF",
+    "book" : "IDRotF",
     "itemType" : "armorItem",
     "name" : "Shield Guardian Amulet",
     "priceAverage" : 500,
@@ -12305,7 +12305,7 @@
   },
   {
     "book" : "Dungesons of Drakkenheim",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Spellpiercing Wand",
     "priceAverage" : 100,
     "priceMerchant" : 100,
@@ -12600,7 +12600,7 @@
     "priceSane" : 16000
   },
   {
-    "book" : "DMG",
+    "book" : "DMG 204-205",
     "itemType" : "weaponItem",
     "name" : "Staff of Thunder and Lightning",
     "priceAverage" : 20000,
@@ -13809,7 +13809,7 @@
   },
   {
     "book" : "ERLW",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand Sheath",
     "priceAverage" : 75,
     "priceMerchant" : 75,
@@ -13817,7 +13817,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Binding",
     "priceAverage" : 6250,
     "priceMerchant" : 2500,
@@ -13825,7 +13825,7 @@
   },
   {
     "book" : "XGE",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Conducting",
     "priceAverage" : 90,
     "priceMerchant" : 90,
@@ -13833,7 +13833,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Dowsing",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13841,7 +13841,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Enemy Detection",
     "priceAverage" : 3875,
     "priceMerchant" : 3750,
@@ -13849,7 +13849,7 @@
   },
   {
     "book" : "TYP",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Entangle(spellcaster) ",
     "priceAverage" : 300,
     "priceMerchant" : 300,
@@ -13857,7 +13857,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Fear",
     "priceAverage" : 6625,
     "priceMerchant" : 3250,
@@ -13865,7 +13865,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Fireballs",
     "priceAverage" : 18400,
     "priceMerchant" : 4800,
@@ -13873,7 +13873,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Gilding",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13881,7 +13881,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Lightning Bolts",
     "priceAverage" : 18400,
     "priceMerchant" : 4800,
@@ -13889,7 +13889,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Magic Detection",
     "priceAverage" : 825,
     "priceMerchant" : 150,
@@ -13897,7 +13897,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Magic Missiles",
     "priceAverage" : 4150,
     "priceMerchant" : 300,
@@ -13905,7 +13905,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Merriment",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13913,7 +13913,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Necrosis",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13921,7 +13921,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Paralysis",
     "priceAverage" : 10125,
     "priceMerchant" : 4250,
@@ -13929,7 +13929,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Polymorph",
     "priceAverage" : 26500,
     "priceMerchant" : 21000,
@@ -13937,7 +13937,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Puppetry",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13945,7 +13945,7 @@
   },
   {
     "book" : "XGE",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Pyrotechnics",
     "priceAverage" : 65,
     "priceMerchant" : 65,
@@ -13953,7 +13953,7 @@
   },
   {
     "book" : "XGE 140; WBW 214",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Scowls",
     "priceAverage" : 60,
     "priceMerchant" : 60,
@@ -13961,7 +13961,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Secrets",
     "priceAverage" : 812,
     "priceMerchant" : 125,
@@ -13969,7 +13969,7 @@
   },
   {
     "book" : "Lairs of Etharis",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Silence",
     "priceAverage" : 12000,
     "priceMerchant" : 12000,
@@ -13977,7 +13977,7 @@
   },
   {
     "book" : "XGE 140; WBW 214",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Smiles",
     "priceAverage" : 60,
     "priceMerchant" : 60,
@@ -13985,7 +13985,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Stars",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -13993,7 +13993,7 @@
   },
   {
     "book" : "OA",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Viscid Globs",
     "priceAverage" : 900,
     "priceMerchant" : 900,
@@ -14001,7 +14001,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Web",
     "priceAverage" : 4125,
     "priceMerchant" : 250,
@@ -14009,7 +14009,7 @@
   },
   {
     "book" : "HDQ",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Winter",
     "priceAverage" : 4100,
     "priceMerchant" : 4100,
@@ -14017,7 +14017,7 @@
   },
   {
     "book" : "DMG",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of Wonder",
     "priceAverage" : 2250,
     "priceMerchant" : 2250,
@@ -14025,7 +14025,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of the Alicorn",
     "priceAverage" : 0,
     "priceMerchant" : 0,
@@ -14033,7 +14033,7 @@
   },
   {
     "book" : "TGS2",
-    "itemType" : "wonderousItem",
+    "itemType" : "wandItem",
     "name" : "Wand of the Frostrose",
     "priceAverage" : 0,
     "priceMerchant" : 0,
