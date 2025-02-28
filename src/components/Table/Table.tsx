@@ -85,6 +85,10 @@ const Table = () => {
       const table = useMantineReactTable({
         columns,
         data,
+        mantinePaginationProps: {
+          rowsPerPageOptions: ['100', '200', '300', '2000'],
+          withEdges: false, //note: changed from `showFirstLastButtons` in v1.0
+        },
         enableColumnResizing: true,
         enableGrouping: true,
         enableGlobalFilter: true,
