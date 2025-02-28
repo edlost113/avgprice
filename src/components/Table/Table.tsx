@@ -18,8 +18,29 @@ const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)    
     const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
     const [totalPrice, setTotalPrice] = useState(0);
+    const [filterFnType, setFilterFnType] = useState(getFilterType());
     const [list, setList] = useState<string[]>([]);
 
+    function getFilterType() {
+      let fnTypeOut = 'fuzzy';
+      let urlParams = new URLSearchParams(window.location.search);
+      
+      if ('fuzzy' === urlParams.get("filter")) {
+        fnTypeOut = 'fuzzy';
+      } else if ('contains' === urlParams.get("filter")) {
+        fnTypeOut = 'contains'
+      } else if ('startsWith' === urlParams.get("filter")) {
+        fnTypeOut = 'startsWith'
+      } else if ('endsWith' === urlParams.get("filter")) {
+        fnTypeOut = 'endsWith'
+      } else if ('equals' === urlParams.get("filter")) {
+        fnTypeOut = 'equals'
+      } else if ('between' === urlParams.get("filter")) {
+        fnTypeOut = 'between'
+      } 
+      return fnTypeOut;
+    }
+    getFilterType();
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
       switch (raw) {
@@ -97,6 +118,7 @@ const Table = () => {
         enableStickyHeader: true,
         enableStickyFooter: true,
         enableBottomToolbar: true,
+        globalFilterFn: filterFnType,
         enableDensityToggle: false,
         enableRowSelection: (row) => row.original.priceAverage > 0,
         enableBatchRowSelection: true,

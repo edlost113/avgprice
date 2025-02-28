@@ -9299,14 +9299,6 @@
     "book" : "FTD",
     "itemType" : "potionItem",
     "name" : "Potion of Dragon's Majesty",
-    "priceAverage" : 10000,
-    "priceMerchant" : 10000,
-    "priceSane" : 10000
-  },
-  {
-    "book" : "FTD",
-    "itemType" : "potionItem",
-    "name" : "Potion of Dragon’s Majesty ",
     "priceAverage" : 15000,
     "priceMerchant" : 15000,
     "priceSane" : 15000
