@@ -9,9 +9,11 @@ import {
   import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
   import { useMemo, useState, useEffect } from 'react';
-  import { Grid,Image, Anchor, Button, Box, Stack,Group, useMantineColorScheme} from '@mantine/core';
+  import { Grid,Image, Anchor, Box, Group, useMantineColorScheme} from '@mantine/core';
   import './table.css'
   import {ShoppingList} from '../Drawer/Drawer';
+
+
 const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)
     const { setColorScheme } = useMantineColorScheme();
