@@ -8,8 +8,9 @@ import {
   import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
   import { useMemo } from 'react';
-  import { Grid,Image, Anchor, Button, Box, Stack} from '@mantine/core';
+  import { Grid,Image, Anchor, Button, Box, Stack,Group} from '@mantine/core';
   import './table.css'
+  import { ColorSchemeToggle } from '../ColorSchemeToggle/ColorSchemeToggle';
   import { modals } from '@mantine/modals';
 const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)
@@ -82,13 +83,15 @@ const Table = () => {
         enableColumnResizing: true,
         enableGrouping: true,
         enableGlobalFilter: true,
-        enableStickyHeader: false,
-        enableStickyFooter: false,
-        enableBottomToolbar: false,
+        enableStickyHeader: true,
+        enableStickyFooter: true,
+        enableBottomToolbar: true,
         enableDensityToggle: false,
         enableRowSelection: true,
         getRowId: (row) => row.name,
         renderTopToolbarCustomActions: ({ table }) => (
+          <>
+          <Group>
           <Button
             onClick={() => {
               const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
@@ -100,30 +103,32 @@ const Table = () => {
                 var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
                 var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
                 var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
-                shoppingList = shoppingList + row.original.name + " Average Price: " + avgPrice + + " Sane Price: " + sanePrice + " Merchant Price: " + merchantPrice +"| ";
+                shoppingList = shoppingList + row.original.name + " Average Price: " + avgPrice + " Sane Price: " + sanePrice + " Merchant Price: " + merchantPrice +" | ";
                 totalPriceA = totalPriceA + row.original.priceAverage;
                 totalPriceS = totalPriceS + row.original.priceSane;
                 totalPriceM = totalPriceM + row.original.priceMerchant;
               });
-              shoppingList = shoppingList + " Total Average Price: " + totalPriceA +"|";
-              shoppingList = shoppingList + " Total Sane Price: " + totalPriceS +"|";
-              shoppingList = shoppingList + " Total Merchant Price: " + totalPriceM +"|";
+              shoppingList = shoppingList + " Total Average Price: " + totalPriceA +" |";
+              shoppingList = shoppingList + " Total Sane Price: " + totalPriceS +" |";
+              shoppingList = shoppingList + " Total Merchant Price: " + totalPriceM +" |";
               openModal(shoppingList);
             }}
           >
             Calculate Total Price
           </Button>
+          <ColorSchemeToggle /></Group>
+          </>
         ),
         layoutMode: 'grid-no-grow',
         initialState: {
           density: 'md',
           expanded: true,
           columnVisibility: { priceSane: false, priceMerchant: false, },
-          pagination: { pageIndex: 0, pageSize: 5000 },
+          pagination: { pageIndex: 0, pageSize: 100 },
           sorting: [{ id: 'name', desc: false }],
         },
         mantineToolbarAlertBannerBadgeProps: { color: 'blue', variant: 'outline' },
-        mantineTableContainerProps: { style: { maxHeight: 700 } },
+        mantineTableContainerProps: { style: { maxHeight: 730, } },
       });
     return <MantineReactTable table={table} />;
 };
