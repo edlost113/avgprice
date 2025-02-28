@@ -2,19 +2,22 @@ import {
     MantineReactTable,
     useMantineReactTable,
     type MRT_ColumnDef,
+    type MRT_TableInstance,
+    type MRT_RowSelectionState,
   } from 'mantine-react-table';
   import imgSrcWonderous from '../../assets/wondrousitem.png'
   import imgSrcArmor from '../../assets/armor.png'
   import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
-  import { useMemo } from 'react';
+  import { useMemo, useState, useEffect } from 'react';
   import { Grid,Image, Anchor, Button, Box, Stack,Group, useMantineColorScheme} from '@mantine/core';
   import './table.css'
-  import { ColorSchemeToggle } from '../ColorSchemeToggle/ColorSchemeToggle';
   import { modals } from '@mantine/modals';
 const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)
     const { setColorScheme } = useMantineColorScheme();
+    const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
+    const [totalPrice, setTotalPrice] = useState(0);
     setColorScheme('auto');
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
@@ -90,19 +93,21 @@ const Table = () => {
           },
         ],[]);
 
-
-    const table = useMantineReactTable({
+      const table = useMantineReactTable({
         columns,
         data,
         enableColumnResizing: true,
         enableGrouping: true,
         enableGlobalFilter: true,
+        enableTopToolbar: true,
         enableStickyHeader: true,
         enableStickyFooter: true,
         enableBottomToolbar: true,
         enableDensityToggle: false,
         enableRowSelection: (row) => row.original.priceAverage > 0,
         enableBatchRowSelection: true,
+        onRowSelectionChange: setRowSelection,
+        state: { rowSelection },
         getRowId: (row) => row.name,
         renderTopToolbarCustomActions: ({ table }) => (
           <>
@@ -144,7 +149,25 @@ const Table = () => {
         },
         mantineToolbarAlertBannerBadgeProps: { color: 'blue', variant: 'outline' },
         mantineTableContainerProps: { style: { maxHeight: 730, } },
+        mantineToolbarAlertBannerProps: {title:calcTotal("Total Price: ") },
       });
+
+      useEffect(() => {
+        //fetch data based on row selection state or something
+        const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
+        var totalPriceA = 0;
+        selectedRows.forEach(row => {
+          totalPriceA = totalPriceA + row.original.priceAverage;
+        });
+        setTotalPrice(totalPriceA);
+      }, [table.getState().rowSelection]);
+
+      function calcTotal(raw: string) {
+        var priceOut: string = raw
+        priceOut = priceOut + totalPrice + " gp"
+        return priceOut;
+      }
+    
     return <MantineReactTable table={table} />;
 };
 

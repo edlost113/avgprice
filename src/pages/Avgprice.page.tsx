@@ -11,8 +11,6 @@ export function HomePage() {
     id: 'hello-there',
     position: 'bottom-center',
     withCloseButton: true,
-    onClose: () => console.log('unmounted'),
-    onOpen: () => console.log('mounted'),
     autoClose: false,
     title: "Welcome",
     message: 'Please report duplicate items, and any other issues.',
