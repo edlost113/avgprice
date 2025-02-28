@@ -8,13 +8,14 @@ import {
   import imgSrcWeapon from '../../assets/weapon.png'
   import { data, type Items } from '../../data';
   import { useMemo } from 'react';
-  import { Grid,Image, Anchor, Button, Box, Stack,Group} from '@mantine/core';
+  import { Grid,Image, Anchor, Button, Box, Stack,Group, useMantineColorScheme} from '@mantine/core';
   import './table.css'
   import { ColorSchemeToggle } from '../ColorSchemeToggle/ColorSchemeToggle';
   import { modals } from '@mantine/modals';
 const Table = () => {
     const encode = (str: string) => encodeURIComponent(str)
-
+    const { setColorScheme } = useMantineColorScheme();
+    setColorScheme('auto');
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
       switch (raw) {
@@ -62,17 +63,27 @@ const Table = () => {
             accessorKey: 'priceAverage',
             Cell: ({ cell }) => (
               <>
-              {cell.row.original.priceAverage ?  <Box><strong style={{ color: 'skyblue' }}>{cell.row.original.priceAverage} gp</strong></Box>:<Box><strong style={{ color: 'red' }}>Unknown</strong></Box>}
+              {cell.row.original.priceAverage ?  <Box><strong>{cell.row.original.priceAverage} gp</strong></Box>:<Box><strong style={{ color: 'red' }}>Unknown</strong></Box>}
               </>
             ),
           },
           {
             header: 'Merchant Price',
             accessorKey: 'priceMerchant',
+            Cell: ({ cell }) => (
+              <>
+              {cell.row.original.priceMerchant ?  <Box><strong>{cell.row.original.priceMerchant} gp</strong></Box>:<Box><strong style={{ color: 'red' }}>Unknown</strong></Box>}
+              </>
+            ),
           },
           {
             header: 'Sane Price',
             accessorKey: 'priceSane',
+            Cell: ({ cell }) => (
+              <>
+              {cell.row.original.priceSane ?  <Box><strong>{cell.row.original.priceSane} gp</strong></Box>:<Box><strong style={{ color: 'red' }}>Unknown</strong></Box>}
+              </>
+            ),
           },
         ],[]);
 
@@ -116,7 +127,7 @@ const Table = () => {
           >
             Calculate Total Price
           </Button>
-          <ColorSchemeToggle /></Group>
+          </Group>
           </>
         ),
         layoutMode: 'grid-no-grow',

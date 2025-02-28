@@ -7,6 +7,7 @@ import { Router } from './Router';
 import { theme } from './theme';
 import { Notifications } from '@mantine/notifications';
 import { ModalsProvider } from '@mantine/modals';
+import { Button, Group } from '@mantine/core';
 
 export default function App() {
   return (
