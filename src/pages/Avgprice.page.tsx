@@ -24,7 +24,7 @@ export function HomePage() {
       <Image  src={dancingWizard} style={{width: '32px', height:'32px', transform: 'scaleX(-1)'}}></Image>
       <Box style={{width:'90%'}}>Same as <strong>!avgprice</strong>. First it comapares the price of the item in <strong>!sane</strong>
       with the price of the item in <strong>!price</strong>. If the item exists in both it will average the two prices. If it only
-      exists in one of them, it uses that price. If it does not exist in either it will use dungeonsports.
+      exists in one of them, it uses that price. If it does not exist in either it will use the price found on dungeonsports.
       </Box>
       <Image  src={dancingWizard} style={{width: '32px', height:'32px'}}></Image>
       </Group>
