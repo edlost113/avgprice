@@ -1,12 +1,24 @@
 import Table from '../components/Table/Table'
 import dancingWizard from '../assets/dancingwizard.gif'
-import { Box, Group, Stack, Image } from '@mantine/core';
+import { Box, Group, useMantineColorScheme, Image } from '@mantine/core';
 import { IconSwords } from '@tabler/icons-react';
 import { notifications } from '@mantine/notifications'
 import './avgprice.page.css'
 
 export function HomePage() {
+ const { setColorScheme } = useMantineColorScheme();
 
+  function setStuff() {
+    let urlParams = new URLSearchParams(window.location.search);
+    if ('light' === urlParams.get("scheme")) {
+      setColorScheme('light');
+    } else if ('dark' === urlParams.get("scheme")) {
+      setColorScheme('dark');
+    } else {
+      setColorScheme('auto');
+    }
+  }
+  setStuff();
   notifications.show({
     id: 'hello-there',
     position: 'bottom-center',
