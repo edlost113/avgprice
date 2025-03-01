@@ -9488,14 +9488,6 @@
     "priceSane" : 200
   },
   {
-    "book" : "EGW",
-    "itemType" : "potionItem",
-    "name" : "Potion of Possibility",
-    "priceAverage" : 1900,
-    "priceMerchant" : 1900,
-    "priceSane" : 1900
-  },
-  {
     "book" : "PaBTSO",
     "itemType" : "potionItem",
     "name" : "Potion of Psionic Fortitude",
@@ -9562,7 +9554,7 @@
   {
     "book" : "PUN",
     "itemType" : "potionItem",
-    "name" : "Potion of possibility",
+    "name" : "Potion of Possibility",
     "priceAverage" : 1900,
     "priceMerchant" : 1900,
     "priceSane" : 1900
