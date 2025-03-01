@@ -9376,20 +9376,12 @@
     "priceSane" : 8000
   },
   {
-    "book" : "DMG",
-    "itemType" : "potionItem",
-    "name" : "Potion of Greater Healing",
-    "priceAverage" : 150,
-    "priceMerchant" : 150,
-    "priceSane" : 150
-  },
-  {
     "book" : "DMG 187-188",
     "itemType" : "potionItem",
-    "name" : "Potion of Greater healing",
-    "priceAverage" : 300,
+    "name" : "Potion of Greater Healing",
+    "priceAverage" : 225,
     "priceMerchant" : 300,
-    "priceSane" : 300
+    "priceSane" : 150
   },
   {
     "book" : "DMG",
@@ -9499,9 +9491,9 @@
     "book" : "EGW",
     "itemType" : "potionItem",
     "name" : "Potion of Possibility",
-    "priceAverage" : 200,
-    "priceMerchant" : 200,
-    "priceSane" : 200
+    "priceAverage" : 1900,
+    "priceMerchant" : 1900,
+    "priceSane" : 1900
   },
   {
     "book" : "PaBTSO",
@@ -9531,17 +9523,9 @@
     "book" : "DMG",
     "itemType" : "potionItem",
     "name" : "Potion of Superior Healing",
-    "priceAverage" : 450,
-    "priceMerchant" : 450,
-    "priceSane" : 450
-  },
-  {
-    "book" : "DMG 187-188",
-    "itemType" : "potionItem",
-    "name" : "Potion of Superior healing ",
-    "priceAverage" : 750,
+    "priceAverage" : 600,
     "priceMerchant" : 750,
-    "priceSane" : 750
+    "priceSane" : 450
   },
   {
     "book" : "DMG 187-188",
@@ -9571,17 +9555,9 @@
     "book" : "DMG",
     "itemType" : "potionItem",
     "name" : "Potion of Water Breathing",
-    "priceAverage" : 180,
-    "priceMerchant" : 180,
-    "priceSane" : 180
-  },
-  {
-    "book" : "DMG",
-    "itemType" : "potionItem",
-    "name" : "Potion of Waterbreathing",
-    "priceAverage" : 400,
+    "priceAverage" : 290,
     "priceMerchant" : 400,
-    "priceSane" : 400
+    "priceSane" : 180
   },
   {
     "book" : "PUN",
@@ -13032,7 +13008,7 @@
     "priceSane" : 55000
   },
   {
-    "book" : "DMG",
+    "book" : "51000",
     "itemType" : "weaponItem",
     "name" : "Sword of Answering (longsword)",
     "priceAverage" : 43500,
