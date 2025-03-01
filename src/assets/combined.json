@@ -1136,7 +1136,7 @@
     "priceSane" : 12000
   },
   {
-    "book" : "DMG 153-154",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Bag of Holding",
     "priceAverage" : 2250,
@@ -2584,7 +2584,7 @@
     "priceSane" : 5000
   },
   {
-    "book" : "DMG 158-159",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Cloak of Invisibility",
     "priceAverage" : 67000,
@@ -2936,7 +2936,7 @@
     "priceSane" : 6000
   },
   {
-    "book" : "TCE 124-125",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Crystalline Chronicle",
     "priceAverage" : 6500,
@@ -2944,7 +2944,7 @@
     "priceSane" : 6500
   },
   {
-    "book" : "DMG 159-160",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Cube of Force",
     "priceAverage" : 10500,
@@ -2992,7 +2992,7 @@
     "priceSane" : 250
   },
   {
-    "book" : "DMG 160-161",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Daern's Instant Fortress",
     "priceAverage" : 40000,
@@ -3168,7 +3168,7 @@
     "priceSane" : 8000
   },
   {
-    "book" : "DMG 161-162",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Deck of Illusions",
     "priceAverage" : 3285,
@@ -3184,7 +3184,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG 162-164",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Deck of Many Things",
     "priceAverage" : 250000,
@@ -4592,7 +4592,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG 170-171",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Folding Boat",
     "priceAverage" : 7375,
@@ -5920,7 +5920,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG 174-175",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Horn of Blasting",
     "priceAverage" : 1475,
@@ -6408,7 +6408,7 @@
     "priceSane" : 125000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Absorption",
     "priceAverage" : 11200,
@@ -6416,7 +6416,7 @@
     "priceSane" : 2400
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Agility",
     "priceAverage" : 5500,
@@ -6424,7 +6424,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Awareness",
     "priceAverage" : 8000,
@@ -6432,7 +6432,7 @@
     "priceSane" : 12000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Fortitude",
     "priceAverage" : 5500,
@@ -6440,7 +6440,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Greater Absorption",
     "priceAverage" : 45500,
@@ -6456,7 +6456,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Insight",
     "priceAverage" : 5500,
@@ -6464,7 +6464,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Intellect",
     "priceAverage" : 5500,
@@ -6480,7 +6480,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Leadership",
     "priceAverage" : 5500,
@@ -6488,7 +6488,7 @@
     "priceSane" : 3000
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Mastery",
     "priceAverage" : 37500,
@@ -6504,7 +6504,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Protection",
     "priceAverage" : 2400,
@@ -6512,7 +6512,7 @@
     "priceSane" : 1200
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Regeneration",
     "priceAverage" : 29500,
@@ -6528,7 +6528,7 @@
     "priceSane" : 500
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Reserve",
     "priceAverage" : 5250,
@@ -6544,7 +6544,7 @@
     "priceSane" : 750
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Strength",
     "priceAverage" : 5500,
@@ -6560,7 +6560,7 @@
     "priceSane" : 600
   },
   {
-    "book" : "DMG 176-177",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Ioun Stone: Sustenance",
     "priceAverage" : 2000,
@@ -7488,7 +7488,7 @@
     "priceSane" : 36000
   },
   {
-    "book" : "DMG 180-181",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Manual of Golems",
     "priceAverage" : 22000,
@@ -7896,7 +7896,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG 181-182",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Mirror of Life Trapping",
     "priceAverage" : 34000,
@@ -9208,7 +9208,7 @@
     "priceSane" : 6500
   },
   {
-    "book" : "DMG 185-187",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Portable Hole",
     "priceAverage" : 6500,
@@ -9376,7 +9376,7 @@
     "priceSane" : 8000
   },
   {
-    "book" : "DMG 187-188",
+    "book" : "DMG",
     "itemType" : "potionItem",
     "name" : "Potion of Greater Healing",
     "priceAverage" : 225,
@@ -9392,7 +9392,7 @@
     "priceSane" : 270
   },
   {
-    "book" : "DMG 187-188",
+    "book" : "DMG",
     "itemType" : "potionItem",
     "name" : "Potion of Healing",
     "priceAverage" : 50,
@@ -9520,7 +9520,7 @@
     "priceSane" : 450
   },
   {
-    "book" : "DMG 187-188",
+    "book" : "DMG",
     "itemType" : "potionItem",
     "name" : "Potion of Supreme Healing",
     "priceAverage" : 1425,
@@ -9744,7 +9744,7 @@
     "priceSane" : 25000
   },
   {
-    "book" : "DMG 188-189",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Quaal's Feather Token",
     "priceAverage" : 1000,
@@ -10520,7 +10520,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "DMG 193-194",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Robe of Eyes",
     "priceAverage" : 17500,
@@ -10768,7 +10768,7 @@
     "priceSane" : 2000
   },
   {
-    "book" : "DMG 197-199",
+    "book" : "DMG",
     "itemType" : "wonderousItem",
     "name" : "Rope of Entanglement",
     "priceAverage" : 2500,
@@ -12568,7 +12568,7 @@
     "priceSane" : 16000
   },
   {
-    "book" : "DMG 204-205",
+    "book" : "DMG",
     "itemType" : "weaponItem",
     "name" : "Staff of Thunder and Lightning",
     "priceAverage" : 20000,
