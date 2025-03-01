@@ -5,7 +5,7 @@ import {
   type MRT_ColumnDef,
   type MRT_RowSelectionState,
 } from 'mantine-react-table';
-import { Anchor, Box, Grid, Group, Image, TextInput } from '@mantine/core';
+import { Anchor, Box, Grid, Group, Image, Stack, TextInput } from '@mantine/core';
 import imgSrcArmor from '../../assets/armor.png';
 import imgSrcPotion from '../../assets/potion.png';
 import imgSrcRing from '../../assets/ring.png';
@@ -248,6 +248,16 @@ const Table = () => {
           <ShoppingList content={list} />
         </Group>
       </>
+    ),
+    renderEmptyRowsFallback: (props) => (
+      <Stack gap="xs" align="center" justify="center">
+      <Box fz="lg">
+        <strong>YOU FAILED YOUR INVESTIGATION CHECK.</strong>
+      </Box>
+      <Box fz="sm" color="gray">
+      (NO MAGIC ITEMS FOUND WITH THOSE FILTERS )
+      </Box>
+      </Stack>
     ),
     layoutMode: 'grid-no-grow',
     initialState: {
