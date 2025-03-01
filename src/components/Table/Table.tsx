@@ -251,12 +251,12 @@ const Table = () => {
     ),
     renderEmptyRowsFallback: (props) => (
       <Stack gap="xs" align="center" justify="center">
-      <Box fz="lg">
-        <strong>YOU FAILED YOUR INVESTIGATION CHECK.</strong>
-      </Box>
-      <Box fz="sm" color="gray">
-      (NO MAGIC ITEMS FOUND WITH THOSE FILTERS )
-      </Box>
+        <Box fz="lg">
+          <strong>YOU FAILED YOUR INVESTIGATION CHECK.</strong>
+        </Box>
+        <Box fz="sm" color="gray">
+          (NO MAGIC ITEMS FOUND WITH THOSE FILTERS )
+        </Box>
       </Stack>
     ),
     layoutMode: 'grid-no-grow',
