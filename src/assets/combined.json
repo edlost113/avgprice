@@ -312,7 +312,7 @@
     "priceSane" : 10000
   },
   {
-    "book" : "IDRotF",
+    "book" : "IDRF",
     "itemType" : "wonderousItem",
     "name" : "Abracadabrus",
     "priceAverage" : 100,
@@ -2312,7 +2312,7 @@
     "priceSane" : 3500
   },
   {
-    "book" : "TCE 122-123",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Cauldron of Rebirth",
     "priceAverage" : 10000,
@@ -4040,7 +4040,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE 126-127",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Eldritch Claw Tattoo",
     "priceAverage" : 500,
@@ -5504,7 +5504,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE 128-129",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Heart Weaver's Primer",
     "priceAverage" : 3000,
@@ -6576,7 +6576,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "IDRotF",
+    "book" : "IDRF",
     "itemType" : "wonderousItem",
     "name" : "Iron Ball",
     "priceAverage" : 1,
@@ -6608,7 +6608,7 @@
     "priceSane" : 14000
   },
   {
-    "book" : "PA 224-225",
+    "book" : "PA",
     "itemType" : "wonderousItem",
     "name" : "Ironfang (war pick)",
     "priceAverage" : 76000,
@@ -6848,7 +6848,7 @@
     "priceSane" : 4000
   },
   {
-    "book" : "SKT 234-235",
+    "book" : "SKT",
     "itemType" : "wonderousItem",
     "name" : "Korolnor Scepter (club)",
     "priceAverage" : 63000,
@@ -6904,7 +6904,7 @@
     "priceSane" : 5000
   },
   {
-    "book" : "IDRF 314-315",
+    "book" : "IDRF",
     "itemType" : "wonderousItem",
     "name" : "Lantern of Tracking",
     "priceAverage" : 75,
@@ -7192,7 +7192,7 @@
     "priceSane" : 300
   },
   {
-    "book" : "PA 223-224",
+    "book" : "PA",
     "itemType" : "wonderousItem",
     "name" : "Lost Crown of Besilmer",
     "priceAverage" : 23000,
@@ -8656,7 +8656,7 @@
     "priceSane" : 4000
   },
   {
-    "book" : "IDRotF",
+    "book" : "IDRF",
     "itemType" : "wonderousItem",
     "name" : "Orc Stone",
     "priceAverage" : 1000,
@@ -8664,7 +8664,7 @@
     "priceSane" : 1000
   },
   {
-    "book" : "60000",
+    "book" : "DMG",
     "itemType" : "weaponItem",
     "name" : "Orcsplitter (greataxe)",
     "priceAverage" : 60000,
@@ -8752,7 +8752,7 @@
     "priceSane" : 1100
   },
   {
-    "book" : "TCE 133-134",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Outer Essence Shard",
     "priceAverage" : 2000,
@@ -8840,7 +8840,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "SKT 235-236",
+    "book" : "SKT",
     "itemType" : "wonderousItem",
     "name" : "Pennant of the Vind Rune",
     "priceAverage" : 13000,
@@ -9656,7 +9656,7 @@
     "priceSane" : 4000
   },
   {
-    "book" : "IDRotF",
+    "book" : "IDRF",
     "itemType" : "wonderousItem",
     "name" : "Professor Skant",
     "priceAverage" : 50,
@@ -9672,7 +9672,7 @@
     "priceSane" : 250
   },
   {
-    "book" : "ERLW 278; TCE 134",
+    "book" : "ERLW; TCE",
     "itemType" : "wonderousItem",
     "name" : "Prosthetic Limb",
     "priceAverage" : 100,
@@ -11160,7 +11160,7 @@
     "priceSane" : 32000
   },
   {
-    "book" : "ERLW 278-279",
+    "book" : "ERLW",
     "itemType" : "wonderousItem",
     "name" : "Scribe's Pen",
     "priceAverage" : 60,
@@ -11216,7 +11216,7 @@
     "priceSane" : 150000
   },
   {
-    "book" : "IDRF 315-316",
+    "book" : "IDRF",
     "itemType" : "scrollItem",
     "name" : "Scroll of the Comet",
     "priceAverage" : 250000,
@@ -11352,7 +11352,7 @@
     "priceSane" : 0
   },
   {
-    "book" : "TCE 134-135",
+    "book" : "TCE",
     "itemType" : "wonderousItem",
     "name" : "Shadowfell Brand Tattoo",
     "priceAverage" : 1100,
@@ -11448,7 +11448,7 @@
     "priceSane" : 50
   },
   {
-    "book" : "IDRotF",
+    "book" : "IDRF",
     "itemType" : "armorItem",
     "name" : "Shield Guardian Amulet",
     "priceAverage" : 500,
@@ -13000,7 +13000,7 @@
     "priceSane" : 55000
   },
   {
-    "book" : "51000",
+    "book" : "DMG",
     "itemType" : "weaponItem",
     "name" : "Sword of Answering (longsword)",
     "priceAverage" : 43500,
