@@ -64,11 +64,15 @@ const Table = () => {
         totalPriceM = totalPriceM + merchantPrice;
         totalQuantity = totalQuantity + quantity;
       });
-      shoppingList.push( "________________________");
-      shoppingList.push( totalQuantity + " Total Items Selected");
-      shoppingList.push( " Total Average Price: " + totalPriceA);
-      shoppingList.push(" Total Sane Price: " + totalPriceS);
-      shoppingList.push(" Total Merchant Price: " + totalPriceM);
+      if (totalQuantity === 0) {
+        shoppingList.push("No Items Selected");
+      } else {
+        shoppingList.push( "________________________");
+        shoppingList.push( totalQuantity + " Total Items Selected");
+        shoppingList.push( " Total Average Price: " + totalPriceA);
+        shoppingList.push(" Total Sane Price: " + totalPriceS);
+        shoppingList.push(" Total Merchant Price: " + totalPriceM);
+      }
       setTotalPrice(totalPriceA);
       setList(shoppingList);
     }
