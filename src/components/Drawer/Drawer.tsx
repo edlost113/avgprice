@@ -1,15 +1,16 @@
+import { Box, Button, Drawer, Stack } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
-import { Drawer, Button, Box,Stack } from '@mantine/core';
 
-
-function ShoppingList({ content }:any) {
+function ShoppingList({ content }: any) {
   const [opened, { open, close }] = useDisclosure(false);
 
   return (
     <>
       <Drawer position="top" opened={opened} onClose={close} title="Shopping List">
         <Stack gap="xs" justify="flex-start">
-        {content.map((row: string) => <Box key={row}>{row}</Box>)}
+          {content.map((row: string) => (
+            <Box key={row}>{row}</Box>
+          ))}
         </Stack>
       </Drawer>
 
@@ -20,4 +21,4 @@ function ShoppingList({ content }:any) {
   );
 }
 
-export { ShoppingList }
+export { ShoppingList };
