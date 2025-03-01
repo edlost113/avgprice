@@ -13,7 +13,7 @@ import {
   import imgSrcWand from '../../assets/wand.png'
   import { data, type Items } from '../../data';
   import { useMemo, useState, useEffect } from 'react';
-  import { Grid,Image, Anchor, Box, Group} from '@mantine/core';
+  import { Grid,Image, Anchor, Box, Group, TextInput} from '@mantine/core';
   import './table.css'
   import {ShoppingList} from '../Drawer/Drawer';
 
@@ -45,6 +45,34 @@ const Table = () => {
       return fnTypeOut;
     }
     getFilterType();
+
+    function buildShoppingList(selectedRows:any[]) {
+      var shoppingList: [string] = [""];
+      var totalPriceA = 0;
+      var totalPriceS = 0;
+      var totalPriceM = 0;
+      var totalQuantity = 0;
+
+      selectedRows.forEach(row => {
+        const quantity = row.original.quantity ?? 1;
+        var avgPrice = (row.original.priceAverage) * quantity
+        var sanePrice = (row.original.priceSane) * quantity
+        var merchantPrice = (row.original.priceMerchant)* quantity
+        shoppingList.push(quantity+"x ("+row.original.name + "): Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);        
+        totalPriceA = totalPriceA + avgPrice;
+        totalPriceS = totalPriceS + sanePrice;
+        totalPriceM = totalPriceM + merchantPrice;
+        totalQuantity = totalQuantity + quantity;
+      });
+      shoppingList.push( "________________________");
+      shoppingList.push( totalQuantity + " Total Items Selected");
+      shoppingList.push( " Total Average Price: " + totalPriceA);
+      shoppingList.push(" Total Sane Price: " + totalPriceS);
+      shoppingList.push(" Total Merchant Price: " + totalPriceM);
+      setTotalPrice(totalPriceA);
+      setList(shoppingList);
+    }
+
     function renderSwitch(raw: string) {
       var imgOut: string = imgSrcWonderous
       switch (raw) {
@@ -67,13 +95,31 @@ const Table = () => {
             grow: true,
             Cell: ({ cell }) => (
               <>
-              <Grid>
-              <Image className="imgIcon" src={renderSwitch(cell.row.original.itemType)}></Image>
-              &nbsp;&nbsp;&nbsp;
-              <Anchor underline="hover" href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(cell.getValue<string>())}`} target="_blank" rel="noreferrer">
-              {cell.getValue<string>()}
-              </Anchor>
-              </Grid>
+                <Grid>
+                <TextInput  
+                size="xs" 
+                style={{ width: 38 }}
+                radius="xs"
+                onChange={(e) => {
+                const quantity = parseInt(e.currentTarget.value, 10) || 0;
+                cell.row.original.quantity = quantity;
+                if (quantity > 0) {
+                  cell.row.toggleSelected(true);
+                  
+                } else {
+                  cell.row.toggleSelected(false);
+                }
+                const selectedRows = table.getSelectedRowModel().rows;
+                buildShoppingList(selectedRows);
+                }}
+                />
+                &nbsp;&nbsp;&nbsp;
+                <Image className="imgIcon" src={renderSwitch(cell.row.original.itemType)}></Image>
+                &nbsp;&nbsp;&nbsp;
+                <Anchor underline="hover" href={`https://www.dndbeyond.com/magic-items?filter-partnered-content=t&filter-search=${encode(cell.getValue<string>())}`} target="_blank" rel="noreferrer">
+                {cell.getValue<string>()}
+                </Anchor>
+                </Grid>
               </>
             ),
           },
@@ -132,7 +178,8 @@ const Table = () => {
         enableRowSelection: (row) => row.original.priceAverage > 0,
         enableBatchRowSelection: true,
         onRowSelectionChange: setRowSelection,
-        state: { rowSelection },
+        paginationDisplayMode: 'default',
+        state: { rowSelection, isLoading: false },
         getRowId: (row) => row.name,
         renderTopToolbarCustomActions: ({ table }) => (
           <>
@@ -157,26 +204,7 @@ const Table = () => {
       useEffect(() => {
         //fetch data based on row selection state or something
         const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
-        var shoppingList: [string] = [""];
-              var totalPriceA = 0;
-              var totalPriceS = 0;
-              var totalPriceM = 0;
-              selectedRows.forEach(row => {
-                const quantity = row.original.quantity ?? 1;
-                var avgPrice = (row.original.priceAverage) * quantity
-                var sanePrice = (row.original.priceSane) * quantity
-                var merchantPrice = (row.original.priceMerchant)* quantity
-                shoppingList.push(quantity+"x ("+row.original.name + "): Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
-                totalPriceA = totalPriceA + row.original.priceAverage;
-                totalPriceS = totalPriceS + row.original.priceSane;
-                totalPriceM = totalPriceM + row.original.priceMerchant;
-              });
-              shoppingList.push( "________________________");
-              shoppingList.push( " Total Average Price: " + totalPriceA);
-              shoppingList.push(" Total Sane Price: " + totalPriceS);
-              shoppingList.push(" Total Merchant Price: " + totalPriceM);
-              setTotalPrice(totalPriceA);
-              setList(shoppingList);
+        buildShoppingList(selectedRows);
       }, [table.getState().rowSelection]);
 
       function calcTotal(raw: string) {
