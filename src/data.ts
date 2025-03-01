@@ -11,4 +11,5 @@ export type Items = {
     priceAverage: number
     priceMerchant: number
     priceSane: number
+    quantity?: number
 }

@@ -162,10 +162,11 @@ const Table = () => {
               var totalPriceS = 0;
               var totalPriceM = 0;
               selectedRows.forEach(row => {
-                var avgPrice = (row.original.priceAverage) ? row.original.priceAverage : "Unknown" 
-                var sanePrice = (row.original.priceSane) ? row.original.priceSane : "Unknown" 
-                var merchantPrice = (row.original.priceMerchant) ? row.original.priceMerchant : "Unknown" 
-                shoppingList.push(row.original.name + ": Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
+                const quantity = row.original.quantity ?? 1;
+                var avgPrice = (row.original.priceAverage) * quantity
+                var sanePrice = (row.original.priceSane) * quantity
+                var merchantPrice = (row.original.priceMerchant)* quantity
+                shoppingList.push(quantity+"x ("+row.original.name + "): Average Price: " + avgPrice + ",     Sane Price: " + sanePrice + ",     Merchant Price: " + merchantPrice);
                 totalPriceA = totalPriceA + row.original.priceAverage;
                 totalPriceS = totalPriceS + row.original.priceSane;
                 totalPriceM = totalPriceM + row.original.priceMerchant;
