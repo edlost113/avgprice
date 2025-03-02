@@ -7,13 +7,13 @@ export const encode = (str: string) => encodeURIComponent(str);
  * Otherwise return null.
  */
 export function parseOrNull(raw: unknown) {
-  if (!raw) return null;
-
+  if (!raw) {
+    return null;
+  }
   if (typeof raw === 'string') {
     try {
       return JSON.parse(raw);
     } catch (e) {
-      console.warn(`Failed to parse: ${raw.substring(0, 50)}`);
       return null;
     }
   }
@@ -21,8 +21,7 @@ export function parseOrNull(raw: unknown) {
   return null;
 }
 function getRand(min: number, max: number): number {
-  let num = (Math.floor(Math.random() * (max - min + 1)) + min) * 1000;
-  console.log(num);
+  const num = (Math.floor(Math.random() * (max - min + 1)) + min) * 1000;
   return num;
 }
 export const random = (min: number, max: number): number => getRand(min, max);

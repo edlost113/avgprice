@@ -4,22 +4,20 @@ import soundFile from '../../assets/craig.mp3'; // Make sure to replace this wit
 import setRandomInterval from '../../utils';
 
 export const Sound = () => {
-  let [playbackRate, setPlaybackRate] = useState(0.75);
+  const [playbackRate, setPlaybackRate] = useState(0.75);
 
   const [play] = useSound(soundFile, {
     playbackRate,
     interrupt: true,
   });
 
-  let playSound: Boolean = false;
+  let playSound: boolean = false;
   useEffect(() => {
     if (!playSound) {
       playSound = true;
       setRandomInterval(
         () => {
           setPlaybackRate(playbackRate + 0.1);
-          const timestamp = new Date().toLocaleString();
-          console.log(timestamp);
           play();
         },
         30,
@@ -28,5 +26,5 @@ export const Sound = () => {
     }
   }, [play]);
 
-  return <div id="sound"></div>;
+  return <div id="sound" />;
 };

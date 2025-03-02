@@ -23,73 +23,67 @@ const Table = () => {
   const encode = (str: string) => encodeURIComponent(str);
   const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
   const [totalPrice, setTotalPrice] = useState(0);
-  const [filterFnType, setFilterFnType] = useState(getFilterType());
+  //const [filterFnType, setFilterFnType] = useState(getFilterType());
   const [list, setList] = useState<string[]>([]);
 
   function getFilterType() {
     let fnTypeOut = 'fuzzy';
-    let urlParams = new URLSearchParams(window.location.search);
+    const urlParams = new URLSearchParams(window.location.search);
 
-    if ('fuzzy' === urlParams.get('filter')) {
+    const filter = urlParams.get('filter');
+    if (filter === 'fuzzy') {
       fnTypeOut = 'fuzzy';
-    } else if ('contains' === urlParams.get('filter')) {
+    } else if (filter === 'contains') {
       fnTypeOut = 'contains';
-    } else if ('startsWith' === urlParams.get('filter')) {
+    } else if (filter === 'startsWith') {
       fnTypeOut = 'startsWith';
-    } else if ('endsWith' === urlParams.get('filter')) {
+    } else if (filter === 'endsWith') {
       fnTypeOut = 'endsWith';
-    } else if ('equals' === urlParams.get('filter')) {
+    } else if (filter === 'equals') {
       fnTypeOut = 'equals';
-    } else if ('between' === urlParams.get('filter')) {
+    } else if (filter === 'between') {
       fnTypeOut = 'between';
     }
     return fnTypeOut;
   }
-  getFilterType();
+
+  const filterFnType = getFilterType();
 
   function buildShoppingList(selectedRows: any[]) {
-    var shoppingList: [string] = [''];
-    var totalPriceA = 0;
-    var totalPriceS = 0;
-    var totalPriceM = 0;
-    var totalQuantity = 0;
+    const shoppingList: [string] = [''];
+    let totalPriceA = 0;
+    let totalPriceS = 0;
+    let totalPriceM = 0;
+    let totalQuantity = 0;
 
     selectedRows.forEach((row) => {
       const quantity = row.original.quantity ?? 1;
-      var avgPrice = row.original.priceAverage * quantity;
-      var sanePrice = row.original.priceSane * quantity;
-      var merchantPrice = row.original.priceMerchant * quantity;
+      const avgPrice = row.original.priceAverage * quantity;
+      const sanePrice = row.original.priceSane * quantity;
+      const merchantPrice = row.original.priceMerchant * quantity;
       shoppingList.push(
-        quantity +
-          'x (' +
-          row.original.name +
-          '): Average Price: ' +
-          avgPrice +
-          ',     Sane Price: ' +
-          sanePrice +
-          ',     Merchant Price: ' +
-          merchantPrice
+        `${quantity}x (${row.original.name}): Average Price: ${avgPrice}, Sane Price: ${sanePrice}, Merchant Price: ${merchantPrice}`
       );
-      totalPriceA = totalPriceA + avgPrice;
-      totalPriceS = totalPriceS + sanePrice;
-      totalPriceM = totalPriceM + merchantPrice;
-      totalQuantity = totalQuantity + quantity;
+      totalPriceA += avgPrice;
+      totalPriceS += sanePrice;
+      totalPriceM += merchantPrice;
+      totalQuantity += quantity;
     });
     if (totalQuantity === 0) {
       shoppingList.push('No Items Selected');
     } else {
       shoppingList.push('________________________');
-      shoppingList.push(totalQuantity + ' Total Items Selected');
-      shoppingList.push(' Total Average Price: ' + totalPriceA);
-      shoppingList.push(' Total Sane Price: ' + totalPriceS);
-      shoppingList.push(' Total Merchant Price: ' + totalPriceM);
+      shoppingList.push(`${totalQuantity} Total Items Selected`);
+      shoppingList.push(` Total Average Price: ${totalPriceA}`);
+      shoppingList.push(` Total Sane Price: ${totalPriceS}`);
+      shoppingList.push(` Total Merchant Price: ${totalPriceM}`);
     }
     setTotalPrice(totalPriceA);
     setList(shoppingList);
   }
 
   function renderSwitch(raw: string) {
-    var imgOut: string = imgSrcWonderous;
+    let imgOut: string = imgSrcWonderous;
     switch (raw) {
       case 'wonderousItem':
         imgOut = imgSrcWonderous;
@@ -144,7 +138,7 @@ const Table = () => {
                 }}
               />
               &nbsp;&nbsp;&nbsp;
-              <Image className="imgIcon" src={renderSwitch(cell.row.original.itemType)}></Image>
+              <Image className="imgIcon" src={renderSwitch(cell.row.original.itemType)} />
               &nbsp;&nbsp;&nbsp;
               <Anchor
                 underline="hover"
@@ -242,14 +236,14 @@ const Table = () => {
     paginationDisplayMode: 'default',
     state: { rowSelection, isLoading: false },
     getRowId: (row) => row.name,
-    renderTopToolbarCustomActions: ({ table }) => (
+    renderTopToolbarCustomActions: () => (
       <>
         <Group>
           <ShoppingList content={list} />
         </Group>
       </>
     ),
-    renderEmptyRowsFallback: (props) => (
+    renderEmptyRowsFallback: () => (
       <Stack gap="xs" align="center" justify="center">
         <Box fz="lg">
           <strong>YOU FAILED YOUR INVESTIGATION CHECK.</strong>
@@ -279,9 +273,7 @@ const Table = () => {
   }, [table.getState().rowSelection]);
 
   function calcTotal(raw: string) {
-    var priceOut: string = raw;
-    priceOut = priceOut + totalPrice + ' gp';
-    return priceOut;
+    return `${raw} ${totalPrice} gp`;
   }
 
   return <MantineReactTable table={table} />;
