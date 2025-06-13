@@ -268,7 +268,7 @@ const Table = () => {
   });
 
   function fetchData() {
-    fetch('./dist/assets/combined.json')
+    fetch('./assets/combined.json')
       .then((response) => response.json())
       .then((dataLoc) => {
         setData(dataLoc);
