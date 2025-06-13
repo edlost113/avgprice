@@ -13,13 +13,14 @@ import imgSrcSroll from '../../assets/scroll.png';
 import imgSrcWand from '../../assets/wand.png';
 import imgSrcWeapon from '../../assets/weapon.png';
 import imgSrcWonderous from '../../assets/wondrousitem.png';
-import { data, type Items } from '../../data';
+import { type Items } from '../../data';
 
 import './table.css';
 
 import { ShoppingList } from '../Drawer/Drawer';
 
 const Table = () => {
+  const [data, setData] = useState<Items[]>([]);
   const encode = (str: string) => encodeURIComponent(str);
   const [rowSelection, setRowSelection] = useState<MRT_RowSelectionState>({}); //ts type available
   const [totalPrice, setTotalPrice] = useState(0);
@@ -266,6 +267,21 @@ const Table = () => {
     mantineToolbarAlertBannerProps: { title: calcTotal('Total Price: ') },
   });
 
+  function fetchData() {
+    fetch("./dist/assets/combined.json")
+      .then((response) => response.json())
+      .then((dataLoc) => {
+        console.log(dataLoc);
+        setData(dataLoc);
+      });
+  }
+
+  useEffect(() => {
+        // call api or anything
+        fetchData();
+        console.log("loaded");
+  }, [""]);
+  
   useEffect(() => {
     //fetch data based on row selection state or something
     const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
