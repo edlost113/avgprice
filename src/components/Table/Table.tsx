@@ -271,7 +271,6 @@ const Table = () => {
     fetch('./dist/assets/combined.json')
       .then((response) => response.json())
       .then((dataLoc) => {
-        console.log(dataLoc);
         setData(dataLoc);
       });
   }
@@ -279,7 +278,6 @@ const Table = () => {
   useEffect(() => {
     // call api or anything
     fetchData();
-    console.log('loaded');
   }, ['']);
 
   useEffect(() => {
