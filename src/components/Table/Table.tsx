@@ -268,7 +268,7 @@ const Table = () => {
   });
 
   function fetchData() {
-    fetch("./dist/assets/combined.json")
+    fetch('./dist/assets/combined.json')
       .then((response) => response.json())
       .then((dataLoc) => {
         console.log(dataLoc);
@@ -277,11 +277,11 @@ const Table = () => {
   }
 
   useEffect(() => {
-        // call api or anything
-        fetchData();
-        console.log("loaded");
-  }, [""]);
-  
+    // call api or anything
+    fetchData();
+    console.log('loaded');
+  }, ['']);
+
   useEffect(() => {
     //fetch data based on row selection state or something
     const selectedRows = table.getSelectedRowModel().rows; //or read entire rows
